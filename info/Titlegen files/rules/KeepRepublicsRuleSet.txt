@@ -1,0 +1,28 @@
+﻿# List of file names this script requires.
+required_rules = {
+	VanillaRuleSet
+}
+
+# List of titles to ignore during history creation.
+ignored_titles = {
+	
+	# Republics
+	k_pisa
+	d_pisa
+	c_pisa
+	c_piombino
+	c_arborea
+	c_cagliari
+	
+	k_venice
+	d_venice
+	c_venezia
+	
+	k_genoa
+	d_genoa
+	c_genoa
+	c_nice
+	
+	d_gotland
+	c_gotland
+}

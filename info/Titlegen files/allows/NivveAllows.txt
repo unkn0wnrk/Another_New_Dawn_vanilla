@@ -1,0 +1,48 @@
+﻿		OR = {
+			AND = {
+			$IfCulGroup
+				culture_group = __culGroup__
+			$EndIf
+			$IfCul
+				culture = __culture__
+			$EndIf
+			$IfRelGroup
+				religion_group = __relGroup__
+			$EndIf
+			$IfRel
+				OR = {
+					religion = __religion__
+					is_heresy_of = __religion__
+				}
+			$EndIf
+			
+			$IfIsDuchy
+				primary_title = { title = __county__ }
+				primary_title = { location = { has_province_modifier = no_liege } }
+				OR = {
+					AND = {
+						num_of_count_titles = __reqCount__
+						NOT = { num_of_count_titles = 6 }
+					}
+					AND = {
+						num_of_count_titles = 2
+						NOT = { num_of_count_titles = 3 }
+						NOT = { any_realm_province = { location = { has_province_modifier = isolated } } }
+						year = 910
+					}
+					primary_title = { location = { has_province_modifier = isolated } }
+				}
+			$EndIf
+			$IfIsKingdom
+				primary_title = { title = __duchy__ }
+				num_of_duke_titles = __reqDuchy__
+			$EndIf
+			$IfIsEmpire
+				primary_title = { title = __kingdom__ }
+				num_of_king_titles = __reqKing__
+			$EndIf
+			}
+			__title__ = {
+				is_titular = no
+			}
+		}

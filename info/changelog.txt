@@ -1,0 +1,189 @@
+Dynamic Duchies - a Crusader Kings II mod
+
+Changelog
+2.81
+- Fixed CK2+: Pecs entry prevented de jure liege decision from functioning.
+- Included the hotfix.
+2.80a
+- Fixed: Papal and byzantine recovery events popping up again.
+2.80
+- Finished integration 2.0(.1) fixes
+- CK2 version compatible with 2.05.0
+- Fixed decisions; missing bracket at the end of extended decisions.
+- Reimplemented oldgods_various_events.txt. Fixed the blank event issue this file caused, so it could be added back.
+2.75
+- Removed user dir from .mod file
+- Fixed: Counties with a liege now get allocated when they don't have a de jure liege
+2.74
+- Include hotfixes 2.73
+- Fixed: Dukes able to keep conquesting after they created 3 titles (forgot to change this after I lowered the reqs to 3 duchies)
+2.73
+- Adjusted the duke casus belli. You now have to own a neighbouring de jure duchy (or conquered one of the enemy's duchy provinces) to start conquering another duchy.
+- Fix republics starting with multiple counties.
+- Removed high priority from the 'redetermine de jure lieges' decision.
+- Fix: Byzantium popping up again after some time.
+- Make Iceland able to attack further as shetland and fareyar can.
+- Removed mtth from isolation modifier (no use for it anymore)
+2.72
+- Finally remove the byzantine empire and the papacy completely (papacy/ecumenical patriarchy landless)
+- Make it possible for two province islands to form two province duchies.
+2.71
+- Vanilla version
+- Add localisation for the allocation system events
+- Removed the isolation modifier for non-islands (allocation makes this not necessary anymore). Maybe add it in later for powerful counties (3+ settlements)
+- Fixed: Pagans only getting bonuses and no penalties.
+2.70
+- Created an allocation system to clean up remaining duchies after the year 890. Counties without a de jure duke will be allocated to a neighbouring duke (this will enable de jure casus bellis for those dukes)
+- related: altered date from which two-county duchies are allowed to 910 (mtth for allocation is very small and obviously doesn't affect islands)
+- The mod now mentions the name of the province in the event, when a neighbouring province gets a penalty.
+- The startup decision is also activated in the player advantage event when the startup decision is not taken immediately.
+2.64
+- Hotfix 1.a included
+- Cleaned up the cb of unnecessary prerequisitions.
+- Iceland (duchy of vetisland or austisland) can now use the island duke casus belli
+- Move the papacy and byzantium to barony level
+- Adapted the startup event to remove all additional republic duchies.
+- Adapted the title generator ruleset. Now republics are correctly playable.
+- The new ruleset should have fixed crashing when creating a new starting situation.
+(Default starting situation has theocracies allocated at random, just as new republics)
+2.63a
+- Repaired the Duke cb
+- Fixed: The dukes on sole islands now have a working casus belli to attack two provinces away.
+2.63
+- Have a different flag for europa, as it was the same as Celle's flag.
+- Duke cb now has a truce of just 400 days
+- Enabled vanilla casus bellis when both defender and attacker are king. If it works correctly I will use it for more situations.
+2.62
+- All fixes of 2.61b only reverted back to CK2+ v 2.03.1 due to crashes
+- Fixed the independent condition of the duke cb.
+2.61b
+- Islands have a different casus belli to enable them to attack across two sea provinces.
+- The duke casus belli has been disabled for duchies with a liege.
+- Added tooltips for the casus belli decisions.
+- Fixed: The bonus modifier will now only be given to other rulers, not the same as the penalty.
+- Fixed: Sahel and Romuva now correctly get the pagan penalty.
+- The isolated modifier now only applies for +/-20 years instead of indefinitely.
+- Isolation modifier mtth decreased to 20 months.
+2.60
+- Compatible with ck2+ and the better armies version of ck2+.
+2.55
+- Added a vanilla compatible version
+- fixed player advantage not being assigned to other players
+- fixed player advantage levy bonus not applying
+- slavic pagans also get the extra penalty due to their defensive bonus
+- offer to join war will be possible for the count cb
+- fixed the duke casus belli becoming inconlusive when attacking overseas
+2.54
+- Separate modifier for finnish pagans in the penalty/bonus system. This due to their defensive (garrison) bonuses mitigating the penalty.
+- re-add crusade event completely (was partially)
+- remove dublin from the start
+2.53
+- Casus belli for counts should now remove the modifiers on succes
+- Casus belli is now unable to accept assistence
+- Garrison size penalty has been included in the penalty modifier. This to stimulate poor regions in conquest (garrisons were higher than levies due to the defensive faith property)
+- Penalty and bonus now have the same duration (700)
+- Penalty/bonus system does not initiate when the neighboring bonus receiving province is of the same realm
+- Penalty system will fire more frequently after 890
+- The player advantage event now correctly fires at start of a new game only and now disappears around 900 (33 years)
+- Isolated advantage is now less powerful (less levies, little more tax)
+2.52
+- Compatible with CK2+ 2.03.1.
+- Uses generator 2.0.7 which fixes the unavailable titles.
+- Adapted the landed_titles file so the mods landed_titles file now has the same order as CK2+/Vanilla.
+- Removed the europe-spanning empire while I was updating the landed_ttiles file.
+- The starting republic (was Vienne, after the order change Holland) is removed manually from the KA mod folder, which makes the title creatable again.
+- Extended the random system to year 950.
+- Removed high priority tag of revokation of the casus belli decision.
+2.51
+- Compatible with CK2 1.11
+- Compatible with CK2+ 2.03.00. I even fixed the crusade casus belli from ck2+, missed a bracket.
+- Added (tribal) invasion/other claim to the ({temporarily) disabled casus bellis
+2.50
+- Compatible with CK2plus 2.02.00 alpha
+- Split the advantages in a player and an AI advantage (part of the bonus/penalty system)
+2.44
+- Fixed 'Win a war' ambition not working with the new casus bellis
+- Removed 'claim all' casus belli from the game until the casus belli decision is taken
+- two county realms will also have a (lower) chance of getting a penalty
+- Fixed only one player getting the advantage at game start
+2.43
+- Instead of making casus bellis drop in the game by year, I have made it a decision. This way I don't have to test multiple observation games of multiple hours. That aside people can choose when they activate them. (I recommend waiting for all or most of the duchies to form, the kingdoms are less important). It's reversible to prevent mistakes.
+- Restoring the papacy and byzantium casus bellis are also offline until the decision to enable them has been initiated.
+- Removing other titular titles has failed. For completely unknown reasons the removal of these titles causes an event without options to pop-up. I have no clue about why that happens... so this version still includes some titular titles
+2.42
+- Duke casus belli now should only give you the targets duke title when he has only single county left. There was a mistake making this possible with any number of county titles.
+- Claims can only be used in a casus belli from the year 920 onwards. This to prevent counties from getting a liege before they are part of a de jure duchy
+- Changed the date requirement for holy war and (vanilla) conquests also to 920.
+- Fixed penalties being given to counties with a bonus and vice versa. Also fixed a syntax error in the same event.
+- Included a notification for the player when a neigbour gets a penalty (the ai neighbours always instantly react...). This notification does not show when the province is of no use to the player.
+2.41
+- Changed the benefits. Now the player gets benefits to protect him against the brutal rivalry at the start.
+- Included a working randomness mechanic. Now random counties can get 'population' shifts which decreases it's levies, while a random neighbo(u)r will get more levies due to these 'population shifts'. 
+AIs now succesfully declare war on weaker neighbo(u)rs, even when they only have one county. As I did with the casus belli, this is specifically to increase duchy formation;
+so counties which cannot create a new duchy with the weaker province will not be able to get the bonus.
+2.4
+- Introduced random province benefits for counts to kickstart even when completely independent. Rulers with two counties and players will have mor echance of this happening.
+2.3
+- Cleaned up the tooltip window of the gain effects
+- Made the mod compatible with CK2plus update.
+2.2
+- 2.1 + hotfix
+2.1c
+- Added better coat of arms for zeeland and sticht.
+- Changed the casus belli for duchies. When you have only one county left as a duke, the attacker only usurps the duchy title instead of only the county title. 
+In this way you can keep playing after you lose the first brutal years in the creation of kingdoms.
+- Added in the possibility to make a duchy of only two provinces when the year 890 has passed.
+2.1b
+- Solved inconclusive when using duchy casus belli.
+- Lowered event_modifier effect of isolation (from +150% levies to +66%)
+2.1
+- Compatible with fix version 6 for ck2+ ( credit for the fixis go to CV and Tinis)
+- Casus bellis improved. 
+No steamrolling duchies without them usurping the duchies. They can only conquer provinces next to their own de jure duchies or the target's de jure duchies.
+Restrictions removed. Formerly one couldn't do the conquest when the target was already in a war with the same casus belli.
+Truce reduced to 5 years for duchies
+Fix for the duchy casus belli. Wars could be inconclusive instantly when the county was a vassal of the target.
+- The isolated modifier now gives a levy size of 150%. This to give the duchies some more punch and worth.
+- Disabled the pagan_conquest for dukes when the target county was not yet part of a de jure duchy. In the nordic region this caused huge duke empires with a lot of counts.
+2.0
+- Dukes now take counts vassal when they wage war with the new duke vs duke casus belli.
+1.9b
+- Fixed primary duchies not becoming the de jure vassal of the new kingdom.
+- Fixed isolated duchies not becoming de jure (did not include the updated defaultgains.txt files for the last version)
+- Fixed casus belli for dukes not firing. Dukes can conquer provinces belonging de jure to a neighbouring duke.
+1.9
+- Created an event for isolated counties. The required counties for duchy creation is dropped when a county is positioned between already formed duchies.
+- Created a casus belli for counts and dukes. They can attack another ruler of the same tier to speed up duchy creation for mainland europe.
+- optimised the startup decision. Now they will not both show up, so the startup decision for new games disappears after use and the decision for loaded games shows up after the first event has been taken.
+1.8
+- Startup decision now destroys the europa duchy when it is allocated in the generator.
+- When creating a duchy, only provinces bordering other provinces in the realm will gain the de jure liege 
+(this to prevent counties a continent away from joinging the same duchy. Will be refined in the future)
+1.7
+- Fixed a bug where a duchy created under a de jure kingdom will still get k_europa as the new de jure liege. Now it will stay the newly formed kingdom.
+- Made the two decisions only available when they should. Startup decision will be available at the start while redetermining lieges will be available the rest of the game.
+- Removed titular duchies so they will be recreated by the title generator.
+- The default version now makes only the primary titles de jure (when making kingdoms/empires, not duchies). defaultgains2.txt will make everything de jure.
+1.6
+- Removed the AIs ability to choose not to reset de jure lieges.
+1.5
+- Introduced standard modifiers to prevent duchies becoming de jure liege of counties which already have acquired a de jure liege. A decision when starting a new game must be chosen to make this happen.
+- Changed the allows file of the title creator to make titles creatable only when possessing a county without a de jure liege.
+- Created a version with an equal cost for creation/claiming of a title (200)
+- Created a defaultGains.txt version to make only the primary duchy/kingdom de jure on creation of the kingdom/empire title (the others will be assimilated).
+1.4
+- Introduced modifiers which track the de jure lieges. A decision when a game is loaded from a previous save will restore all acquired de jure lieges.
+1.3
+- Addition of altered gains file for the Titular title generator. Makes counties become de jure vassals of the created duchies.
+- Created an event to circumvent a bug in making k_europe the de jure kingdom of newly created duchies
+- Created a decision to restore de jure lieges of counties to the newly appointed de jure lieges after saving and loading a game.
+- Normalised the cost of de jure titles (claims). Claims are back to normal cost, only creation of new (titular) titles is cheaper.
+- Renamed burgundy and dauphiné to europa. Changed colour.
+- Added e_europa as an empire (not necessary anymore, but still in)
+1.2
+- Removed faulty references in the mod file.
+- Cost of title creation is halved.
+1.1
+- Titular titles costs are now the same as cost of claiming any other title.
+1.0
+- Deleted de jure titles from the CK2+ title files

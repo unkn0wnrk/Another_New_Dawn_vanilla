@@ -1,0 +1,82 @@
+		$IfIsDuchy
+		primary_title = { copy_title_laws = __county__ }
+		$EndIf
+		$IfIsKingdom
+		primary_title = { copy_title_laws = __duchy__ }
+		$EndIf
+		$IfIsEmpire
+		primary_title = { copy_title_laws = __kingdom__ }
+		$EndIf
+		
+		$IfMakeDeJure
+		$IfIsDuchy
+		IF = {
+			limit = {
+				__title__ = { is_titular = yes }
+			}
+			character_event = { 
+		id = nivve.0 tooltip = "Kingdom of Europa becomes the de jure liege of __title__" 
+				}
+			}
+		any_demesne_title = {
+			limit = {
+				tier = COUNT
+				location = { 
+					AND = {
+						has_province_modifier = no_liege
+						OR = {
+							is_primary_holder_title = yes
+							any_neighbor_province = {
+								owner = { character = ROOT }
+							}
+						}
+					}
+				}
+				OR = {
+					__title__ = { is_titular = yes }
+					FROM = { has_character_flag = creating_title_loop }
+				}
+			}
+			de_jure_liege = __title__
+			hidden_tooltip = {
+				location = {
+					add_province_modifier = {
+						name = __title___de_jure_liege
+						duration = -1
+					}
+					remove_province_modifier = no_liege
+				}
+			}
+			hidden_tooltip = { FROM = {	set_character_flag = creating_title_loop } }
+		}
+		hidden_tooltip = { clr_character_flag = creating_title_loop }
+		$EndIf
+		$IfIsKingdom
+		any_demesne_title = {
+			limit = {
+				title = __duchy__
+				OR = {
+					__title__ = { is_titular = yes }
+					FROM = { has_character_flag = creating_title_loop }
+				}
+			}
+			de_jure_liege = __title__
+			hidden_tooltip = { FROM = {	set_character_flag = creating_title_loop } }
+		}
+		hidden_tooltip = { clr_character_flag = creating_title_loop }
+		$EndIf
+		$IfIsEmpire
+		any_demesne_title = {
+			limit = {
+				title = __kingdom__
+				OR = {
+					__title__ = { is_titular = yes }
+					FROM = { has_character_flag = creating_title_loop }
+				}
+			}
+			de_jure_liege = __title__
+			hidden_tooltip = { FROM = {	set_character_flag = creating_title_loop } }
+		}
+		hidden_tooltip = { clr_character_flag = creating_title_loop }
+		$EndIf
+		$EndIf

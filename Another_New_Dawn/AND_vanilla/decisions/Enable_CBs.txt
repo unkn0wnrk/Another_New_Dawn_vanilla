@@ -1,0 +1,34 @@
+decisions = {
+
+	casusbelli_0 = {
+		potential = {
+			is_ruler = yes
+			ai = no
+			NOT = { has_global_flag = enable_casusbellis }
+		}
+		allow = {
+			is_ruler = yes
+			ai = no
+			NOT = { has_global_flag = enable_casusbellis }
+		}
+		effect = {
+			set_global_flag = enable_casusbellis
+		}
+	}
+	
+	casusbelli_1 = {
+		potential = {
+			is_ruler = yes
+			ai = no
+			has_global_flag = enable_casusbellis
+		}
+		allow = {
+			is_ruler = yes
+			ai = no
+			has_global_flag = enable_casusbellis
+		}
+		effect = {
+			clr_global_flag = enable_casusbellis
+		}
+	}
+}
