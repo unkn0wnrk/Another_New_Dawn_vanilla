@@ -24,12 +24,6 @@
 						num_of_count_titles = __reqCount__
 						NOT = { num_of_count_titles = 6 }
 					}
-					AND = {
-						num_of_count_titles = 2
-						NOT = { num_of_count_titles = 3 }
-						NOT = { any_realm_province = { location = { has_province_modifier = isolated } } }
-						year = 910
-					}
 					primary_title = { location = { has_province_modifier = isolated } }
 				}
 			$EndIf

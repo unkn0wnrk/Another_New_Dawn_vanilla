@@ -1,6 +1,13 @@
 Dynamic Duchies - a Crusader Kings II mod
 
 Changelog
+2.90
+- Compatible with CKII patch 2.0.3
+- Introduced the 1066 bookmark and removed all irrelevant bookmarks
+CK2plus version
+- Updated ck2+ version to ck2+ 2.06.3
+- Removed all titular titles (appr. 20) interfering with new titles. So for example the duchy of Hellas is now correctly creatable. 
+
 2.81
 - Fixed CK2+: Pecs entry prevented de jure liege decision from functioning.
 - Included the hotfix.

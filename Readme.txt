@@ -2,23 +2,24 @@
 Readme
 
 Requirements
-- Crusader Kings II patch 2.0.1
-- (optional) Titular Title Generator 2.0.xx
+- Crusader Kings II patch 2.0.3
+- (optional) Titular Title Generator 2.0.18
 
 
 Installation:
-1. Copy from the folder 'mod files', 'NoLiege' to the documents/PI/CKII/mod folder. This is for both the NoLiege folder/.mod file and the KA folder and .mod file.
+1. From the mod files folder of Dynamic Duchies, copy the two folders and the .mod files to the C:\Users\<yourusername>\Documents\Paradox Interactive\Crusader Kings II\mod folder.
+2. That was actually all.
 !!!Remember to always take an initial decision!!! For a new game choose 'Startup decision', for a save game choose 'Redetermine de jure lieges'.
 
 Installation with new KA files
-2. Install 'NoLiege' in the mod folder
-3. Launch the game once and exit
-5. Replace the defaultGains.txt, vanillaruleset and the defaultAllows.txt file in 'path/Titlegen 2.0.xx/scripts/allows' (or /rules or /gains) by the files included in this mod
-6. Launch the title generator
-7. Go through the generator, remember to check this mod in the generator, with your own preferences*
-8. Launch CKII
-8. Play
-!!!Remember to always take an initial decision!!! For a new game choose 'Startup decision', for a save game choose 'Redetermine de jure lieges'.
+1. Do the above, but leave out the KAforDynamicDuchiesv2.90 folder/file as these will be generated.
+2. Launch the game once and exit. This is necessary for the generator to attain the correct CKII settings
+4. Extract the titular generator
+5. Copy the contents of the titlegen folder (Dynamic Duchies x.xx (version)/info/titlegen files) and let them overwrite the contents of the TitleGenx.x.xx/scripts folder.
+6. Launch the generator - > Check the NivveAllows, NivveGains and NivveRuleset scripts (no other options checked!)
+5. Check Dynamic Duchies and click 'Load Data'
+6. Go to the next tab and check the options how you prefer them. The default options are mentioned below.
+!!!Remember to always take an initial decision!!! For a new game choose 'Startup decision', for a loaded game choose 'Redetermine de jure lieges'.
 
 *default settings:
 Short names: empires
@@ -34,4 +35,4 @@ make kingdoms: unchecked
 
 
 Forum thread: 
-http://forum.paradoxplaza.com/forum/showthread.php?702341-Nivve-s-complete-de-jure-liege-removal-v1.4
+http://forum.paradoxplaza.com/forum/showthread.php?735377-MOD-Another-New-Dawn
