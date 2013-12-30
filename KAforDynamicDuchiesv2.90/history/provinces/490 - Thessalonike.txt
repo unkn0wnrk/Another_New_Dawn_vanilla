@@ -1,0 +1,10 @@
+title = c_thessalonike
+
+max_settlements = 6
+b_thessaloniki = castle
+b_voden = city
+b_thesedessa = temple
+b_servia = castle
+
+culture = greek
+religion = orthodox

@@ -1,0 +1,4 @@
+BM_STANFORD_BRIDGE;1066 - Stanford Bridge;1066 - Stanford Bridge;1066 - Stanford Bridge;;1066 - Stanford Bridge;
+BM_STANFORD_BRIDGE_DESC;This is the normal CK2 starting date in 1066.\nNo DLC required;This is the normal CK2 starting date in 1066.\nNo DLC required;This is the normal CK2 starting date in 1066.\nNo DLC required;;This is the normal CK2 starting date in 1066.\nNo DLC required;
+BM_THE_OLD_GODS;867 - The Old Gods;867 - The Old Gods;867 - The Old Gods;;867 - The Old Gods;
+BM_THE_OLD_GODS_DESC;The Old Gods starting date.\nDLC required: The Old Gods;The Old Gods starting date.\nDLC required: The Old Gods;The Old Gods starting date.\nDLC required: The Old Gods;;The Old Gods starting date.\nDLC required: The Old Gods;

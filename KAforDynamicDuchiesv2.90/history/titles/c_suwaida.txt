@@ -1,0 +1,9 @@
+845.3.1 = {
+	holder = 100000589
+	law = succ_feudal_elective
+	law = true_cognatic_succession
+	law = city_contract_3
+	law = city_tax_3
+	law = iqta_contract_1
+	law = iqta_tax_0
+}

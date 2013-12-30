@@ -1,0 +1,9 @@
+title = c_zermanya
+
+max_settlements = 4
+b_sirjan = castle
+b_faragheh = city
+b_borougheeyeh = temple
+
+culture = persian
+religion = sunni

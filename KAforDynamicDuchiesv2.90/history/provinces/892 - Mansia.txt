@@ -1,0 +1,8 @@
+title = c_mansia
+
+max_settlements = 3
+b_mansiysk = temple
+b_yabin = castle
+
+culture = cuman
+religion = tengri_pagan

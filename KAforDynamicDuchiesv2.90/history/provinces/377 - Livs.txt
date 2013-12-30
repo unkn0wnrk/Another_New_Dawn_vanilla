@@ -1,0 +1,9 @@
+title = c_livs
+
+max_settlements = 4
+b_lemisele = castle
+b_wenden = temple
+b_uxkull = city
+
+culture = ugricbaltic
+religion = finnish_pagan

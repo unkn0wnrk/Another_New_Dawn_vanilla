@@ -1,0 +1,10 @@
+title = c_gotland
+
+max_settlements = 5
+b_visborg = castle
+b_visby = city
+b_geatish_roma = temple
+b_othem = castle
+
+culture = norse
+religion = norse_pagan

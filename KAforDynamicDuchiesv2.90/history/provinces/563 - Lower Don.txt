@@ -1,0 +1,7 @@
+title = c_lower_don
+
+max_settlements = 3
+b_taganrog = temple
+
+culture = hungarian
+religion = tengri_pagan

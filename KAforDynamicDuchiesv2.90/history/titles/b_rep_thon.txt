@@ -1,0 +1,5 @@
+840.11.231= {
+	holding_dynasty = 14288
+	liege = "d_oxford"
+	holder = 100000003
+}

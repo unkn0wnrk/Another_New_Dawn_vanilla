@@ -1,0 +1,11 @@
+title = c_alexandria
+
+max_settlements = 6
+b_abukir = castle
+b_alexandria = temple
+b_burgelarab = castle
+b_marabout = city
+b_hammam = castle
+
+culture = egyptian_arabic
+religion = miaphysite

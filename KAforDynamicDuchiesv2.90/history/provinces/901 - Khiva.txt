@@ -1,0 +1,10 @@
+title = c_khiva
+
+max_settlements = 5
+b_itchankila = temple
+b_qorovul = city
+b_xazorasp = castle
+b_bogot = castle
+
+culture = persian
+religion = zoroastrian

@@ -1,0 +1,9 @@
+title = c_leptis_magna
+
+max_settlements = 4
+b_leptismagna = temple
+b_misratah = city
+b_alhasun = castle
+
+culture = maghreb_arabic
+religion = sunni

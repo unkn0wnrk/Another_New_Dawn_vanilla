@@ -1,0 +1,11 @@
+title = c_manupura
+
+max_settlements = 5
+b_manusura = city
+b_athribis = castle
+b_almahallah = castle
+b_bilbays = temple
+b_zagazig = castle
+
+culture = egyptian_arabic
+religion = miaphysite

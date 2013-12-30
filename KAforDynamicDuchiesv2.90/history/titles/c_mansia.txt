@@ -1,0 +1,9 @@
+837.4.4 = {
+	holder = 100000469
+	law = succ_ultimogeniture
+	law = agnatic_succession
+	law = city_contract_0
+	law = city_tax_1
+	law = iqta_contract_1
+	law = iqta_tax_1
+}

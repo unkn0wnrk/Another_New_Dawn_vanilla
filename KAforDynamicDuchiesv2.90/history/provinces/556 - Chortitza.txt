@@ -1,0 +1,9 @@
+title = c_chortitza
+
+max_settlements = 4
+b_chortitza = castle
+b_ltava = city
+b_baszmacka = temple
+
+culture = hungarian
+religion = tengri_pagan

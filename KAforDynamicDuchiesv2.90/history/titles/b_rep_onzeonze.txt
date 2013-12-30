@@ -1,0 +1,5 @@
+839.8.251= {
+	holding_dynasty = 101165
+	liege = "d_derbent"
+	holder = 100001432
+}

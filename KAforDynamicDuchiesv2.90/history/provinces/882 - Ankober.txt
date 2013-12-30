@@ -1,0 +1,9 @@
+title = c_ankober
+
+max_settlements = 4
+b_ankober = temple
+b_doqaqit = city
+b_qundi = castle
+
+culture = ethiopian
+religion = miaphysite

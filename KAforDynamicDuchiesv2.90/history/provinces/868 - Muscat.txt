@@ -1,0 +1,11 @@
+title = c_muscat
+
+max_settlements = 6
+b_sur = castle
+b_muscat = city
+b_samail = temple
+b_adam = castle
+b_ibra = city
+
+culture = bedouin_arabic
+religion = ibadi

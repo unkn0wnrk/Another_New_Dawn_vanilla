@@ -1,0 +1,9 @@
+title = c_maverannahr
+
+max_settlements = 5
+b_darvaza = castle
+b_khiva = city
+b_kuskupir = temple
+
+culture = persian
+religion = zoroastrian

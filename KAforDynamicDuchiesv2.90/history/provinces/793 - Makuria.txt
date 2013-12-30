@@ -1,0 +1,9 @@
+title = c_makuria
+
+max_settlements = 4
+b_semna = castle
+b_dongola = city
+b_ghazali = temple
+
+culture = ethiopian
+religion = miaphysite

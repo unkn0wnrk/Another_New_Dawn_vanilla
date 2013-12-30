@@ -1,0 +1,9 @@
+title = c_orvieto
+
+max_settlements = 4
+b_orvieto = castle
+b_amelia = city
+b_narni = temple
+
+culture = italian
+religion = catholic

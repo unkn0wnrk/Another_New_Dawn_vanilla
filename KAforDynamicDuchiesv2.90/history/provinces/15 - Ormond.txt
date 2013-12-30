@@ -1,0 +1,9 @@
+title = c_ormond
+
+max_settlements = 4
+b_waterford = city
+b_cashel = temple
+b_nenagh = castle
+
+culture = irish
+religion = catholic

@@ -1,0 +1,10 @@
+title = c_pisa
+
+max_settlements = 5
+b_livorno = castle
+b_pisa = city
+b_canefro = temple
+b_volterra = city
+
+culture = italian
+religion = catholic

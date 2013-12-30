@@ -1,0 +1,9 @@
+title = c_laodikeia
+
+max_settlements = 5
+b_laodikeia = castle
+b_philadelphia = city
+b_rhoas = temple
+
+culture = greek
+religion = orthodox

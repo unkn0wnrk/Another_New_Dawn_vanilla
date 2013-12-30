@@ -1,0 +1,10 @@
+title = c_aswan
+
+max_settlements = 5
+b_aswan = castle
+b_faras = city
+b_elefantina = temple
+b_qasribrim = castle
+
+culture = egyptian_arabic
+religion = miaphysite

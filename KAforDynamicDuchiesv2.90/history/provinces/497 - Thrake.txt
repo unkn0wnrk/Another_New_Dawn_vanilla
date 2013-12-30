@@ -1,0 +1,10 @@
+title = c_thrake
+
+max_settlements = 5
+b_sestos = castle
+b_verissa = city
+b_chariopolis = temple
+b_phinopolis = city
+
+culture = greek
+religion = orthodox

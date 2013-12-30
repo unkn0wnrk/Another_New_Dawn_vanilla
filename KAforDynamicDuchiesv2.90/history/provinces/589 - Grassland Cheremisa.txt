@@ -1,0 +1,8 @@
+title = c_grassland_cheremisa
+
+max_settlements = 4
+b_qazan = castle
+b_zay = city
+
+culture = mordvin
+religion = finnish_pagan

@@ -1,0 +1,5 @@
+831.11.201= {
+	holding_dynasty = 1042637
+	liege = "d_hayya"
+	holder = 100001414
+}

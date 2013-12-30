@@ -1,0 +1,9 @@
+title = c_tyana
+
+max_settlements = 4
+b_tyana = castle
+b_anatoliaheraklea = city
+b_archelais = temple
+
+culture = greek
+religion = orthodox

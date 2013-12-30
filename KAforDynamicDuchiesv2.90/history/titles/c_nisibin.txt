@@ -1,0 +1,9 @@
+839.10.7 = {
+	holder = 100000271
+	law = succ_ultimogeniture
+	law = agnatic_succession
+	law = city_contract_0
+	law = city_tax_1
+	law = iqta_contract_0
+	law = iqta_tax_1
+}

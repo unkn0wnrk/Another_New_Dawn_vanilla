@@ -1,0 +1,10 @@
+title = c_genoa
+
+max_settlements = 6
+b_genoa = castle
+b_luna = city
+b_rapallo = temple
+b_savona = city
+
+culture = italian
+religion = catholic

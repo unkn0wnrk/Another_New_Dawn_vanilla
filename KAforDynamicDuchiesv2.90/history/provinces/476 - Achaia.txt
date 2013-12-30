@@ -1,0 +1,9 @@
+title = c_achaia
+
+max_settlements = 4
+b_patras = castle
+b_andravida = city
+b_pyrgos = temple
+
+culture = greek
+religion = orthodox

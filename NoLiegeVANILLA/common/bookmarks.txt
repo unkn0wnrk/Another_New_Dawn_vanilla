@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "BM_THE_OLD_GODS"
+	desc = "BM_THE_OLD_GODS_DESC"
+	date = 867.1.1
+}
+
+bookmark =
+{
+	name = "BM_STANFORD_BRIDGE"
+	desc = "BM_STANFORD BRIDGE_DESC"
+	date = 1066.1.1
+}
