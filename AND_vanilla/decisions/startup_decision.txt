@@ -41,12 +41,14 @@ decisions = {
 			any_independent_ruler = {
 				limit = { 
 					tier = duke
+					is_landed = yes
 				}
 				character_event = { id = nivve.3 }
 			}
 			IF = {
 				limit = { 
 					ROOT = { tier = duke }
+					is_landed = yes
 				}
 				ROOT = { character_event = { id = nivve.3 } }
 			}

@@ -41,6 +41,63 @@ character_event = {
 	}
 }
 
+character_event = {
+	id = nivve.12
+	desc = nivve.12.desc
+		
+	trigger = {
+		ai = yes
+		NOT = { has_global_flag = startup_done }
+	}
+	mean_time_to_happen = {
+		days = 1
+		modifier = {
+			factor = 0.01
+			always = yes
+		}
+	}
+	immediate = {
+		set_global_flag = startup_done
+		any_independent_ruler  = {
+			any_demesne_title = {
+				location = { 
+					add_province_modifier = { 
+						name = no_liege
+						duration = -1 
+					} 
+				}
+			}
+		}
+		ROOT = {
+			any_demesne_title = {
+				location = { 
+					add_province_modifier = { 
+						name = no_liege
+						duration = -1 
+					}
+				}
+			}
+		}
+		any_independent_ruler = {
+			limit = { 
+				tier = duke
+				is_landed = yes
+			}
+			character_event = { id = nivve.3 }
+		}
+		IF = {
+			limit = { 
+				ROOT = { tier = duke }
+				is_landed = yes
+			}
+			ROOT = { character_event = { id = nivve.3 } }
+		}
+	}
+	option = {
+		name = nivve.12.desc
+	}
+}
+
 ### Maintenance and workaround events for duchies
 # k_europe de jure liege for new duchies on creation
 character_event = {

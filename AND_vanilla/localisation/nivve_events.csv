@@ -35,3 +35,5 @@ nivve.10.desc;Your whole realm is surrounded by sea. As proud owner of all land 
 nivve.10.a;Isolation!;Isolation!;Isolation!;;Isolation!;;;;;;;;;x
 nivve.11.desc;startup_flags;startup_flags;startup_flags;;startup_flags;
 nivve.11.a;ok;ok;ok;;ok;
+nivve.11.desc;startup_decision;startup_decision;startup_decision;;startup_decision;
+nivve.11.a;ok;ok;ok;;ok;
