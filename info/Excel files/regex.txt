@@ -1,0 +1,7 @@
+religion = ([a-z]+[\w]+)
+religion = athenian
+
+([a-z]+
+= any letter, any number of times
+[\w]+)
+= any alpha-numeric/underscore any number of times

@@ -1,0 +1,62 @@
+namespace = AND
+
+## Dynamic religious events
+#Spontaneous religious spawning
+province_event = {
+	id = AND.1
+	desc = AND.1.desc
+	picture = GFX_evt_council
+	
+	trigger = {
+		religion = ancestry
+		NOT = {
+			any_neighbor_province = {
+				NOT = {
+					religion = placeholder1
+				}
+			}
+		}
+		NOT = {
+			any_independent_ruler = {
+				any_realm_province = {
+					religion = placeholder1
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 60
+	}
+	
+	option = {
+		name = AND.1.a
+		ROOT = {
+			religion = placeholder1
+		}
+		ROOT = {
+			owner = {
+				character_event = { id = AND.16 }
+			}
+		}
+	}
+}
+#Ruler conversion decision
+character_event = {
+	id = AND.16
+	desc = AND.16.desc
+	picture = "GFX_evt_council"
+	is_triggered_only = yes
+	
+	option = {
+		name = AND.16.a
+		FROM = {
+			reverse_religion = ROOT
+		}
+	}
+	option = {
+		name = AND.16.b
+	}
+}
+
+#Mingling event
