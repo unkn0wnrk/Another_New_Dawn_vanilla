@@ -37489,6 +37489,10 @@ d_vestisland = {
 						NOT = { num_of_count_titles = 6 }
 					}
 					primary_title = { location = { has_province_modifier = isolated } }
+					AND = {
+						has_landed_title = c_austisland
+						has_landed_title = c_vestisland
+					}
 				}
 			}
 			d_vestisland = {
@@ -37636,6 +37640,10 @@ d_austisland = {
 						NOT = { num_of_count_titles = 6 }
 					}
 					primary_title = { location = { has_province_modifier = isolated } }
+					AND = {
+						has_landed_title = c_austisland
+						has_landed_title = c_vestisland
+					}
 				}
 			}
 			d_austisland = {
