@@ -8,6 +8,6 @@ bookmark =
 bookmark =
 {
 	name = "BM_STANFORD_BRIDGE"
-	desc = "BM_STANFORD BRIDGE_DESC"
+	desc = "BM_STANFORD_BRIDGE_DESC"
 	date = 1066.1.1
 }
