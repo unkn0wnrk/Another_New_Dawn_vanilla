@@ -1,5 +1,6 @@
 ﻿# List of titles to ignore during history creation.
 ignored_titles = {
+	k_israel
 	k_papal_state
 	k_orthodox
 	e_sunni
@@ -31,15 +32,6 @@ misc = {
 # Specific characters to be created.
 # Must specify gender, religion, and culture.
 # Any number of titles can be assigned.
-
-character = {
-	gender = male
-	religion = catholic
-	culture = italian
-	
-	title = b_roma
-	title = k_papal_state
-}
 
 character = {
 	gender = male

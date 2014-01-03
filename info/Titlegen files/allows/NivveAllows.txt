@@ -25,6 +25,17 @@
 						NOT = { num_of_count_titles = 6 }
 					}
 					primary_title = { location = { has_province_modifier = isolated } }
+					AND = {
+						num_of_count_titles = 2
+						OR = {
+							has_landed_title = c_chandax
+							has_landed_title = c_kaneia
+							has_landed_title = c_limisol
+							has_landed_title = c_famagusta
+							has_landed_title = c_austisland
+							has_landed_title = c_vestisland
+						}
+					}
 				}
 			$EndIf
 			$IfIsKingdom
