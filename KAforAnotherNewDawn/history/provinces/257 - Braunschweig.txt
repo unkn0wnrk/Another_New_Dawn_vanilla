@@ -5,5 +5,5 @@ b_braunschweig = castle
 b_bielefeld = city
 b_paderborn = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

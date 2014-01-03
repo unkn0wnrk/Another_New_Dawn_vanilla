@@ -5,5 +5,5 @@ b_oldenburg = castle
 b_cloppenburg = castle
 b_jever = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

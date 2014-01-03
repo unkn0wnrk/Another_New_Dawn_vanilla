@@ -5,5 +5,5 @@ b_naupaktos = castle
 b_lidoriki = city
 b_amphissa = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

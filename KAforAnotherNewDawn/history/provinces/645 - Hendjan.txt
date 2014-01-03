@@ -5,5 +5,5 @@ b_bandaremashoor = castle
 b_susa = temple
 b_argan = city
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

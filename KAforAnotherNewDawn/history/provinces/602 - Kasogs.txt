@@ -5,5 +5,5 @@ b_myequape = castle
 b_samiran = city
 b_zikh = temple
 
-culture = alan
-religion = orthodox
+culture = tribal
+religion = ancestry

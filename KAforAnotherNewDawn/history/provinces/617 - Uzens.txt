@@ -5,5 +5,5 @@ b_kaztal = castle
 b_kyzylasker = city
 b_krykuru = temple
 
-culture = pecheneg
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

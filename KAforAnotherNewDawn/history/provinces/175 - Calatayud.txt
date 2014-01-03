@@ -5,5 +5,5 @@ b_calatayud = castle
 b_alhamadearagon = city
 b_piedra = temple
 
-culture = castillan
-religion = catholic
+culture = tribal
+religion = ancestry

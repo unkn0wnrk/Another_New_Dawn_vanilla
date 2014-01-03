@@ -5,5 +5,5 @@ b_skiringssal = castle
 b_kaupang = city
 b_uvdal = temple
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

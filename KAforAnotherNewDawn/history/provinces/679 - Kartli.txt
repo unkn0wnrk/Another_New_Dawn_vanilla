@@ -5,5 +5,5 @@ b_narikala = castle
 b_tbilisi = city
 b_svetitskhoveli = temple
 
-culture = georgian
-religion = orthodox
+culture = tribal
+religion = ancestry

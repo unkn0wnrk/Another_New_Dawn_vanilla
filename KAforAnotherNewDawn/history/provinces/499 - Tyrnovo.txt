@@ -5,5 +5,5 @@ b_tyrnovo = castle
 b_irinopolis = city
 b_kilifarevski = temple
 
-culture = bulgarian
-religion = orthodox
+culture = tribal
+religion = ancestry

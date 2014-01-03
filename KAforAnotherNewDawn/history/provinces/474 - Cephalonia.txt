@@ -4,5 +4,5 @@ max_settlements = 4
 b_palaiofrourio = temple
 b_corfu = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

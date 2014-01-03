@@ -5,5 +5,5 @@ b_gisors = castle
 b_pontoise = city
 b_abbayedemortemer = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

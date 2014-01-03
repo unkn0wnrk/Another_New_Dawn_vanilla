@@ -6,5 +6,5 @@ b_kermanshah = temple
 b_hulwan = city
 b_mahalkufa = city
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

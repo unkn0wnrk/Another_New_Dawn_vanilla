@@ -5,5 +5,5 @@ b_tain = castle
 b_rosemarkie = temple
 b_dingwall = city
 
-culture = scottish
-religion = catholic
+culture = tribal
+religion = ancestry

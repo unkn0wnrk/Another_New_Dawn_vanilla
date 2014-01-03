@@ -5,5 +5,5 @@ b_lyubech = castle
 b_gomel = city
 b_rechytsa = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

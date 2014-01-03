@@ -5,5 +5,5 @@ b_sinope = castle
 b_pompeiopolis = city
 b_germanicopolis = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

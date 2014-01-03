@@ -5,5 +5,5 @@ b_nikopolis = castle
 b_pleven = city
 b_oescus = temple
 
-culture = bulgarian
-religion = orthodox
+culture = tribal
+religion = ancestry

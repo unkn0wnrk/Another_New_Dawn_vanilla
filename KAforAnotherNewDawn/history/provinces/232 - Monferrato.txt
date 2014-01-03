@@ -5,5 +5,5 @@ b_monferrato = castle
 b_asti = city
 b_casale = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

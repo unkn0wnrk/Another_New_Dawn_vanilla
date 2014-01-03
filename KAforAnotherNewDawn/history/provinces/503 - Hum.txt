@@ -5,5 +5,5 @@ b_plav = castle
 b_novipazar = city
 b_pec = temple
 
-culture = serbian
-religion = orthodox
+culture = tribal
+religion = ancestry

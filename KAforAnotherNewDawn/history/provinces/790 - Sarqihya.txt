@@ -6,5 +6,5 @@ b_clysma = city
 b_atfih = temple
 b_taufiq = castle
 
-culture = egyptian_arabic
-religion = miaphysite
+culture = tribal
+religion = ancestry

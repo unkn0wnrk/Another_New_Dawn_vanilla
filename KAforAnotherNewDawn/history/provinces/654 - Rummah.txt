@@ -4,5 +4,5 @@ max_settlements = 2
 b_hafaralbatin = castle
 b_samoudah = temple
 
-culture = bedouin_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

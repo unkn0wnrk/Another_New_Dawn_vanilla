@@ -3,5 +3,5 @@ title = c_mzab
 max_settlements = 2
 b_mzab = castle
 
-culture = maghreb_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

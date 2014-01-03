@@ -5,5 +5,5 @@ b_zamora = castle
 b_toro = city
 b_benavente = temple
 
-culture = castillan
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_alcacerdosal = castle
 b_alcacovas = city
 b_espinheiro = temple
 
-culture = portuguese
-religion = catholic
+culture = tribal
+religion = ancestry

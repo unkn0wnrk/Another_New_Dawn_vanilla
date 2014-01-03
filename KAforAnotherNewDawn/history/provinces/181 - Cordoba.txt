@@ -7,5 +7,5 @@ b_lucena = city
 b_cabra = temple
 b_andujar = castle
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

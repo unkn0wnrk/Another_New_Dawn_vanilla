@@ -5,5 +5,5 @@ b_firuzkuh = temple
 b_amol = castle
 b_sari = city
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

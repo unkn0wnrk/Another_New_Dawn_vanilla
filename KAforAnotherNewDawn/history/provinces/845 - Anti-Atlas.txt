@@ -6,5 +6,5 @@ b_tata = city
 b_taroudaut = temple
 b_biourga = castle
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

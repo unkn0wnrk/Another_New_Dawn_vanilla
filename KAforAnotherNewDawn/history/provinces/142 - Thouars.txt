@@ -5,5 +5,5 @@ b_thouars = castle
 b_larochelle = city
 b_lucon = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

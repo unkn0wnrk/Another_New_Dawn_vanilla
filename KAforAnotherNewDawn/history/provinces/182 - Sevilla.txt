@@ -7,5 +7,5 @@ b_ecija = city
 b_utrera = castle
 b_sevimoron = city
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

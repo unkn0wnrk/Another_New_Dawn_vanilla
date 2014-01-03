@@ -5,5 +5,5 @@ b_dijon = city
 b_semur = castle
 b_autun = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

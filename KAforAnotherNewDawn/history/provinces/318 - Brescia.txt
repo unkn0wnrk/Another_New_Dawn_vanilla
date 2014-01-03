@@ -5,5 +5,5 @@ b_bergamo = castle
 b_brescia = city
 b_peschiera = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_wittelsbach = castle
 b_regensburg = temple
 b_landshut = city
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

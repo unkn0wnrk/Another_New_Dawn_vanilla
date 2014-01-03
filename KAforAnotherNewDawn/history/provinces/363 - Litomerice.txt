@@ -5,5 +5,5 @@ b_zatec = castle
 b_kadan = city
 b_chomutov = temple
 
-culture = bohemian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

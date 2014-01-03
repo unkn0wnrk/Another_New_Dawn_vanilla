@@ -5,5 +5,5 @@ b_gainsborough = temple
 b_lincoln = castle
 b_boston = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

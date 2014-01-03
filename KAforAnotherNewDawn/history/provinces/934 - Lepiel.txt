@@ -4,5 +4,5 @@ max_settlements = 3
 b_lepiel = castle
 b_chashniki = city
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

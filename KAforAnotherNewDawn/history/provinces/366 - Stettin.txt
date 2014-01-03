@@ -5,5 +5,5 @@ b_soldin = castle
 b_wollin = city
 b_stettin = temple
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

@@ -7,5 +7,5 @@ b_wasit = temple
 b_badra = castle
 b_zurbatiyah = castle
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

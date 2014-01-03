@@ -5,5 +5,5 @@ b_semna = castle
 b_dongola = city
 b_ghazali = temple
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_chrysopolis = city
 b_chalkedon = temple
 b_malagina = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

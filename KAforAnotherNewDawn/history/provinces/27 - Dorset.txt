@@ -5,5 +5,5 @@ b_wareham = castle
 b_corfe = temple
 b_dorchester = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

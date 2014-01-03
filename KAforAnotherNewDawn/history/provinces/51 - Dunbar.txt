@@ -5,5 +5,5 @@ b_dunbar = city
 b_berwick = castle
 b_tyninghame = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

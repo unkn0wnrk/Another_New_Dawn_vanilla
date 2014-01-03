@@ -6,5 +6,5 @@ b_daquq = city
 b_ranya = temple
 b_chuartan = city
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_ifni = castle
 b_tiznit = city
 b_ouaouteit = temple
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

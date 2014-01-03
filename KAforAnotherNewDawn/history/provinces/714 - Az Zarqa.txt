@@ -5,5 +5,5 @@ b_zarqa = castle
 b_russeifa = city
 b_shabib = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

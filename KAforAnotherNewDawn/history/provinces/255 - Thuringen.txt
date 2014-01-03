@@ -6,5 +6,5 @@ b_arnstadt = city
 b_muhlhausen = temple
 b_henneberg = castle
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_hradeckralove = castle
 b_litomysl = temple
 b_chrudim = city
 
-culture = bohemian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

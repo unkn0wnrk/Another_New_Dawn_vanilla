@@ -5,5 +5,5 @@ b_inowroclaw = castle
 b_radziejow = city
 b_kruszwica = temple
 
-culture = polish
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

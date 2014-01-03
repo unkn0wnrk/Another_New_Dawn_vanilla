@@ -5,5 +5,5 @@ b_bourbon = castle
 b_moulins = city
 b_souvigny = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

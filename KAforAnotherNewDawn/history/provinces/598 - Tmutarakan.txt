@@ -5,5 +5,5 @@ b_tmutarakan = castle
 b_mapa = city
 b_taman = temple
 
-culture = khazar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_csanad = castle
 b_mako = city
 b_szeged = temple
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

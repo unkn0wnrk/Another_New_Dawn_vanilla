@@ -5,5 +5,5 @@ b_stirling = castle
 b_edinburgh = city
 b_abercorn = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

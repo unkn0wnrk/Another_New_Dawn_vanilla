@@ -5,5 +5,5 @@ b_ipswich = castle
 b_ely = temple
 b_bury = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

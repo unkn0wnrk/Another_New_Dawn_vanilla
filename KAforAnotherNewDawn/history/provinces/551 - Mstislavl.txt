@@ -5,5 +5,5 @@ b_mstitslavl = castle
 b_mogilev = city
 b_krychaw = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

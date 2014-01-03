@@ -4,5 +4,5 @@ max_settlements = 4
 b_saransk = castle
 b_temnikow = city
 
-culture = mordvin
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

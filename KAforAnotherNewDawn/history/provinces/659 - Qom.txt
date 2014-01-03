@@ -7,5 +7,5 @@ b_jamkaran = temple
 b_salafchegan = city
 b_kahak = castle
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_schlawe = temple
 b_slupsk = city
 b_colberg = castle
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

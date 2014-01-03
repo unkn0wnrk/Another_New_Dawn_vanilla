@@ -5,5 +5,5 @@ b_al_ola = castle
 b_leuke_kome = city
 b_tayma = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

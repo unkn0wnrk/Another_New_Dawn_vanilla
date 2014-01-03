@@ -5,5 +5,5 @@ b_mafraq = castle
 b_thughra = city
 b_jarash = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -4,5 +4,5 @@ max_settlements = 3
 b_tiziouzou = castle
 b_zaoula = city
 
-culture = maghreb_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

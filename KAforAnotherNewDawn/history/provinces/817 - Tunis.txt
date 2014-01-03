@@ -7,5 +7,5 @@ b_ariana = temple
 b_cartaghe = castle
 b_zaghouan = city
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

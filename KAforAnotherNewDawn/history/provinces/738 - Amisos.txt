@@ -5,5 +5,5 @@ b_amisos = castle
 b_amasia = city
 b_thermodon = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

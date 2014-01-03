@@ -5,5 +5,5 @@ b_orsha = temple
 b_talachyn = city
 b_novolukomi = castle
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_piatigorie = castle
 b_madjar = city
 b_stauropolis = temple
 
-culture = alan
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

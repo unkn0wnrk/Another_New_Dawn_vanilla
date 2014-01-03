@@ -5,5 +5,5 @@ b_ainaltamur = castle
 b_hindiya = city
 b_karbala = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

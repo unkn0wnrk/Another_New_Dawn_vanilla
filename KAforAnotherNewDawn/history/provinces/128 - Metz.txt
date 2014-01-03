@@ -5,5 +5,5 @@ b_thionville = castle
 b_metz = temple
 b_briey = city
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

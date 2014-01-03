@@ -5,5 +5,5 @@ b_aqtaw = castle
 b_kzyluzen = city
 b_amankyzylit = temple
 
-culture = turkish
-religion = zoroastrian
+culture = tribal
+religion = ancestry

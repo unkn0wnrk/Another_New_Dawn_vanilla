@@ -5,5 +5,5 @@ b_ascalon = castle
 b_harbijah = city
 b_agelen = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

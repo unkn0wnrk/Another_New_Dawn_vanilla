@@ -5,5 +5,5 @@ b_constantia = castle
 b_carachioi = city
 b_adamclisi = temple
 
-culture = bulgarian
-religion = orthodox
+culture = tribal
+religion = ancestry

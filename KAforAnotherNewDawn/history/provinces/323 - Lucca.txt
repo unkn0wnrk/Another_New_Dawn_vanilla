@@ -5,5 +5,5 @@ b_lucca = castle
 b_cascina = temple
 b_pistoia = city
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

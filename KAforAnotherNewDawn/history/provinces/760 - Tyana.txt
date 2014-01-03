@@ -5,5 +5,5 @@ b_tyana = castle
 b_anatoliaheraklea = city
 b_archelais = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

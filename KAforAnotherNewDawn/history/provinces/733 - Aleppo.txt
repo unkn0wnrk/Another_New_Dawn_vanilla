@@ -6,5 +6,5 @@ b_azaz = city
 b_mashala = temple
 b_sarmin = castle
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

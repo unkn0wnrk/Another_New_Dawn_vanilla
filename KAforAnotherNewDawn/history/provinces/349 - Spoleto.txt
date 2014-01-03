@@ -5,5 +5,5 @@ b_spoleto = castle
 b_perugia = city
 b_assisi = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

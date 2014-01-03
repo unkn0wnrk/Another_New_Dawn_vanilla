@@ -5,5 +5,5 @@ b_rhuddlan = castle
 b_denbigh = city
 b_llanelwy = temple
 
-culture = welsh
-religion = catholic
+culture = tribal
+religion = ancestry

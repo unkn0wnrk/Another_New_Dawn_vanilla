@@ -5,5 +5,5 @@ b_debar = castle
 b_ohrid = temple
 b_kastoria = city
 
-culture = serbian
-religion = orthodox
+culture = tribal
+religion = ancestry

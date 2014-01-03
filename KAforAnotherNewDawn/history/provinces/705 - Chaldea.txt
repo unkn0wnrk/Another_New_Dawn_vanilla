@@ -5,5 +5,5 @@ b_kerasous = castle
 b_cotyora = city
 b_camachus = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

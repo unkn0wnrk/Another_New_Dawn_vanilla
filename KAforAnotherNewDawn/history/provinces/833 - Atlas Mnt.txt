@@ -5,5 +5,5 @@ b_tiaret = castle
 b_djelfa = city
 b_bordj = temple
 
-culture = maghreb_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

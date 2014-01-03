@@ -5,5 +5,5 @@ b_targoviste = castle
 b_pitesti = city
 b_curteadearges = temple
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

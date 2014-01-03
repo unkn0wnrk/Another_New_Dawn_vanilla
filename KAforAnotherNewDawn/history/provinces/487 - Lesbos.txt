@@ -4,5 +4,5 @@ max_settlements = 3
 b_mytilene = castle
 b_mithymna = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

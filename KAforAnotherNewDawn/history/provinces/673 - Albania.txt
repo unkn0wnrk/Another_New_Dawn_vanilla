@@ -4,5 +4,5 @@ max_settlements = 4
 b_chukhurkabala = castle
 b_ganja = city
 
-culture = armenian
-religion = miaphysite
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_carcassonne = castle
 b_saissac = city
 b_alet = temple
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

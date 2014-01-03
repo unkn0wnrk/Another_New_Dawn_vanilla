@@ -5,5 +5,5 @@ b_dailam = castle
 b_soltaniyeh = city
 b_zanjan = city
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

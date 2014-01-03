@@ -6,5 +6,5 @@ b_pergamon = city
 b_phokaia = temple
 b_klazomeanai = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

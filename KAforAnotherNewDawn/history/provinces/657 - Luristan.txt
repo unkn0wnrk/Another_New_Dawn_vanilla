@@ -7,5 +7,5 @@ b_khorramabad = city
 b_borujerd = temple
 b_koohdasht = city
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_kreuzburg = castle
 b_jersika = city
 b_erle = temple
 
-culture = lettigallish
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

@@ -3,5 +3,5 @@ title = c_vodi
 max_settlements = 3
 b_noteborg = castle
 
-culture = ugricbaltic
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

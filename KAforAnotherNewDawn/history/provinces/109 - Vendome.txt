@@ -5,5 +5,5 @@ b_vendome = castle
 b_lavardin = city
 b_cloyes = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

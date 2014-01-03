@@ -5,5 +5,5 @@ b_orange = castle
 b_avignon = temple
 b_carpentras = city
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

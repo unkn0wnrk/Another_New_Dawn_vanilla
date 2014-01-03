@@ -5,5 +5,5 @@ b_northampton = castle
 b_cambridge = city
 b_crowland = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

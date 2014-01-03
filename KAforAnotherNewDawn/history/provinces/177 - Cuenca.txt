@@ -5,5 +5,5 @@ b_cuenca = castle
 b_guadalajara = city
 b_siguenza = temple
 
-culture = castillan
-religion = catholic
+culture = tribal
+religion = ancestry

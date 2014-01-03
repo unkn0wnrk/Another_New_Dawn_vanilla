@@ -5,5 +5,5 @@ b_almansa = city
 b_albacete = castle
 b_hellin = temple
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

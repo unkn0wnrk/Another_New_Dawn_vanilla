@@ -5,5 +5,5 @@ b_trento = castle
 b_meran = temple
 b_bozen = city
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

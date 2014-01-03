@@ -5,5 +5,5 @@ b_akhur = castle
 b_bayatkhadzi = city
 b_gasankuli = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

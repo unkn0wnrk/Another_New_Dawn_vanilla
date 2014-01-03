@@ -6,5 +6,5 @@ b_iskorosten = city
 b_yuriev = temple
 b_ovruch = castle
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

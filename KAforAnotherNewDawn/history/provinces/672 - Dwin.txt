@@ -5,5 +5,5 @@ b_lori = castle
 b_dvin = city
 b_etchmiadzin = temple
 
-culture = armenian
-religion = miaphysite
+culture = tribal
+religion = ancestry

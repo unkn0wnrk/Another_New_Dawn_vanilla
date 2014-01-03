@@ -5,5 +5,5 @@ b_vladimirvolynsky = castle
 b_kholm = city
 b_kovel = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_korsun = castle
 b_cherkassy = city
 b_kaniv = temple
 
-culture = hungarian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

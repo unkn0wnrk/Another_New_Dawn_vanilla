@@ -4,5 +4,5 @@ max_settlements = 3
 b_saxholm = castle
 b_arvika = city
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

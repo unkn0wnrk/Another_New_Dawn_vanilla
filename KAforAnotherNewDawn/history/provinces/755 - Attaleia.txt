@@ -5,5 +5,5 @@ b_attaleia = castle
 b_side = city
 b_cibyra = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

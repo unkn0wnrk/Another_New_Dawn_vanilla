@@ -5,5 +5,5 @@ b_seleukeia = castle
 b_germanak = city
 b_irenopolis = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

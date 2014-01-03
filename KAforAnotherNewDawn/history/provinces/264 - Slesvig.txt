@@ -6,5 +6,5 @@ b_sonderborg = castle
 b_hedeby = city
 b_ribe = temple
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

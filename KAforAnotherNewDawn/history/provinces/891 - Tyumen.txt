@@ -4,5 +4,5 @@ max_settlements = 3
 b_tyumen = castle
 b_qashliq = temple
 
-culture = cuman
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

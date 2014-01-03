@@ -5,5 +5,5 @@ b_knockaulin = castle
 b_st_brigit = temple
 b_kildare = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

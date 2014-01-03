@@ -5,5 +5,5 @@ b_ath = castle
 b_cambrai = temple
 b_valenciennes = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

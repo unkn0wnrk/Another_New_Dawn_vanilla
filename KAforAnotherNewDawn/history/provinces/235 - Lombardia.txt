@@ -6,5 +6,5 @@ b_como = city
 b_monza = temple
 b_lodi = castle
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

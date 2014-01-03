@@ -6,5 +6,5 @@ b_barca = city
 b_oriana = temple
 b_tulmaytath = castle
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

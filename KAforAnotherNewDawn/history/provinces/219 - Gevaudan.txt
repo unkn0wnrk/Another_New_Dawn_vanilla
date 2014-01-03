@@ -5,5 +5,5 @@ b_grezes = temple
 b_mende = castle
 b_marvejols = city
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

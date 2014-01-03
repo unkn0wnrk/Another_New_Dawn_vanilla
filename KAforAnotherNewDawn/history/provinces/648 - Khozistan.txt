@@ -7,5 +7,5 @@ b_hoveizeh = temple
 b_dora = castle
 b_fao = castle
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

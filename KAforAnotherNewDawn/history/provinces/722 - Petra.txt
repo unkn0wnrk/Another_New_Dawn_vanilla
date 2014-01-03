@@ -5,5 +5,5 @@ b_tophel = castle
 b_wadi_musa = city
 b_petra = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

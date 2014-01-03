@@ -5,5 +5,5 @@ b_gurgan = castle
 b_gonbadeqabus = city
 b_komishdepa = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_darvar = city
 b_damqan = temple
 b_dehnamak = castle
 
-culture = persian
-religion = shiite
+culture = tribal
+religion = ancestry

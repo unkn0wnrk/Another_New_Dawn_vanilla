@@ -5,5 +5,5 @@ b_saluzzo = castle
 b_cuneo = city
 b_pinerolo = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

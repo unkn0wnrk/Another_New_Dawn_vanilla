@@ -5,5 +5,5 @@ b_cannae = castle
 b_melfi = city
 b_trani = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

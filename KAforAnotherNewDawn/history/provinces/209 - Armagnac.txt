@@ -5,5 +5,5 @@ b_auch = castle
 b_lectoure = city
 b_eauze = temple
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

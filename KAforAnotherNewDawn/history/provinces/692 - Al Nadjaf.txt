@@ -5,5 +5,5 @@ b_kufah = castle
 b_taqtaqanah = city
 b_nadjaf = temple
 
-culture = levantine_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_plzen = castle
 b_rokycany = temple
 b_stribo = city
 
-culture = bohemian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

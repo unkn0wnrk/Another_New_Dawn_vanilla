@@ -3,5 +3,5 @@ title = c_aoudaghost
 max_settlements = 3
 b_aoudaghost = castle
 
-culture = manden
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

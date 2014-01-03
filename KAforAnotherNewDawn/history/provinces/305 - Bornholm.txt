@@ -4,5 +4,5 @@ max_settlements = 3
 b_hammershus = castle
 b_knudsker = temple
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

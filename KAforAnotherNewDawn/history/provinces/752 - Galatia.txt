@@ -5,5 +5,5 @@ b_mikissos = castle
 b_asponia = city
 b_tavia = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

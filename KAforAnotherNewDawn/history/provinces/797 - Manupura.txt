@@ -7,5 +7,5 @@ b_almahallah = castle
 b_bilbays = temple
 b_zagazig = castle
 
-culture = egyptian_arabic
-religion = miaphysite
+culture = tribal
+religion = ancestry

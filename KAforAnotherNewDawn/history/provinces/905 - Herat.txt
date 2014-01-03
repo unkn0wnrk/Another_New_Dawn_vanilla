@@ -5,5 +5,5 @@ b_herat = castle
 b_karukh = city
 b_kushk = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

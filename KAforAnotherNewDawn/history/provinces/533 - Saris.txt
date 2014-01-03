@@ -5,5 +5,5 @@ b_saris = castle
 b_eperjes = city
 b_kisszeben = temple
 
-culture = croatian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

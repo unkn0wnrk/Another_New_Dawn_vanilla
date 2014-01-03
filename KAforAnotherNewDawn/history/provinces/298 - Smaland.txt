@@ -4,5 +4,5 @@ max_settlements = 3
 b_piksborg = castle
 b_vaxjo = city
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

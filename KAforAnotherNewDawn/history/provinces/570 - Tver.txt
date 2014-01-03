@@ -5,5 +5,5 @@ b_tver = castle
 b_ostashkov = city
 b_torzhok = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

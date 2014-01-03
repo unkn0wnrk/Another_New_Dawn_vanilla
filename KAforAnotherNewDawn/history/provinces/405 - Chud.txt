@@ -3,5 +3,5 @@ title = c_chud
 max_settlements = 3
 b_totma = castle
 
-culture = finnish
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

@@ -4,5 +4,5 @@ max_settlements = 3
 b_birsay = castle
 b_kirkwall = temple
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

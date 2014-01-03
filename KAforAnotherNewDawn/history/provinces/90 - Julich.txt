@@ -5,5 +5,5 @@ b_julich = castle
 b_aachen = city
 b_prum = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_lydford = castle
 b_exeter = temple
 b_axminster = city
 
-culture = breton
-religion = catholic
+culture = tribal
+religion = ancestry

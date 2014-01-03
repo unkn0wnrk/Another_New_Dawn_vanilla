@@ -8,5 +8,5 @@ b_meaux = castle
 b_montfortlamaury = castle
 b_compiegne = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

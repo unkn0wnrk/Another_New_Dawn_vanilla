@@ -6,5 +6,5 @@ b_bouarfa = city
 b_safsaf = castle
 b_benitajjit = castle
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

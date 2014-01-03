@@ -5,5 +5,5 @@ b_viviers = castle
 b_aubenas = temple
 b_largentiere = city
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

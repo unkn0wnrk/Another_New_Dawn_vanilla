@@ -5,5 +5,5 @@ b_albon = castle
 b_vienne = temple
 b_grenoble = city
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

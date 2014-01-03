@@ -5,5 +5,5 @@ b_bryansk = castle
 b_orel = city
 b_pochep = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

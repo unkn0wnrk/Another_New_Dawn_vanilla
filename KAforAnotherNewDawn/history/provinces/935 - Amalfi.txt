@@ -5,5 +5,5 @@ b_amalfi = castle
 b_sorrento = city
 b_ravello = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

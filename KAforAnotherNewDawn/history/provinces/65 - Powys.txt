@@ -5,5 +5,5 @@ b_mathrafal = castle
 b_llangollen = temple
 b_radnor = city
 
-culture = welsh
-religion = catholic
+culture = tribal
+religion = ancestry

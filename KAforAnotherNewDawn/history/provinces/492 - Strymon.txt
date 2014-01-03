@@ -5,5 +5,5 @@ b_skopje = castle
 b_veles = city
 b_strumica = temple
 
-culture = bulgarian
-religion = orthodox
+culture = tribal
+religion = ancestry

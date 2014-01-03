@@ -6,5 +6,5 @@ b_kusai = city
 b_durunka = temple
 b_egypthebes = castle
 
-culture = egyptian_arabic
-religion = miaphysite
+culture = tribal
+religion = ancestry

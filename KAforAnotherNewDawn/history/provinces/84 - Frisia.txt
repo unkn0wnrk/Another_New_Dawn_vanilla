@@ -5,5 +5,5 @@ b_groningen = castle
 b_stavoren = city
 b_dokkum = temple
 
-culture = dutch
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_bandarkhamir = castle
 b_khonj = city
 b_evaz = temple
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

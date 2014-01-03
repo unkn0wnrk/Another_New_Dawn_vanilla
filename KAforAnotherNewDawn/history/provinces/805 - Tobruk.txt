@@ -3,5 +3,5 @@ title = c_tobruk
 max_settlements = 3
 b_tobruk = castle
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

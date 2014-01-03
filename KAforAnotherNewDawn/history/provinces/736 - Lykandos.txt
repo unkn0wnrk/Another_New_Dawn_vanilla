@@ -5,5 +5,5 @@ b_lykandos = castle
 b_tzamandos = city
 b_comanagene = temple
 
-culture = greek
-religion = iconoclast
+culture = tribal
+religion = ancestry

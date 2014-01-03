@@ -4,5 +4,5 @@ max_settlements = 3
 b_rugard = castle
 b_arkona = temple
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

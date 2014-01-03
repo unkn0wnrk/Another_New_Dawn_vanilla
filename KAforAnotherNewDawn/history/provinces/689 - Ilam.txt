@@ -7,5 +7,5 @@ b_chahartaghi = temple
 b_mehran = city
 b_abdanan = castle
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_cavtat = castle
 b_ragusa = city
 b_narona = temple
 
-culture = serbian
-religion = catholic
+culture = tribal
+religion = ancestry

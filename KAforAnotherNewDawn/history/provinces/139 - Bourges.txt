@@ -5,5 +5,5 @@ b_bourges = castle
 b_deols = temple
 b_chateauroux = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

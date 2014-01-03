@@ -5,5 +5,5 @@ b_lambeth = castle
 b_southwark = temple
 b_woking = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

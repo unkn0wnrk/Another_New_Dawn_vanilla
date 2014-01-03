@@ -5,5 +5,5 @@ b_albarracin = castle
 b_teruel = city
 b_hijar = temple
 
-culture = basque
-religion = catholic
+culture = tribal
+religion = ancestry

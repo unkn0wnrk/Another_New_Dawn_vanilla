@@ -6,5 +6,5 @@ b_vicenza = city
 b_sanmartino = temple
 b_montecchio = castle
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

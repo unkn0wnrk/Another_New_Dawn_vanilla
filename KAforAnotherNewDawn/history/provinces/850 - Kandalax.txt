@@ -3,5 +3,5 @@ title = c_kandalax
 max_settlements = 2
 b_kantalahti = castle
 
-culture = lappish
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

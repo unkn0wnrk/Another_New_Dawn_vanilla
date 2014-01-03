@@ -5,5 +5,5 @@ b_szekezfehervar = castle
 b_kaposvar = city
 b_csurgo = temple
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

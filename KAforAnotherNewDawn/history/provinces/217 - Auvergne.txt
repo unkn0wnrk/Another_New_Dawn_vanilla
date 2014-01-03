@@ -5,5 +5,5 @@ b_clermont = castle
 b_aurillac = temple
 b_brioude = city
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

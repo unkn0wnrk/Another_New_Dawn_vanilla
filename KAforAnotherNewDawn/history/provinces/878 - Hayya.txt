@@ -4,5 +4,5 @@ max_settlements = 3
 b_marawi = city
 b_kanisah = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

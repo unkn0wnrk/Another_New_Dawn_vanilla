@@ -5,5 +5,5 @@ b_kiaburc = castle
 b_amida = city
 b_ulucamii = temple
 
-culture = kurdish
-religion = miaphysite
+culture = tribal
+religion = ancestry

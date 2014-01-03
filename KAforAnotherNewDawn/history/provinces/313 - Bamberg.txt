@@ -5,5 +5,5 @@ b_babenberg = castle
 b_bamberg = temple
 b_roth = city
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

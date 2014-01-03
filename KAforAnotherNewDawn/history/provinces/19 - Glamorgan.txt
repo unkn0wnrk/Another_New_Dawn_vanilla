@@ -5,5 +5,5 @@ b_cardiff = castle
 b_llandaff = temple
 b_swansea = city
 
-culture = welsh
-religion = catholic
+culture = tribal
+religion = ancestry

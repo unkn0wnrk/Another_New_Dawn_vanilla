@@ -4,5 +4,5 @@ max_settlements = 4
 b_tana = castle
 b_rostovnadonu = city
 
-culture = khazar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

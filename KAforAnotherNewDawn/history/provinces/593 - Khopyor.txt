@@ -5,5 +5,5 @@ b_khopyorsk = castle
 b_tambov = city
 b_borisoglebsk = temple
 
-culture = pecheneg
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

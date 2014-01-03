@@ -7,5 +7,5 @@ b_azzubayr = temple
 b_arah = castle
 b_mohammera = castle
 
-culture = bedouin_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

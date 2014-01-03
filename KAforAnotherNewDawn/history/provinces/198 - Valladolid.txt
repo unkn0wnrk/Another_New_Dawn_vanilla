@@ -5,5 +5,5 @@ b_valladolid = castle
 b_tordesillas = city
 b_segovia = temple
 
-culture = castillan
-religion = catholic
+culture = tribal
+religion = ancestry

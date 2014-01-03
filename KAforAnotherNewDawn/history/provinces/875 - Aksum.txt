@@ -6,5 +6,5 @@ b_aksum = temple
 b_mekele = city
 b_adigrat = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

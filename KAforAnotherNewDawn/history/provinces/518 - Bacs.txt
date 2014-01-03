@@ -5,5 +5,5 @@ b_bacs = castle
 b_szintarev = city
 b_apatin = temple
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

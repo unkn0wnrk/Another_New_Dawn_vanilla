@@ -5,5 +5,5 @@ b_famagusta = castle
 b_nikosia = city
 b_cithium = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

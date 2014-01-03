@@ -3,5 +3,5 @@ title = c_nizhny_novgorod
 max_settlements = 4
 b_nizhnynovgorod = castle
 
-culture = mordvin
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

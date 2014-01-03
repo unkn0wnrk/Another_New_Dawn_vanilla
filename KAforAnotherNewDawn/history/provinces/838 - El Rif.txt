@@ -6,5 +6,5 @@ b_alhoceima = city
 b_midar = temple
 b_ketama = castle
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

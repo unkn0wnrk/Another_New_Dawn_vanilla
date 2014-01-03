@@ -7,5 +7,5 @@ b_elvira = city
 b_baeza = castle
 b_guadix = city
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

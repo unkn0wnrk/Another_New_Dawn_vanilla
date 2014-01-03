@@ -5,5 +5,5 @@ b_hama = castle
 b_mhardeh = city
 b_hamath = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

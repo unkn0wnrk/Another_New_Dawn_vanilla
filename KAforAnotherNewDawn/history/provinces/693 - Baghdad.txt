@@ -7,5 +7,5 @@ b_bagdad = temple
 b_hillah = city
 b_taji = city
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

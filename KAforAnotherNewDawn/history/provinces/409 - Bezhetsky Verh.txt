@@ -5,5 +5,5 @@ b_bezhetsk = castle
 b_spasnakholmu = castle
 b_sonkovo = city
 
-culture = ugricbaltic
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_gondar = city
 b_roha = temple
 b_ambassel = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

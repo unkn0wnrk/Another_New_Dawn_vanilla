@@ -5,5 +5,5 @@ b_znojmo = castle
 b_trebic = temple
 b_mikulov = city
 
-culture = bohemian
-religion = catholic
+culture = tribal
+religion = ancestry

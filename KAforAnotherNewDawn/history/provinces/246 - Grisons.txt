@@ -5,5 +5,5 @@ b_bellinzona = castle
 b_locarno = city
 b_disentis = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

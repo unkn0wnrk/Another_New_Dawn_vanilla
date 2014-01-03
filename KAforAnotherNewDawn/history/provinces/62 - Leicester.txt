@@ -5,5 +5,5 @@ b_leicester = castle
 b_nottingham = city
 b_newstead = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_saravan = castle
 b_pahrah = city
 b_khash = temple
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

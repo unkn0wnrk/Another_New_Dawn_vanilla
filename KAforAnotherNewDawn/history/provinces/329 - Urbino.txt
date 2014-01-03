@@ -5,5 +5,5 @@ b_urbino = castle
 b_sanmarino = city
 b_sanseverino = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_rabat = city
 b_sale = temple
 b_tiflet = city
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_morlaas = castle
 b_lescar = temple
 b_pau = city
 
-culture = basque
-religion = catholic
+culture = tribal
+religion = ancestry

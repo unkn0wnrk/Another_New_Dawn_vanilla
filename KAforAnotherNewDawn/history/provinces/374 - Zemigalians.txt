@@ -5,5 +5,5 @@ b_bauska = castle
 b_riga = temple
 b_selpils = city
 
-culture = lettigallish
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_urgell = castle
 b_pallars = city
 b_puigcerda = castle
 
-culture = catalan
-religion = catholic
+culture = tribal
+religion = ancestry

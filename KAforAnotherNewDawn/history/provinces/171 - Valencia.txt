@@ -6,5 +6,5 @@ b_gandia = city
 b_jativa = temple
 b_alacuas = castle
 
-culture = catalan
-religion = catholic
+culture = tribal
+religion = ancestry

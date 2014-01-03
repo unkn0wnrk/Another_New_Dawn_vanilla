@@ -5,5 +5,5 @@ b_osa = castle
 b_usttuntor = city
 b_chastye = temple
 
-culture = bolghar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

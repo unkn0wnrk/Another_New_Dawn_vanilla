@@ -5,5 +5,5 @@ b_nassau = castle
 b_wetzlar = city
 b_fulda = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

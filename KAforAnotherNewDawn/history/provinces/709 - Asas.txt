@@ -5,5 +5,5 @@ b_asas = castle
 b_rakka = city
 b_kallinikos = temple
 
-culture = levantine_arabic
-religion = orthodox
+culture = tribal
+religion = ancestry

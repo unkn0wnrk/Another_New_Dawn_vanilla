@@ -8,5 +8,5 @@ b_Warka = temple
 b_samawah = castle
 b_ishan = castle
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

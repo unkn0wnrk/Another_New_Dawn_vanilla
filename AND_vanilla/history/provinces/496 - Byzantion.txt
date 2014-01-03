@@ -16,8 +16,8 @@ b_constantinople = castle
 #b_vlanga = castle
 
 # Misc
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry
 
 # History
 

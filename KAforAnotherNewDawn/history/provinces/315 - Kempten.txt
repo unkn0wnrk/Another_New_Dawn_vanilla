@@ -5,5 +5,5 @@ b_kempten = temple
 b_augsburg = castle
 b_donauworth = city
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

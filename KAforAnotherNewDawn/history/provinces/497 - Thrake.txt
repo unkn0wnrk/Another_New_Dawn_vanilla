@@ -6,5 +6,5 @@ b_verissa = city
 b_chariopolis = temple
 b_phinopolis = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

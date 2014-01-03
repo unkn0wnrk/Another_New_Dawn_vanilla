@@ -5,5 +5,5 @@ b_adana = castle
 b_anazarba = temple
 b_mamistra = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

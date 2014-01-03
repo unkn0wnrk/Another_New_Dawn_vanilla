@@ -6,5 +6,5 @@ b_antequera = temple
 b_benalmadena = city
 b_tamisa = castle
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_bordeaux = castle
 b_lasauve = temple
 b_blaye = city
 
-culture = basque
-religion = catholic
+culture = tribal
+religion = ancestry

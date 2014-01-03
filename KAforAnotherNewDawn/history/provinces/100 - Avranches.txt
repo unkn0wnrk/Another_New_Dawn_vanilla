@@ -5,5 +5,5 @@ b_mortain = castle
 b_caen = city
 b_bayeux = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_farrah = temple
 b_bakwa = city
 b_baladuluk = castle
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

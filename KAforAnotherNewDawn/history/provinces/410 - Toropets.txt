@@ -4,5 +4,5 @@ max_settlements = 4
 b_staryarussa = castle
 b_toropets = city
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

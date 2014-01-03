@@ -5,5 +5,5 @@ b_laodikeia = castle
 b_philadelphia = city
 b_rhoas = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

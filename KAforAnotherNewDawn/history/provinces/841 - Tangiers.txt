@@ -7,5 +7,5 @@ b_mulaybuselham = temple
 b_alcazarquivir = city
 b_ainbenamar = castle
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

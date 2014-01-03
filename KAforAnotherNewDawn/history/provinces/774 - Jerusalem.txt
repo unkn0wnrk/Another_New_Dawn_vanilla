@@ -6,5 +6,5 @@ b_nablus = city
 b_jerusalem = temple
 b_rammala = castle
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

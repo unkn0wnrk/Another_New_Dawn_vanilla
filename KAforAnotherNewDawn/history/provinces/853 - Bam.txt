@@ -5,5 +5,5 @@ b_bampur = castle
 b_kaj = city
 b_bal_chah = temple
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

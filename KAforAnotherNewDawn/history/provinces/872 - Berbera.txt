@@ -5,5 +5,5 @@ b_berbera = castle
 b_maydh = city
 b_amud = temple
 
-culture = ethiopian
-religion = sunni
+culture = tribal
+religion = ancestry

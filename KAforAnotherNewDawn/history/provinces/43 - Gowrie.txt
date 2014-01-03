@@ -5,5 +5,5 @@ b_scone = castle
 b_dunkeld = temple
 b_perth = city
 
-culture = scottish
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_gao = castle
 b_sarnah = city
 b_gaosaney = temple
 
-culture = manden
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

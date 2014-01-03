@@ -4,5 +4,5 @@ max_settlements = 4
 b_vilkaviskis = castle
 b_trakai = city
 
-culture = lithuanian
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

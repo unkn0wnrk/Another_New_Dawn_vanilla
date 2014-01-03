@@ -4,5 +4,5 @@ max_settlements = 3
 b_mosylon = castle
 b_lasanod = temple
 
-culture = ethiopian
-religion = sunni
+culture = tribal
+religion = ancestry

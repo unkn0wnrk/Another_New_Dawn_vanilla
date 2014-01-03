@@ -5,5 +5,5 @@ b_arundel = castle
 b_chichester = temple
 b_lewes = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

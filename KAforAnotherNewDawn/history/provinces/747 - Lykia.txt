@@ -5,5 +5,5 @@ b_halikarnassos = castle
 b_telmissos = city
 b_myra = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

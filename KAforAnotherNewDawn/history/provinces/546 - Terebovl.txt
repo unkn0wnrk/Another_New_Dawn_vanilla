@@ -5,5 +5,5 @@ b_terebovl = castle
 b_bratslav = city
 b_pochayivlavra = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

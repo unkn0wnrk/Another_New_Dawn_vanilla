@@ -5,5 +5,5 @@ b_toompea = castle
 b_reval = city
 b_hapsal = temple
 
-culture = ugricbaltic
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_tipasa = city
 b_chiffa = temple
 b_sidiakacha = castle
 
-culture = maghreb_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

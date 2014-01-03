@@ -5,5 +5,5 @@ b_bakhmut = castle
 b_krasne = city
 b_sviatohirsk = temple
 
-culture = khazar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

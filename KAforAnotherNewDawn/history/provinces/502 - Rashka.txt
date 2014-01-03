@@ -5,5 +5,5 @@ b_prizren = castle
 b_dioclea = city
 b_decani = temple
 
-culture = serbian
-religion = orthodox
+culture = tribal
+religion = ancestry

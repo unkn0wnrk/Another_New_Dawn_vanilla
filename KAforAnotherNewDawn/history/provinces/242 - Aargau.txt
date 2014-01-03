@@ -5,5 +5,5 @@ b_habsburg = castle
 b_schaffhausen = city
 b_basel = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

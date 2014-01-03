@@ -5,5 +5,5 @@ b_borovichi = castle
 b_novgorod = city
 b_tikhvin = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

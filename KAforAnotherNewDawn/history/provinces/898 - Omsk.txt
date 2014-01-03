@@ -5,5 +5,5 @@ b_omsk = temple
 b_tara = city
 b_isilkul = castle
 
-culture = cuman
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

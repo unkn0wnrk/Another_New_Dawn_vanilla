@@ -5,5 +5,5 @@ b_alkmaar = castle
 b_egmond = temple
 b_hoorn = city
 
-culture = dutch
-religion = catholic
+culture = tribal
+religion = ancestry

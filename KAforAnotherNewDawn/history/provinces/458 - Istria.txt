@@ -5,5 +5,5 @@ b_mitterburg = castle
 b_trieste = city
 b_fiume = temple
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

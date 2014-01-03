@@ -3,5 +3,5 @@ title = c_medelpad
 max_settlements = 3
 b_selanger = castle
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_furstenberg = castle
 b_hirsau = temple
 b_zollern = castle
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

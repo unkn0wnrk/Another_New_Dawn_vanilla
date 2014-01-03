@@ -5,5 +5,5 @@ b_tarragona = castle
 b_spantortosa = city
 b_sancugat = temple
 
-culture = catalan
-religion = catholic
+culture = tribal
+religion = ancestry

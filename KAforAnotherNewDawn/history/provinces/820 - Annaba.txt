@@ -6,5 +6,5 @@ b_eltarf = city
 b_soukahras = temple
 b_skikda = city
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

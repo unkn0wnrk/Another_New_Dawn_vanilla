@@ -5,5 +5,5 @@ b_umm_al_nasan = castle
 b_manama = city
 b_muharraq = temple
 
-culture = bedouin_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_sanaa = temple
 b_dhamar = city
 b_hodeida = castle
 
-culture = bedouin_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_bremen = castle
 b_stade = temple
 b_beverstedt = city
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

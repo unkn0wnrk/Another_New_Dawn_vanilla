@@ -6,5 +6,5 @@ b_lyon = city
 b_stjeanbaptiste = temple
 b_brindas = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

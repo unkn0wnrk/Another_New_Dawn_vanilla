@@ -5,5 +5,5 @@ b_turnu = temple
 b_giurgiu = castle
 b_dristra = city
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

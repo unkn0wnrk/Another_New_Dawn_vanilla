@@ -5,5 +5,5 @@ b_braganza = castle
 b_vilareal = city
 b_chaves = temple
 
-culture = portuguese
-religion = catholic
+culture = tribal
+religion = ancestry

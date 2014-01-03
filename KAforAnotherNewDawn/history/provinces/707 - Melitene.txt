@@ -5,5 +5,5 @@ b_melitene = castle
 b_arca = temple
 b_samosata = city
 
-culture = armenian
-religion = iconoclast
+culture = tribal
+religion = ancestry

@@ -7,5 +7,5 @@ b_rialto = temple
 b_jesolo = city
 b_lido = city
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

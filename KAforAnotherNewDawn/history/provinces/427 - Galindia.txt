@@ -4,5 +4,5 @@ max_settlements = 4
 b_angerburg = castle
 b_osterode = city
 
-culture = prussian
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

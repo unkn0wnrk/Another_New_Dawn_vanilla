@@ -5,5 +5,5 @@ b_sens = castle
 b_montargis = temple
 b_nemours = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

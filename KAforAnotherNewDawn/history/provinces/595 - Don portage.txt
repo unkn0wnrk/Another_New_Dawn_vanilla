@@ -4,5 +4,5 @@ max_settlements = 3
 b_kalach = castle
 b_illovlya = city
 
-culture = pecheneg
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_perozabad = castle
 b_darab = city
 b_kakhesasan = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

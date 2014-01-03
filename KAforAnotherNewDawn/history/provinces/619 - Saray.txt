@@ -6,5 +6,5 @@ b_chernyyar = castle
 b_saray = city
 b_tsaganaman = temple
 
-culture = khazar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

@@ -3,5 +3,5 @@ title = c_zyriane
 max_settlements = 3
 b_kungur = castle
 
-culture = samoyed
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

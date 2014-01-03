@@ -4,5 +4,5 @@ max_settlements = 3
 b_naxos = castle
 b_santorini = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

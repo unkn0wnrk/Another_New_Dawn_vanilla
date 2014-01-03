@@ -5,5 +5,5 @@ b_ath_cliath = castle
 b_dublin = city
 b_mellifont = temple
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

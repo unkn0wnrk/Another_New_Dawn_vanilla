@@ -5,5 +5,5 @@ b_gombroon = castle
 b_abarkawan = city
 b_jiroth = temple
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

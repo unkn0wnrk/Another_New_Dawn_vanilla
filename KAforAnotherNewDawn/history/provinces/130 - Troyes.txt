@@ -6,5 +6,5 @@ b_langres = castle
 b_chaumont = city
 b_brienne = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

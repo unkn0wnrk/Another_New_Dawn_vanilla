@@ -3,5 +3,5 @@ title = c_herjedalen
 max_settlements = 2
 b_sveg = castle
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

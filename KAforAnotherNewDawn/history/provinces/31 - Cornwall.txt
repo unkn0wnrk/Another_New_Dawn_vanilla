@@ -5,5 +5,5 @@ b_tintagel = castle
 b_bodmin = city
 b_st_germans = temple
 
-culture = breton
-religion = catholic
+culture = tribal
+religion = ancestry

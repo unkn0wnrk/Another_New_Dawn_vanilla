@@ -7,5 +7,5 @@ b_samail = temple
 b_adam = castle
 b_ibra = city
 
-culture = bedouin_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

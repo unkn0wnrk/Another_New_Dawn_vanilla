@@ -3,5 +3,5 @@ title = c_kostroma
 max_settlements = 3
 b_kostroma = castle
 
-culture = mordvin
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

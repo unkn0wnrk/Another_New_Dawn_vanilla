@@ -7,5 +7,5 @@ b_nahavand = city
 b_ganjnameh = temple
 b_asadabad = city
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

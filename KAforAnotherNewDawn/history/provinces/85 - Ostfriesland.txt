@@ -5,5 +5,5 @@ b_norden = castle
 b_aurich = city
 b_borkum = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

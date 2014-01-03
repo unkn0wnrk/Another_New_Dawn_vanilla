@@ -6,5 +6,5 @@ b_antiocheia = temple
 b_latakiah = city
 b_darbsak = castle
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

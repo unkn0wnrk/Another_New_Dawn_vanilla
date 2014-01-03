@@ -5,5 +5,5 @@ b_homs = castle
 b_emesa = city
 b_zweitina = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

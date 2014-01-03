@@ -5,5 +5,5 @@ b_waren = castle
 b_stralsund = city
 b_greifswald = temple
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

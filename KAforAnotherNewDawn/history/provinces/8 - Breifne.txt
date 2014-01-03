@@ -5,5 +5,5 @@ b_dromahair = castle
 b_kells = temple
 b_cavan = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

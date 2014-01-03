@@ -5,5 +5,5 @@ b_bregenz = castle
 b_landeck = city
 b_stanton = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

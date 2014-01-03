@@ -5,5 +5,5 @@ b_egisheim = castle
 b_lauterburg = city
 b_strassburg = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

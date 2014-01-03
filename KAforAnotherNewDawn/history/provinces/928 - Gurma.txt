@@ -3,5 +3,5 @@ title = c_gurma
 max_settlements = 3
 b_gurma = castle
 
-culture = manden
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

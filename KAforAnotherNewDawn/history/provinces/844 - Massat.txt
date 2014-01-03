@@ -6,5 +6,5 @@ b_safi = city
 b_akermoud = temple
 b_haddraa = city
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_gowran = castle
 b_clonmacnoise = temple
 b_kilkenny = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

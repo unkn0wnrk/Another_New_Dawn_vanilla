@@ -4,5 +4,5 @@ max_settlements = 3
 b_parak = castle
 b_tis = city
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

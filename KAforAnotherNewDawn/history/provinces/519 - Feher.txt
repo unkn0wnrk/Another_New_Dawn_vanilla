@@ -5,5 +5,5 @@ b_feher = castle
 b_gyulafehervar = city
 b_arad = temple
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

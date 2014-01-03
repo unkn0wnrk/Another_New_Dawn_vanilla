@@ -5,5 +5,5 @@ b_rouen = castle
 b_arques = city
 b_fecamp = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

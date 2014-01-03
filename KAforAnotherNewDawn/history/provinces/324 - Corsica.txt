@@ -5,5 +5,5 @@ b_ajaccio = castle
 b_bastia = city
 b_bonifacio = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

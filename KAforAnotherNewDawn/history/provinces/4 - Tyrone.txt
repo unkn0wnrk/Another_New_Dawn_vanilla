@@ -5,5 +5,5 @@ b_aileach = castle
 b_derry = temple
 b_coleraine = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

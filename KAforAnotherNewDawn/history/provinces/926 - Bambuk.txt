@@ -5,5 +5,5 @@ b_bambuk = castle
 b_kiffa = city
 b_kankossa = temple
 
-culture = manden
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

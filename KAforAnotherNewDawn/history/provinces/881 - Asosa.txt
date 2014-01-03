@@ -5,5 +5,5 @@ b_asosa = castle
 b_bambasi = city
 b_genetemariam = temple
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

@@ -3,5 +3,5 @@ title = c_angermanland
 max_settlements = 3
 b_bjartra = castle
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_caltabellotta = castle
 b_butera = city
 b_agricento = temple
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_karvuna = castle
 b_silistria = city
 b_kaliakra = temple
 
-culture = bulgarian
-religion = orthodox
+culture = tribal
+religion = ancestry

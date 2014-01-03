@@ -6,5 +6,5 @@ b_vesoul = city
 b_belfort = temple
 b_montbeliard = castle
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

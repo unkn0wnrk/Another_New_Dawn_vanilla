@@ -5,5 +5,5 @@ b_corinth = castle
 b_nauplion = temple
 b_vostitza = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

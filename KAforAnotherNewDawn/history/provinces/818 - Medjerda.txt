@@ -6,5 +6,5 @@ b_lekef = city
 b_siliana = temple
 b_kasserine = city
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

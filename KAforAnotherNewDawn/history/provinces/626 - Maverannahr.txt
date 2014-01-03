@@ -5,5 +5,5 @@ b_darvaza = castle
 b_khiva = city
 b_kuskupir = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

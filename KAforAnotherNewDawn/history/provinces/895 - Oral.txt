@@ -5,5 +5,5 @@ b_kurgan = castle
 b_kyzalyar = city
 b_vagay = temple
 
-culture = cuman
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

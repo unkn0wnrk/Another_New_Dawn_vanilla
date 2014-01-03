@@ -5,5 +5,5 @@ b_monemvasia = castle
 b_arkadia = city
 b_nikli = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

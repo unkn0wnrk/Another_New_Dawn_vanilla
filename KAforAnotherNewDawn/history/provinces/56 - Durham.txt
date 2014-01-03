@@ -5,5 +5,5 @@ b_durham = castle
 b_st_cuthbert = temple
 b_hartlepool = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

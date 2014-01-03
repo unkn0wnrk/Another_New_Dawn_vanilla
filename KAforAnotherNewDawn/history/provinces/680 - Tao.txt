@@ -5,5 +5,5 @@ b_panaskerti = castle
 b_artanuji = city
 b_khakhuli = temple
 
-culture = georgian
-religion = orthodox
+culture = tribal
+religion = ancestry

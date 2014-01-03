@@ -7,5 +7,5 @@ b_randers = city
 b_aarhus = temple
 b_viborg = city
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

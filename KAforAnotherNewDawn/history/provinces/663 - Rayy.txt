@@ -6,5 +6,5 @@ b_hashtgerd = castle
 b_tehran = city
 b_roudehen = temple
 
-culture = persian
-religion = shiite
+culture = tribal
+religion = ancestry

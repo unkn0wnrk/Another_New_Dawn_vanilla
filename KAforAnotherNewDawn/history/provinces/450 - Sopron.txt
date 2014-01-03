@@ -5,5 +5,5 @@ b_sopron = castle
 b_csorna = city
 b_gyor = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

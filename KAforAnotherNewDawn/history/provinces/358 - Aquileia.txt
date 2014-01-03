@@ -5,5 +5,5 @@ b_aquileia = castle
 b_udine = city
 b_friuli = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

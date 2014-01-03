@@ -5,5 +5,5 @@ b_mariyiat = castle
 b_duba = city
 b_tabuk = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

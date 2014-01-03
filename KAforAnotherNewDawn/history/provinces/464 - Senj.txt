@@ -5,5 +5,5 @@ b_senj = castle
 b_brinje = city
 b_kaseg = temple
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

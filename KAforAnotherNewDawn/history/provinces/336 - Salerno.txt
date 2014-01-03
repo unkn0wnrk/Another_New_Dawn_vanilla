@@ -6,5 +6,5 @@ b_nocera = city
 b_acerno = temple
 b_sarno = castle
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

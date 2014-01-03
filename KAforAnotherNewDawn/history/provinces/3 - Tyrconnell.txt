@@ -5,5 +5,5 @@ b_gartan = castle
 b_raphoe = temple
 b_donegal = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

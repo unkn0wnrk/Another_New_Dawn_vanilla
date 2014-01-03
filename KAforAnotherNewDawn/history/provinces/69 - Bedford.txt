@@ -5,5 +5,5 @@ b_bedford = castle
 b_hertford = city
 b_st_albans = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_nishapur = castle
 b_tus = city
 b_jajarm = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

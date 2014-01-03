@@ -5,5 +5,5 @@ b_theodosia = castle
 b_soldaia = city
 b_kimmerikon = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

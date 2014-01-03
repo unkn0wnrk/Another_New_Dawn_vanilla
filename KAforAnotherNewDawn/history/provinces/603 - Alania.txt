@@ -6,5 +6,5 @@ b_magas = city
 b_arkhyz = castle
 b_zaur = castle
 
-culture = alan
-religion = orthodox
+culture = tribal
+religion = ancestry

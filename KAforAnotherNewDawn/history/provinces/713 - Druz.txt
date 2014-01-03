@@ -5,5 +5,5 @@ b_salkhard = castle
 b_dibin = city
 b_awas = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

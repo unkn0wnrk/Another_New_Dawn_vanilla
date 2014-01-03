@@ -7,5 +7,5 @@ b_karamlish = temple
 b_bartella = city
 b_baqofah = castle
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

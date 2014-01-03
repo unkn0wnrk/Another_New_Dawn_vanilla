@@ -5,5 +5,5 @@ b_athens = temple
 b_megara = city
 b_piraeaus = castle
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

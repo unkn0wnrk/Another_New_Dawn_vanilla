@@ -5,5 +5,5 @@ b_gallipoli = castle
 b_heraclea = temple
 b_madyta = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

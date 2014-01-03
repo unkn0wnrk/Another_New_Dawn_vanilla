@@ -7,5 +7,5 @@ b_burgelarab = castle
 b_marabout = city
 b_hammam = castle
 
-culture = egyptian_arabic
-religion = miaphysite
+culture = tribal
+religion = ancestry

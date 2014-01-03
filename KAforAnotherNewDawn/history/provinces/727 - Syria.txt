@@ -5,5 +5,5 @@ b_amrah = castle
 b_otaybah = city
 b_adra = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

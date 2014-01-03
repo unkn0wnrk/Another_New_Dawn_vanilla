@@ -6,5 +6,5 @@ b_burlus = city
 b_saramsah = temple
 b_burah = castle
 
-culture = egyptian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

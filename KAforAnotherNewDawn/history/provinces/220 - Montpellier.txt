@@ -6,5 +6,5 @@ b_montpellier = castle
 b_maguelone = temple
 b_nimes = city
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

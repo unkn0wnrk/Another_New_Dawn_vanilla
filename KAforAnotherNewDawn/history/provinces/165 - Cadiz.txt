@@ -6,5 +6,5 @@ b_jerez = temple
 b_medinasidonia = city
 b_arcos = castle
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_dashhowuz = castle
 b_kunyaurgench = city
 b_tagta = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

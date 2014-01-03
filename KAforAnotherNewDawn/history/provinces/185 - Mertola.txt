@@ -5,5 +5,5 @@ b_mertola = castle
 b_beja = city
 b_monsaraz = temple
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_ani = castle
 b_midjnaberd = city
 b_surpasdvadzadzin = temple
 
-culture = armenian
-religion = miaphysite
+culture = tribal
+religion = ancestry

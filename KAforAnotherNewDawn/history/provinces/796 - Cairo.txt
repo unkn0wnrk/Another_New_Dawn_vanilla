@@ -7,5 +7,5 @@ b_heliopolis = city
 b_helwan = castle
 b_maadi = castle
 
-culture = egyptian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

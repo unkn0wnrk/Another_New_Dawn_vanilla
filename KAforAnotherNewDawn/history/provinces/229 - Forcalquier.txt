@@ -5,5 +5,5 @@ b_forcalquier = castle
 b_apt = city
 b_embrun = temple
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

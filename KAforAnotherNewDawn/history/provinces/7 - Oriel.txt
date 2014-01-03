@@ -5,5 +5,5 @@ b_clones = castle
 b_armagh = temple
 b_dundalk = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

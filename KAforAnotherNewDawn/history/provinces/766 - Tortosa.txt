@@ -5,5 +5,5 @@ b_tortosa = castle
 b_maraclea = city
 b_balemia = temple
 
-culture = levantine_arabic
-religion = orthodox
+culture = tribal
+religion = ancestry

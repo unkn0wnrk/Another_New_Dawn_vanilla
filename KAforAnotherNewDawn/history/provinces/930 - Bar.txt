@@ -5,5 +5,5 @@ b_barleduc = castle
 b_commercy = city
 b_saintdizier = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

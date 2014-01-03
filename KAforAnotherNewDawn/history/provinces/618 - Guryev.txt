@@ -5,5 +5,5 @@ b_atyrau = castle
 b_sarayjuk = city
 b_yesmakan = temple
 
-culture = turkish
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

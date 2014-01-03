@@ -6,5 +6,5 @@ b_tunbeja = temple
 b_jendouba = city
 b_ghezala = castle
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

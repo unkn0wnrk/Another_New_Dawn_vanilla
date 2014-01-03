@@ -6,5 +6,5 @@ b_luna = city
 b_rapallo = temple
 b_savona = city
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

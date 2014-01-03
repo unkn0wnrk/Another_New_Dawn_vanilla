@@ -5,5 +5,5 @@ b_mozdok = castle
 b_terek = city
 b_makhmudmekteb = temple
 
-culture = alan
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

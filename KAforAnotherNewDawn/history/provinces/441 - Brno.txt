@@ -5,5 +5,5 @@ b_velehrad = castle
 b_prerov = temple
 b_kromeriz = city
 
-culture = bohemian
-religion = catholic
+culture = tribal
+religion = ancestry

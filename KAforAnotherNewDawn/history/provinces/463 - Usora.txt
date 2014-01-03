@@ -5,5 +5,5 @@ b_usora = castle
 b_bihac = city
 b_banjaluka = temple
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_turov = castle
 b_mazyr = city
 b_dubrovitsya = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

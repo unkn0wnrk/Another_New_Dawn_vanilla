@@ -4,5 +4,5 @@ max_settlements = 2
 b_somna = castle
 b_veiga = city
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_freiburg = castle
 b_offenburg = city
 b_stblasien = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

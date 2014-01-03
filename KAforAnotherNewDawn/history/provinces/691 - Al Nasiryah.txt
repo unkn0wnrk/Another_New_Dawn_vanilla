@@ -6,5 +6,5 @@ b_dhiqar = city
 b_qalatsukkar = temple
 b_mukayyar = castle
 
-culture = levantine_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

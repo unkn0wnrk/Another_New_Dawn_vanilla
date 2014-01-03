@@ -5,5 +5,5 @@ b_dinefwr = castle
 b_st_davids = temple
 b_carmarthen = city
 
-culture = welsh
-religion = catholic
+culture = tribal
+religion = ancestry

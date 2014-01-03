@@ -7,5 +7,5 @@ b_tagrit = temple
 b_balad = castle
 b_amirli = castle
 
-culture = levantine_arabic
-religion = nestorian
+culture = tribal
+religion = ancestry

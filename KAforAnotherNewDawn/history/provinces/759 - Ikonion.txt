@@ -5,5 +5,5 @@ b_ikonion = castle
 b_gaspadale = city
 b_lisdra = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

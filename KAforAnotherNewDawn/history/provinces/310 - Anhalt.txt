@@ -6,5 +6,5 @@ b_haldensleben = city
 b_magdeburg = temple
 b_querfurt = castle
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

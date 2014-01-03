@@ -5,5 +5,5 @@ b_agen = castle
 b_cahors = city
 b_luzech = temple
 
-culture = occitan
-religion = catholic
+culture = tribal
+religion = ancestry

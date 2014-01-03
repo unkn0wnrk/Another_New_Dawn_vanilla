@@ -4,5 +4,5 @@ max_settlements = 4
 b_eikundarsund = castle
 b_stavanger = city
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

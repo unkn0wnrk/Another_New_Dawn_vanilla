@@ -5,5 +5,5 @@ b_yeldar = castle
 b_band_jask = city
 b_miski = temple
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

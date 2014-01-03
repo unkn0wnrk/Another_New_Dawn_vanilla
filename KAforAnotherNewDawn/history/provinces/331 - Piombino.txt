@@ -5,5 +5,5 @@ b_piombino = castle
 b_suvereto = city
 b_radicofani = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_khoy = city
 b_takhtesoleyman = temple
 b_salmas = castle
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

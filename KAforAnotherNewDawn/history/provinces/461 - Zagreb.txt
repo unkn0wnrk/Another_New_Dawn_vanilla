@@ -5,5 +5,5 @@ b_zagreb = castle
 b_karlovac = city
 b_sisak = temple
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_araden = city
 b_bebadi = temple
 b_dawodiya = castle
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

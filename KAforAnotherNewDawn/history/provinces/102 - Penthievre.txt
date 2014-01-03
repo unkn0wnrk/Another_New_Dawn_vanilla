@@ -5,5 +5,5 @@ b_monkontour = castle
 b_paimpol = temple
 b_st_brieuc = city
 
-culture = breton
-religion = catholic
+culture = tribal
+religion = ancestry

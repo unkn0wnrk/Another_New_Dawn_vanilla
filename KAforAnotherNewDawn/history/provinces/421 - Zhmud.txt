@@ -5,5 +5,5 @@ b_jurbarkas = castle
 b_raseiniai = city
 b_varviai = temple
 
-culture = lithuanian
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

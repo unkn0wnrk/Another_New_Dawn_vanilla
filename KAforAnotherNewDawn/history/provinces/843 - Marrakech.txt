@@ -8,5 +8,5 @@ b_ouarzazate = city
 b_demnat = city
 b_asni = city
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

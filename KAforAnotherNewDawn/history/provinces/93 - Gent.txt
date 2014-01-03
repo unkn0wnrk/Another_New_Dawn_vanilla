@@ -6,5 +6,5 @@ b_gent = city
 b_doornik = temple
 b_kortrijk = city
 
-culture = dutch
-religion = catholic
+culture = tribal
+religion = ancestry

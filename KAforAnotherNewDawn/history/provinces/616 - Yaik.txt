@@ -5,5 +5,5 @@ b_orenburg = castle
 b_kargala = city
 b_saraktash = temple
 
-culture = pecheneg
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

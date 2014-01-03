@@ -5,5 +5,5 @@ b_belgorod = castle
 b_chilia = city
 b_oblucita = temple
 
-culture = avar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

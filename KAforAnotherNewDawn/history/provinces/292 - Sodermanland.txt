@@ -5,5 +5,5 @@ b_gripsholm = castle
 b_nykoping = city
 b_strangnas = temple
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

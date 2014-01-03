@@ -5,5 +5,5 @@ b_alexandretta = castle
 b_rhosus = temple
 b_portella = city
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

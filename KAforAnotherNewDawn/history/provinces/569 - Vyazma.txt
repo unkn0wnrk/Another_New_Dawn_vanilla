@@ -5,5 +5,5 @@ b_vyazma = castle
 b_yelnya = city
 b_dukhov = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

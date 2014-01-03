@@ -5,5 +5,5 @@ b_middelburg = castle
 b_vlissingen = city
 b_tholen = temple
 
-culture = dutch
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_uppsala = temple
 b_birka = city
 b_sigtuna = city
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

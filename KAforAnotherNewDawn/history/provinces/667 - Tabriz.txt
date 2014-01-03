@@ -6,5 +6,5 @@ b_tabriz = city
 b_maragheh = temple
 b_ahar = castle
 
-culture = kurdish
-religion = sunni
+culture = tribal
+religion = ancestry

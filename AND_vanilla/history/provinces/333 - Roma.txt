@@ -15,8 +15,8 @@ b_tivoli = castle
 #b_sutri = castle
 
 # Misc
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry
 
 # History
 

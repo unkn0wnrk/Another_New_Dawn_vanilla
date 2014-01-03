@@ -5,5 +5,5 @@ b_bailjar = castle
 b_bussaga = city
 b_barsakelmos = temple
 
-culture = turkish
-religion = zoroastrian
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_roscommon = castle
 b_tuam = temple
 b_galway = city
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

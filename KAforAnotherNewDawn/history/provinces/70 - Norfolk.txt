@@ -5,5 +5,5 @@ b_thetford = castle
 b_norwich = temple
 b_lynn = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

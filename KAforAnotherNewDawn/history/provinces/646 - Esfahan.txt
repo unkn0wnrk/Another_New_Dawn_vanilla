@@ -7,5 +7,5 @@ b_zarrinshahr = city
 b_khansar = temple
 b_sedeh = city
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

@@ -6,5 +6,5 @@ b_kuttenberg = city
 b_brevnov = temple
 b_karlstein = castle
 
-culture = bohemian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

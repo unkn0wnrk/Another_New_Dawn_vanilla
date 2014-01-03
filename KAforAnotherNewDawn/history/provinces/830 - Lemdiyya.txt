@@ -5,5 +5,5 @@ b_medea = castle
 b_relizane = city
 b_aindefla = temple
 
-culture = maghreb_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_charolles = castle
 b_semurenbrionnais = city
 b_perrecy = temple
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

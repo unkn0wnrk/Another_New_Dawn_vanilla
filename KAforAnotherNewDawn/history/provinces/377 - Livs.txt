@@ -5,5 +5,5 @@ b_lemisele = castle
 b_wenden = temple
 b_uxkull = city
 
-culture = ugricbaltic
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

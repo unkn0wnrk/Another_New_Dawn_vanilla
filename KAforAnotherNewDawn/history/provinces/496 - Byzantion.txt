@@ -9,5 +9,5 @@ b_deuteron = city
 b_pempton = city
 b_constantinople = castle
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

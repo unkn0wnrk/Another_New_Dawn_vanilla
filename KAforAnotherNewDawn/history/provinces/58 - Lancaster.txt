@@ -5,5 +5,5 @@ b_lancaster = castle
 b_preston = city
 b_furness = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

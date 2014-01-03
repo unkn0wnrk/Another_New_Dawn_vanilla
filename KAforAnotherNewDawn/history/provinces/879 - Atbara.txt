@@ -3,5 +3,5 @@ title = c_atbara
 max_settlements = 3
 b_atbara = castle
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

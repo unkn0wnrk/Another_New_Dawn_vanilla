@@ -5,5 +5,5 @@ b_akordat = castle
 b_cheren = city
 b_teseney = temple
 
-culture = ethiopian
-religion = miaphysite
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_al_jawf = castle
 b_sakakah = city
 b_aladan = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

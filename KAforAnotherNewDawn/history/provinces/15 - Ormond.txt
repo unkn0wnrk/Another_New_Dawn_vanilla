@@ -5,5 +5,5 @@ b_waterford = city
 b_cashel = temple
 b_nenagh = castle
 
-culture = irish
-religion = catholic
+culture = tribal
+religion = ancestry

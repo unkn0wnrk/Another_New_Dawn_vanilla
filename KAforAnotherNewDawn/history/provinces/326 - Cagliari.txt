@@ -5,5 +5,5 @@ b_cagliari = castle
 b_ogliastra = city
 b_assemini = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

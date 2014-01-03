@@ -5,5 +5,5 @@ b_ryazan = castle
 b_grodets = city
 b_solotcha = temple
 
-culture = mordvin
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

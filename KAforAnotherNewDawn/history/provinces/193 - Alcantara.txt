@@ -5,5 +5,5 @@ b_alcantara = castle
 b_moraleja = city
 b_coria = temple
 
-culture = castillan
-religion = catholic
+culture = tribal
+religion = ancestry

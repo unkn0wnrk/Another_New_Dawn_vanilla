@@ -5,5 +5,5 @@ b_geneve = castle
 b_lausanne = temple
 b_nyon = city
 
-culture = frankish
-religion = catholic
+culture = tribal
+religion = ancestry

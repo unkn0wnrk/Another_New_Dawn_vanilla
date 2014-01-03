@@ -5,5 +5,5 @@ b_trapezous = castle
 b_koralla = city
 b_rizaion = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

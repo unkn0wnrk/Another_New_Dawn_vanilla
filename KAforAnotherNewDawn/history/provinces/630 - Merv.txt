@@ -6,5 +6,5 @@ b_yoloten = castle
 b_bayramaly = city
 b_tagtabazar = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_travemunde = castle
 b_ratzeburg = temple
 b_starigard = city
 
-culture = pommeranian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

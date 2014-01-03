@@ -5,5 +5,5 @@ b_glatz = castle
 b_jicin = city
 b_hradiste = temple
 
-culture = bohemian
-religion = catholic
+culture = tribal
+religion = ancestry

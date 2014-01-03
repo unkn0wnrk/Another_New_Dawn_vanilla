@@ -6,5 +6,5 @@ b_mostaganem = city
 b_aintemouchent = temple
 b_maghnia = castle
 
-culture = maghreb_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

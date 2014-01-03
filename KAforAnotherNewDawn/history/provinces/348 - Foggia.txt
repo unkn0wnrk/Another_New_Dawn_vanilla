@@ -5,5 +5,5 @@ b_lucera = castle
 b_foggia = city
 b_siponto = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

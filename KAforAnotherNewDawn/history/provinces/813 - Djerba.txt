@@ -5,5 +5,5 @@ b_houmtsouk = castle
 b_midoun = city
 b_ajim = temple
 
-culture = maghreb_arabic
-religion = ibadi
+culture = tribal
+religion = ancestry

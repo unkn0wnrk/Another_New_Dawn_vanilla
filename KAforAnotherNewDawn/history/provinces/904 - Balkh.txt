@@ -5,5 +5,5 @@ b_balkh = castle
 b_takhtisangin = temple
 b_termez = city
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

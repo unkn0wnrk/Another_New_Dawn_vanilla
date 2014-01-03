@@ -6,5 +6,5 @@ b_umm_ar-rasas = temple
 b_sahab = city
 b_qastal = castle
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

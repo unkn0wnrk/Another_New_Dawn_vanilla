@@ -5,5 +5,5 @@ b_theodosiopolis = castle
 b_argyropolis = city
 b_citharizum = temple
 
-culture = armenian
-religion = miaphysite
+culture = tribal
+religion = ancestry

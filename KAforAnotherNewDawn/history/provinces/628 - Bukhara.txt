@@ -6,5 +6,5 @@ b_vabkent = city
 b_bukhara = temple
 b_karkuh = castle
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

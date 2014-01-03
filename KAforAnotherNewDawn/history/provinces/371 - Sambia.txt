@@ -5,5 +5,5 @@ b_konigsberg = castle
 b_sambrandenburg = city
 b_fischhausen = temple
 
-culture = prussian
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_empuries = castle
 b_girona = city
 b_cerdana = castle
 
-culture = catalan
-religion = catholic
+culture = tribal
+religion = ancestry

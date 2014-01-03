@@ -5,5 +5,5 @@ b_tubingen = castle
 b_heiligenberg = city
 b_konstanz = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

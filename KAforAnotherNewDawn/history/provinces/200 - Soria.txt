@@ -5,5 +5,5 @@ b_soria = castle
 b_almazan = city
 b_osma = temple
 
-culture = castillan
-religion = catholic
+culture = tribal
+religion = ancestry

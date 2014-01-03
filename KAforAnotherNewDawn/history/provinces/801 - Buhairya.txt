@@ -5,5 +5,5 @@ b_buhairya = castle
 b_qasrfarfra = city
 b_mut = temple
 
-culture = egyptian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

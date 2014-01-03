@@ -5,5 +5,5 @@ b_sarysu = castle
 b_tsaritsyn = city
 b_kamyshin = temple
 
-culture = pecheneg
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

@@ -3,5 +3,5 @@ title = c_shetland
 max_settlements = 2
 b_cunningsburgh = castle
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

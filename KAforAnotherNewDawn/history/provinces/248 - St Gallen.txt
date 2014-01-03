@@ -5,5 +5,5 @@ b_rheineck = city
 b_appenzell = castle
 b_stgallen = temple
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

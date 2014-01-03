@@ -7,5 +7,5 @@ b_naestved = city
 b_roskilde = city
 b_kobenhavn = city
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

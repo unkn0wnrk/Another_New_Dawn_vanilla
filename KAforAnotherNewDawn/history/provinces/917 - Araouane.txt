@@ -3,5 +3,5 @@ title = c_araouane
 max_settlements = 1
 b_araouane = castle
 
-culture = maghreb_arabic
-religion = west_african_pagan
+culture = tribal
+religion = ancestry

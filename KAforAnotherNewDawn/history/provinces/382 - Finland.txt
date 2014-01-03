@@ -4,5 +4,5 @@ max_settlements = 4
 b_kuusisto = castle
 b_turku = city
 
-culture = finnish
-religion = finnish_pagan
+culture = tribal
+religion = ancestry

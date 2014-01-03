@@ -6,5 +6,5 @@ b_reutlingen = city
 b_heilbronn = temple
 b_asperg = castle
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

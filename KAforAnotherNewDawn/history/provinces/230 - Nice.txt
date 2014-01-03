@@ -5,5 +5,5 @@ b_nizza = castle
 b_mentone = city
 b_monaco = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

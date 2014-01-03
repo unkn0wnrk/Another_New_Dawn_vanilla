@@ -5,5 +5,5 @@ b_blair_atholl = castle
 b_pitlochry = city
 b_fortingall = temple
 
-culture = scottish
-religion = catholic
+culture = tribal
+religion = ancestry

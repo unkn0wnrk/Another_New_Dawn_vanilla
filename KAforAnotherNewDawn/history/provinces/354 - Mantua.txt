@@ -5,5 +5,5 @@ b_mantua = castle
 b_castellucchio = city
 b_serravalle = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_kharka = castle
 b_challykala = temple
 b_sumy = city
 
-culture = khazar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

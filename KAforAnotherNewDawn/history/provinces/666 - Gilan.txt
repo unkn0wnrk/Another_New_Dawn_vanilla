@@ -6,5 +6,5 @@ b_rasht = city
 b_talysh = temple
 b_masouleh = castle
 
-culture = kurdish
-religion = zoroastrian
+culture = tribal
+religion = ancestry

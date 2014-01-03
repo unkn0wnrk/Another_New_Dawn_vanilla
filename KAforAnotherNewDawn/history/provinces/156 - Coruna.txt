@@ -5,5 +5,5 @@ b_corunna = castle
 b_lugo = city
 b_mondonedo = temple
 
-culture = portuguese
-religion = catholic
+culture = tribal
+religion = ancestry

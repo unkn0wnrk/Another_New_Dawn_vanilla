@@ -6,5 +6,5 @@ b_visby = city
 b_geatish_roma = temple
 b_othem = castle
 
-culture = norse
-religion = norse_pagan
+culture = tribal
+religion = ancestry

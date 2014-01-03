@@ -5,5 +5,5 @@ b_vitebsk = castle
 b_haradok = city
 b_sakolniki = temple
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

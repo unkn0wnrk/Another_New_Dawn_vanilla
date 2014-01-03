@@ -5,5 +5,5 @@ b_holuf = temple
 b_alhasa = city
 b_foda = castle
 
-culture = bedouin_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

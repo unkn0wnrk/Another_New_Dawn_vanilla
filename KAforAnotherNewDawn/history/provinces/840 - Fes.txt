@@ -8,5 +8,5 @@ b_elhajeb = castle
 b_missour = city
 b_sefrou = temple
 
-culture = maghreb_arabic
-religion = shiite
+culture = tribal
+religion = ancestry

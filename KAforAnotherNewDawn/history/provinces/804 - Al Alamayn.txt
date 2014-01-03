@@ -5,5 +5,5 @@ b_elalamein = castle
 b_mersamatruh = city
 b_sidibarrani = temple
 
-culture = egyptian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

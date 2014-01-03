@@ -5,5 +5,5 @@ b_ventava = castle
 b_grobin = city
 b_piltene = temple
 
-culture = lettigallish
-religion = baltic_pagan
+culture = tribal
+religion = ancestry

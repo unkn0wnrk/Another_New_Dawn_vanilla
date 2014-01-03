@@ -5,5 +5,5 @@ b_pavia = castle
 b_piacenza = city
 b_bobbio = temple
 
-culture = italian
-religion = catholic
+culture = tribal
+religion = ancestry

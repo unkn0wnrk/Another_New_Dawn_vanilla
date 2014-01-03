@@ -5,5 +5,5 @@ b_murcia = castle
 b_cartagena = city
 b_lorca = temple
 
-culture = andalusian_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

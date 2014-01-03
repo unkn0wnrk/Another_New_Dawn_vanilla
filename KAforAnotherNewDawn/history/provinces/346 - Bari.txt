@@ -5,5 +5,5 @@ b_conversano = castle
 b_bari = city
 b_giovinazzo = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_gabes = castle
 b_medenine = city
 b_kebili = temple
 
-culture = maghreb_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

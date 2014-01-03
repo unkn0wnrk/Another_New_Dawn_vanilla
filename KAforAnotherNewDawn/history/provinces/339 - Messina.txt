@@ -5,5 +5,5 @@ b_taormina = castle
 b_messina = city
 b_lipari = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

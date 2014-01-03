@@ -5,5 +5,5 @@ b_trogir = castle
 b_split = city
 b_hvar = temple
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

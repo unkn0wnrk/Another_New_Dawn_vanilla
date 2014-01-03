@@ -5,5 +5,5 @@ b_appleby = castle
 b_lowther = city
 b_cartmel = temple
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

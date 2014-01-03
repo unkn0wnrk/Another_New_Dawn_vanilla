@@ -5,5 +5,5 @@ b_maan = castle
 b_mutah = city
 b_shubak = temple
 
-culture = levantine_arabic
-religion = sunni
+culture = tribal
+religion = ancestry

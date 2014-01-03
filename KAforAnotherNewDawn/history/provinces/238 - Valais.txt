@@ -5,5 +5,5 @@ b_sitten = castle
 b_greyerz = temple
 b_martigny = city
 
-culture = german
-religion = catholic
+culture = tribal
+religion = ancestry

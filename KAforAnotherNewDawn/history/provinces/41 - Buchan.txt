@@ -5,5 +5,5 @@ b_ellon = castle
 b_st_machar = temple
 b_aberdeen = city
 
-culture = scottish
-religion = catholic
+culture = tribal
+religion = ancestry

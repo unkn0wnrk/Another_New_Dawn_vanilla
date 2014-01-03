@@ -5,5 +5,5 @@ b_kalar = castle
 b_chaloos = city
 b_rostamrood = temple
 
-culture = persian
-religion = zoroastrian
+culture = tribal
+religion = ancestry

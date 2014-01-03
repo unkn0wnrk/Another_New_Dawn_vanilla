@@ -6,5 +6,5 @@ b_suar = city
 b_tetyushi = castle
 b_ashli = temple
 
-culture = bolghar
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

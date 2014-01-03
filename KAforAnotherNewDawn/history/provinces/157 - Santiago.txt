@@ -6,5 +6,5 @@ b_santiago = temple
 b_vigo = city
 b_tuy = temple
 
-culture = portuguese
-religion = catholic
+culture = tribal
+religion = ancestry

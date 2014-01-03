@@ -5,5 +5,5 @@ b_ankyra = castle
 b_germa = city
 b_akroynon = temple
 
-culture = greek
-religion = orthodox
+culture = tribal
+religion = ancestry

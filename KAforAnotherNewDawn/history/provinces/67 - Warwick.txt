@@ -5,5 +5,5 @@ b_warwick = castle
 b_coventry = temple
 b_stafford = city
 
-culture = saxon
-religion = catholic
+culture = tribal
+religion = ancestry

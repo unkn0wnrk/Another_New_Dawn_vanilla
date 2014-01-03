@@ -5,5 +5,5 @@ b_mostar = castle
 b_livno = city
 b_duvno = temple
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

@@ -5,5 +5,5 @@ b_frankopan = castle
 b_veglia = city
 b_krk = temple
 
-culture = croatian
-religion = catholic
+culture = tribal
+religion = ancestry

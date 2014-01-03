@@ -7,5 +7,5 @@ b_anbar = temple
 b_rawa = castle
 b_hit = castle
 
-culture = levantine_arabic
-religion = nestorian
+culture = tribal
+religion = ancestry

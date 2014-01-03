@@ -4,5 +4,5 @@ max_settlements = 3
 b_zaporzhye = castle
 b_huliaipole = city
 
-culture = hungarian
-religion = tengri_pagan
+culture = tribal
+religion = ancestry

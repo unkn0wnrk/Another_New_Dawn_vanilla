@@ -5,5 +5,5 @@ b_lambsar = castle
 b_qazwin = city
 b_ahmadabad = temple
 
-culture = persian
-religion = sunni
+culture = tribal
+religion = ancestry

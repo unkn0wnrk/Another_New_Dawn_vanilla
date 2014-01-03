@@ -4,5 +4,5 @@ max_settlements = 4
 b_velikiyeluki = castle
 b_nevel = city
 
-culture = russian
-religion = slavic_pagan
+culture = tribal
+religion = ancestry

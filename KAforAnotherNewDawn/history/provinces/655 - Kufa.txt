@@ -7,5 +7,5 @@ b_bussayyah = city
 b_hammar = castle
 b_chibayish = castle
 
-culture = bedouin_arabic
-religion = shiite
+culture = tribal
+religion = ancestry
