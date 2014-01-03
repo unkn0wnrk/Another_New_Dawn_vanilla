@@ -1,0 +1,9 @@
+title = c_arborea
+
+max_settlements = 3
+b_sassari = castle
+b_oristano = city
+b_ardara = temple
+
+culture = italian
+religion = catholic

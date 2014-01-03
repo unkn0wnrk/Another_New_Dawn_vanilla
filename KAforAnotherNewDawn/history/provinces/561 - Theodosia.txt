@@ -1,0 +1,9 @@
+title = c_theodosia
+
+max_settlements = 5
+b_theodosia = castle
+b_soldaia = city
+b_kimmerikon = temple
+
+culture = greek
+religion = orthodox

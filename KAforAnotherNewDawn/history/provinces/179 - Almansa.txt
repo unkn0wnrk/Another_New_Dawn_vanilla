@@ -1,0 +1,9 @@
+title = c_almansa
+
+max_settlements = 4
+b_almansa = city
+b_albacete = castle
+b_hellin = temple
+
+culture = maghreb_arabic
+religion = sunni

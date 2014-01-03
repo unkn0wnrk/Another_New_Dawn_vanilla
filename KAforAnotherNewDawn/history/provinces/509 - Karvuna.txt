@@ -1,0 +1,9 @@
+title = c_karvuna
+
+max_settlements = 4
+b_karvuna = castle
+b_silistria = city
+b_kaliakra = temple
+
+culture = bulgarian
+religion = orthodox

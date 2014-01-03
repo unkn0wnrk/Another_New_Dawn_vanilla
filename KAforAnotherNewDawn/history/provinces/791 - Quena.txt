@@ -1,0 +1,9 @@
+title = c_quena
+
+max_settlements = 3
+b_quena = castle
+b_kosseir = city
+b_qus = temple
+
+culture = egyptian_arabic
+religion = miaphysite

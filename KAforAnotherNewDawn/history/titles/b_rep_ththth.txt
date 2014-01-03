@@ -1,0 +1,5 @@
+839.8.111= {
+	holding_dynasty = 632
+	liege = "d_herakleia"
+	holder = 100001430
+}

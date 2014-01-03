@@ -1,0 +1,11 @@
+838.5.22 = {
+	holder = 100000348
+	law = succ_ultimogeniture
+	law = cognatic_succession
+	law = city_contract_1
+	law = city_tax_1
+	law = feudal_contract_0
+	law = feudal_tax_1
+	law = temple_contract_3
+	law = temple_tax_3
+}

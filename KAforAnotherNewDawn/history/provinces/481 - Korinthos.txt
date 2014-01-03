@@ -1,0 +1,9 @@
+title = c_korinthos
+
+max_settlements = 4
+b_corinth = castle
+b_nauplion = temple
+b_vostitza = city
+
+culture = greek
+religion = orthodox

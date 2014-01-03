@@ -1,0 +1,9 @@
+title = c_kempten
+
+max_settlements = 4
+b_kempten = temple
+b_augsburg = castle
+b_donauworth = city
+
+culture = german
+religion = catholic

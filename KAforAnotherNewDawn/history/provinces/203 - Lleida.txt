@@ -1,0 +1,9 @@
+title = c_lleida
+
+max_settlements = 4
+b_lleida = city
+b_cervera = castle
+b_solsona = temple
+
+culture = catalan
+religion = catholic

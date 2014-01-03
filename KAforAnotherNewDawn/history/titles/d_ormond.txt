@@ -1,0 +1,14 @@
+842.8.6 = {
+	holder = 100000021
+	law = succ_seniority
+	law = agnatic_succession
+	law = city_contract_2
+	law = city_tax_1
+	law = feudal_contract_0
+	law = feudal_tax_1
+	law = temple_contract_0
+	law = temple_tax_0
+}
+865.1.1 = {
+	de_jure_liege="k_europa"
+}

@@ -1,0 +1,9 @@
+843.11.13 = {
+	holder = 100000096
+	law = succ_ultimogeniture
+	law = true_cognatic_succession
+	law = city_contract_2
+	law = city_tax_1
+	law = iqta_contract_1
+	law = iqta_tax_1
+}

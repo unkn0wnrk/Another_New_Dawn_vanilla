@@ -1,0 +1,9 @@
+title = c_philippopolis
+
+max_settlements = 5
+b_philippopolis = castle
+b_klokoknitsa = city
+b_xantheia = temple
+
+culture = greek
+religion = orthodox

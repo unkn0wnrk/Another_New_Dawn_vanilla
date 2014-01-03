@@ -1,0 +1,9 @@
+title = c_oral
+
+max_settlements = 3
+b_kurgan = castle
+b_kyzalyar = city
+b_vagay = temple
+
+culture = cuman
+religion = tengri_pagan

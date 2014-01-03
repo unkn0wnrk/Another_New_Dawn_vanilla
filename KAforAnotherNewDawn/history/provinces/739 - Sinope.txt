@@ -1,0 +1,9 @@
+title = c_sinope
+
+max_settlements = 4
+b_sinope = castle
+b_pompeiopolis = city
+b_germanicopolis = temple
+
+culture = greek
+religion = orthodox

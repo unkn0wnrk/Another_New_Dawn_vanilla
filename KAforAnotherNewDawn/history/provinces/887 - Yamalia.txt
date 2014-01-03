@@ -1,0 +1,7 @@
+title = c_yamalia
+
+max_settlements = 2
+b_polnovatvozh = castle
+
+culture = komi
+religion = finnish_pagan

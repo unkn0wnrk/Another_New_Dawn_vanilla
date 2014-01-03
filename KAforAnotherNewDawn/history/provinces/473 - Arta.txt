@@ -1,0 +1,9 @@
+title = c_arta
+
+max_settlements = 4
+b_angelokastron = temple
+b_arta = city
+b_preveza = castle
+
+culture = greek
+religion = orthodox

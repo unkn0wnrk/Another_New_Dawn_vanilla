@@ -1,0 +1,9 @@
+title = c_nice
+
+max_settlements = 4
+b_nizza = castle
+b_mentone = city
+b_monaco = temple
+
+culture = italian
+religion = catholic

@@ -1,0 +1,10 @@
+title = c_york
+
+max_settlements = 5
+b_york = temple
+b_st_peters = castle
+b_richmond = castle
+b_scarborough = city
+
+culture = saxon
+religion = catholic

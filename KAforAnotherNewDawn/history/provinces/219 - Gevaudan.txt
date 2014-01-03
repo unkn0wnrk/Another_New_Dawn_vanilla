@@ -1,0 +1,9 @@
+title = c_gevaudan
+
+max_settlements = 4
+b_grezes = temple
+b_mende = castle
+b_marvejols = city
+
+culture = occitan
+religion = catholic

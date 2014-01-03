@@ -1,0 +1,11 @@
+837.7.11 = {
+	holder = 100001155
+	law = succ_feudal_elective
+	law = cognatic_succession
+	law = city_contract_1
+	law = city_tax_3
+	law = feudal_contract_1
+	law = feudal_tax_1
+	law = temple_contract_1
+	law = temple_tax_1
+}

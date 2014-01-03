@@ -1,0 +1,14 @@
+832.9.11 = {
+	holder = 100000008
+	law = succ_ultimogeniture
+	law = cognatic_succession
+	law = city_contract_1
+	law = city_tax_1
+	law = feudal_contract_2
+	law = feudal_tax_0
+	law = temple_contract_1
+	law = temple_tax_2
+}
+865.1.1 = {
+	de_jure_liege="k_europa"
+}

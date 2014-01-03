@@ -1,0 +1,9 @@
+title = c_seleukeia
+
+max_settlements = 4
+b_seleukeia = castle
+b_germanak = city
+b_irenopolis = temple
+
+culture = greek
+religion = orthodox

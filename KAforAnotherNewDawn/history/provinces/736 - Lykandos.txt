@@ -1,0 +1,9 @@
+title = c_lykandos
+
+max_settlements = 4
+b_lykandos = castle
+b_tzamandos = city
+b_comanagene = temple
+
+culture = greek
+religion = iconoclast

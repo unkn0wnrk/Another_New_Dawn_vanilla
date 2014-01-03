@@ -1,0 +1,9 @@
+title = c_kaisereia
+
+max_settlements = 5
+b_talas = temple
+b_misti = city
+b_kaisereia = castle
+
+culture = greek
+religion = iconoclast

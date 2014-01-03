@@ -1,0 +1,9 @@
+title = c_ikonion
+
+max_settlements = 5
+b_ikonion = castle
+b_gaspadale = city
+b_lisdra = temple
+
+culture = greek
+religion = orthodox

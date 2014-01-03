@@ -1,0 +1,9 @@
+title = c_tabaristan
+
+max_settlements = 5
+b_firuzkuh = temple
+b_amol = castle
+b_sari = city
+
+culture = persian
+religion = zoroastrian

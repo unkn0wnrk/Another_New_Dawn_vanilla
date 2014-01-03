@@ -1,0 +1,9 @@
+title = c_kara-kum
+
+max_settlements = 3
+b_kyzylsu = city
+b_gazanjyk = castle
+b_bekdas = temple
+
+culture = persian
+religion = zoroastrian

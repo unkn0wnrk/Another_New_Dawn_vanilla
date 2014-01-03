@@ -1,0 +1,5 @@
+833.6.201= {
+	holding_dynasty = 7320
+	liege = "d_manupura"
+	holder = 100000010
+}

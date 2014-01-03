@@ -1,0 +1,11 @@
+835.8.5 = {
+	holder = 100000468
+	law = succ_gavelkind
+	law = cognatic_succession
+	law = city_contract_0
+	law = city_tax_1
+	law = feudal_contract_0
+	law = feudal_tax_0
+	law = temple_contract_2
+	law = temple_tax_0
+}

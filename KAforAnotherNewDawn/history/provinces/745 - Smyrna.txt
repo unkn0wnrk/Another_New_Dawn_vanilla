@@ -1,0 +1,10 @@
+title = c_smyrna
+
+max_settlements = 6
+b_smyrna = castle
+b_pergamon = city
+b_phokaia = temple
+b_klazomeanai = city
+
+culture = greek
+religion = orthodox

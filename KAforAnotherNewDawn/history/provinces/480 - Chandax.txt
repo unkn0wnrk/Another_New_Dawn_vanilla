@@ -1,0 +1,9 @@
+title = c_chandax
+
+max_settlements = 4
+b_iraklio = castle
+b_lassithi = city
+b_agiosnikolaos = temple
+
+culture = greek
+religion = orthodox

@@ -1,0 +1,9 @@
+title = c_caceres
+
+max_settlements = 4
+b_caceres = temple
+b_trujillo = city
+b_guadalupe = castle
+
+culture = castillan
+religion = catholic

@@ -1,0 +1,14 @@
+839.4.11 = {
+	holder = 100000015
+	law = succ_feudal_elective
+	law = true_cognatic_succession
+	law = city_contract_1
+	law = city_tax_1
+	law = feudal_contract_0
+	law = feudal_tax_3
+	law = temple_contract_0
+	law = temple_tax_1
+}
+865.1.1 = {
+	de_jure_liege="k_europa"
+}

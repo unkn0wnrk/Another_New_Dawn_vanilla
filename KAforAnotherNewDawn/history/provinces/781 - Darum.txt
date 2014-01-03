@@ -1,0 +1,9 @@
+title = c_darum
+
+max_settlements = 3
+b_darum = temple
+b_rafah = city
+b_gaza = castle
+
+culture = levantine_arabic
+religion = sunni

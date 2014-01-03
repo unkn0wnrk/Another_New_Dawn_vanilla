@@ -1,0 +1,9 @@
+title = c_najera
+
+max_settlements = 4
+b_najera = city
+b_logrone = castle
+b_calahorra = temple
+
+culture = basque
+religion = catholic

@@ -1,0 +1,9 @@
+831.10.25 = {
+	holder = 100000793
+	law = succ_turkish_succession
+	law = agnatic_succession
+	law = city_contract_1
+	law = city_tax_0
+	law = iqta_contract_2
+	law = iqta_tax_2
+}

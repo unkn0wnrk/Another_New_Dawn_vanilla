@@ -1,0 +1,5 @@
+840.2.271= {
+	holding_dynasty = 2022
+	liege = "d_oxford"
+	holder = 100001401
+}

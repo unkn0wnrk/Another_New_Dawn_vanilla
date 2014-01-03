@@ -1,0 +1,5 @@
+828.3.271= {
+	holding_dynasty = 25003
+	liege = "d_ormond"
+	holder = 100001444
+}

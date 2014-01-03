@@ -1,0 +1,8 @@
+title = c_southern_ural
+
+max_settlements = 5
+b_boro = castle
+b_daulakan = city
+
+culture = bolghar
+religion = tengri_pagan
