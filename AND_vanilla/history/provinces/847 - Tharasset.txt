@@ -1,7 +1,0 @@
-title = c_tharasset
-
-max_settlements = 3
-b_tharasset = temple
-
-culture = maghreb_arabic
-religion = shiite

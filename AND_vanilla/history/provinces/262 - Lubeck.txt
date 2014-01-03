@@ -1,9 +1,0 @@
-title = c_lubeck
-
-max_settlements = 6
-b_travemunde = castle
-b_ratzeburg = temple
-b_starigard = city
-
-culture = pommeranian
-religion = slavic_pagan

@@ -1,9 +1,0 @@
-title = c_dwin
-
-max_settlements = 3
-b_lori = castle
-b_dvin = city
-b_etchmiadzin = temple
-
-culture = armenian
-religion = miaphysite

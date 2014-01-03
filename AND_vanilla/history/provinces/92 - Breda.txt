@@ -1,9 +1,0 @@
-title = c_breda
-
-max_settlements = 5
-b_breda = city
-b_shertogenbosch = castle
-b_tilburg = temple
-
-culture = dutch
-religion = catholic

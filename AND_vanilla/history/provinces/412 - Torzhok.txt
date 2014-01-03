@@ -1,8 +1,0 @@
-title = c_torzhok
-
-max_settlements = 4
-b_yamskygorodok = castle
-b_kingisepp = city
-
-culture = russian
-religion = slavic_pagan

@@ -1,9 +1,0 @@
-title = c_atheniai
-
-max_settlements = 5
-b_athens = temple
-b_megara = city
-b_piraeaus = castle
-
-culture = greek
-religion = orthodox

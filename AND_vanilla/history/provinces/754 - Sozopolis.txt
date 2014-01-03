@@ -1,8 +1,0 @@
-title = c_sozopolis
-
-max_settlements = 3
-b_souzopolis = castle
-b_aezani = city
-
-culture = greek
-religion = orthodox

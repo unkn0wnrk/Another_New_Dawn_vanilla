@@ -1,9 +1,0 @@
-title = c_berbera
-
-max_settlements = 4
-b_berbera = castle
-b_maydh = city
-b_amud = temple
-
-culture = ethiopian
-religion = sunni

@@ -1,8 +1,0 @@
-title = c_kaneia
-
-max_settlements = 3
-b_kandia = temple
-b_rethymno = city
-
-culture = greek
-religion = orthodox

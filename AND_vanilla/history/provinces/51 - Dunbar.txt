@@ -1,9 +1,0 @@
-title = c_dunbar
-
-max_settlements = 4
-b_dunbar = city
-b_berwick = castle
-b_tyninghame = temple
-
-culture = saxon
-religion = catholic

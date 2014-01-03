@@ -1,9 +1,0 @@
-title = c_orbetello
-
-max_settlements = 4
-b_orbetello = castle
-b_pitigliano = temple
-b_grosseto = city
-
-culture = italian
-religion = catholic

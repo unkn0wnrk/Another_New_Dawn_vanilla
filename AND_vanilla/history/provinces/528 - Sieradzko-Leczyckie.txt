@@ -1,9 +1,0 @@
-title = c_sieradzko-leczyckie
-
-max_settlements = 5
-b_sieradz = temple
-b_leczyka = city
-b_radomsko = castle
-
-culture = polish
-religion = slavic_pagan

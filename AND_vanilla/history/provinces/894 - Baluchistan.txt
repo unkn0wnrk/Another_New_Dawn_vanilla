@@ -1,9 +1,0 @@
-title = c_baluchistan
-
-max_settlements = 3
-b_saravan = castle
-b_pahrah = city
-b_khash = temple
-
-culture = persian
-religion = sunni

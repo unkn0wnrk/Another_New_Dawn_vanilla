@@ -1,9 +1,0 @@
-title = c_chalkidike
-
-max_settlements = 4
-b_serres = castle
-b_philippi = city
-b_mntathos = temple
-
-culture = greek
-religion = orthodox

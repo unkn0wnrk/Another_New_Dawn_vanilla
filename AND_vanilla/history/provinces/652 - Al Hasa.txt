@@ -1,9 +1,0 @@
-title = c_al_hasa
-
-max_settlements = 5
-b_holuf = temple
-b_alhasa = city
-b_foda = castle
-
-culture = bedouin_arabic
-religion = shiite

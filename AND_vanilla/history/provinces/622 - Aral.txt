@@ -1,9 +1,0 @@
-title = c_aral
-
-max_settlements = 4
-b_akdzulpas = castle
-b_aralsk = city
-b_sapak = temple
-
-culture = turkish
-religion = tengri_pagan

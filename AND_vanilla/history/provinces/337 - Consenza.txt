@@ -1,9 +1,0 @@
-title = c_consenza
-
-max_settlements = 4
-b_cosenza = temple
-b_umbriatico = castle
-b_rossano = city
-
-culture = greek
-religion = orthodox

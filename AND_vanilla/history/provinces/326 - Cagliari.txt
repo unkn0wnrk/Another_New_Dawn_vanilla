@@ -1,9 +1,0 @@
-title = c_cagliari
-
-max_settlements = 4
-b_cagliari = castle
-b_ogliastra = city
-b_assemini = temple
-
-culture = italian
-religion = catholic

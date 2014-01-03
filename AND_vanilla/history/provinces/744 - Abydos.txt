@@ -1,9 +1,0 @@
-title = c_abydos
-
-max_settlements = 4
-b_abydos = castle
-b_alexandriatroas = city
-b_lampsakos = temple
-
-culture = greek
-religion = orthodox

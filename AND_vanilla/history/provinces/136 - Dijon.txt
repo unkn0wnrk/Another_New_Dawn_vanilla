@@ -1,9 +1,0 @@
-title = c_dijon
-
-max_settlements = 6
-b_dijon = city
-b_semur = castle
-b_autun = temple
-
-culture = frankish
-religion = catholic

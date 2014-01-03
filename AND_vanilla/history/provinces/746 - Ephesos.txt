@@ -1,9 +1,0 @@
-title = c_ephesos
-
-max_settlements = 4
-b_ephesos = castle
-b_miletos = city
-b_lebedos = temple
-
-culture = greek
-religion = orthodox

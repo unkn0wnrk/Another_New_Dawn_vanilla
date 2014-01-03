@@ -1,9 +1,0 @@
-title = c_adrianopolis
-
-max_settlements = 6
-b_adrianopolis = castle
-b_traianopolis = city
-b_didymoteichon = temple
-
-culture = greek
-religion = orthodox

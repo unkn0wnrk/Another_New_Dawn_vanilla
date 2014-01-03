@@ -1,9 +1,0 @@
-title = c_birjand
-
-max_settlements = 4
-b_nehbandan = temple
-b_furg = castle
-b_birjand = city
-
-culture = persian
-religion = sunni

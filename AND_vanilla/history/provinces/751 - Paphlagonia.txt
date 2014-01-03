@@ -1,9 +1,0 @@
-title = c_paphlagonia
-
-max_settlements = 4
-b_kastamonu = castle
-b_anastasiopolis = city
-b_gangra = temple
-
-culture = greek
-religion = orthodox

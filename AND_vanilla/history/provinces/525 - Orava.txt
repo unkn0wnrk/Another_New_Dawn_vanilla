@@ -1,9 +1,0 @@
-title = c_orava
-
-max_settlements = 4
-b_arvavara = temple
-b_rozsahegy = city
-b_liptovskymikulas = castle
-
-culture = bohemian
-religion = slavic_pagan

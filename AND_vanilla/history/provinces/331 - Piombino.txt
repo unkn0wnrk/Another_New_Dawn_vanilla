@@ -1,9 +1,0 @@
-title = c_piombino
-
-max_settlements = 4
-b_piombino = castle
-b_suvereto = city
-b_radicofani = temple
-
-culture = italian
-religion = catholic

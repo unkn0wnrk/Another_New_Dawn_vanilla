@@ -1,9 +1,0 @@
-title = c_nisibin
-
-max_settlements = 4
-b_nusaybin = temple
-b_savur = city
-b_dairodmorhannanyo = castle
-
-culture = kurdish
-religion = miaphysite

@@ -1,9 +1,0 @@
-title = c_domazlice
-
-max_settlements = 5
-b_domazlice = temple
-b_pisek = city
-b_kladruby = castle
-
-culture = bohemian
-religion = slavic_pagan

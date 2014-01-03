@@ -1,9 +1,0 @@
-title = c_nishapur
-
-max_settlements = 4
-b_nishapur = castle
-b_tus = city
-b_jajarm = temple
-
-culture = persian
-religion = zoroastrian

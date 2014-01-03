@@ -1,8 +1,0 @@
-title = c_euboia
-
-max_settlements = 3
-b_chalkis = castle
-b_karystos = city
-
-culture = greek
-religion = orthodox

@@ -1,9 +1,0 @@
-title = c_bari
-
-max_settlements = 4
-b_conversano = castle
-b_bari = city
-b_giovinazzo = temple
-
-culture = greek
-religion = orthodox

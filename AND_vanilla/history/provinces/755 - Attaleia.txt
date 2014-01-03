@@ -1,9 +1,0 @@
-title = c_attaleia
-
-max_settlements = 3
-b_attaleia = castle
-b_side = city
-b_cibyra = temple
-
-culture = greek
-religion = orthodox

@@ -1,9 +1,0 @@
-title = c_dhofar
-
-max_settlements = 4
-b_salalah = temple
-b_thamarit = city
-b_raysut = castle
-
-culture = bedouin_arabic
-religion = sunni

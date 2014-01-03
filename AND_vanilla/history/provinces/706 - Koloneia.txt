@@ -1,9 +1,0 @@
-title = c_koloneia
-
-max_settlements = 4
-b_koloneia = castle
-b_anatolnikopolis = city
-b_tephrice = temple
-
-culture = greek
-religion = iconoclast

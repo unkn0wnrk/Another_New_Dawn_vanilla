@@ -1,8 +1,0 @@
-title = c_farama
-
-max_settlements = 3
-b_farama = castle
-b_seyan = city
-
-culture = levantine_arabic
-religion = sunni

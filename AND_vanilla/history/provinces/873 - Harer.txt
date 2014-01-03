@@ -1,9 +1,0 @@
-title = c_harer
-
-max_settlements = 4
-b_zeila = castle
-b_harar = temple
-b_hargeysa = city
-
-culture = ethiopian
-religion = sunni

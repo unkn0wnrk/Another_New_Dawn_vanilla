@@ -1,9 +1,0 @@
-title = c_thomond
-
-max_settlements = 4
-b_bunratty = temple
-b_limerick = city
-b_killaloe = castle
-
-culture = irish
-religion = catholic

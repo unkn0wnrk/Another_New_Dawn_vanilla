@@ -1,9 +1,0 @@
-836.1.2 = {
-	holder = 100001218
-	law = succ_primogeniture
-	law = agnatic_succession
-	law = city_contract_0
-	law = city_tax_2
-	law = iqta_contract_1
-	law = iqta_tax_0
-}

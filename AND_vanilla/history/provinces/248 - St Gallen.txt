@@ -1,9 +1,0 @@
-title = c_st_gallen
-
-max_settlements = 4
-b_rheineck = city
-b_appenzell = castle
-b_stgallen = temple
-
-culture = german
-religion = catholic

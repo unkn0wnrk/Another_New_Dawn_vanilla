@@ -1,9 +1,0 @@
-title = c_emba
-
-max_settlements = 3
-b_emba = castle
-b_akkube = city
-b_koshkar = temple
-
-culture = turkish
-religion = tengri_pagan

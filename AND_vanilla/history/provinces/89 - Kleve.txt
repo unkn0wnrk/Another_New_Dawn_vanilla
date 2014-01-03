@@ -1,9 +1,0 @@
-title = c_kleve
-
-max_settlements = 4
-b_kleve = castle
-b_goch = city
-b_rees = temple
-
-culture = german
-religion = catholic

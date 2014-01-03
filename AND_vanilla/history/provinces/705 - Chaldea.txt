@@ -1,9 +1,0 @@
-title = c_chaldea
-
-max_settlements = 4
-b_kerasous = castle
-b_cotyora = city
-b_camachus = temple
-
-culture = greek
-religion = orthodox

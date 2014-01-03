@@ -1,9 +1,0 @@
-title = c_derbent
-
-max_settlements = 4
-b_derbent = city
-b_narinkala = castle
-b_juma = temple
-
-culture = armenian
-religion = miaphysite

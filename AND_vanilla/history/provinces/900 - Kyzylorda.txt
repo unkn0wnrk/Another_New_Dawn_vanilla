@@ -1,9 +1,0 @@
-title = c_kyzylorda
-
-max_settlements = 4
-b_akmechet = castle
-b_kyzylorda = temple
-b_kazaly = city
-
-culture = turkish
-religion = tengri_pagan

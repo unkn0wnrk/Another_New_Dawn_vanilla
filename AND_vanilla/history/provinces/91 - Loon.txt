@@ -1,9 +1,0 @@
-title = c_loon
-
-max_settlements = 5
-b_loon = castle
-b_maastricht = city
-b_hasselt = temple
-
-culture = dutch
-religion = catholic

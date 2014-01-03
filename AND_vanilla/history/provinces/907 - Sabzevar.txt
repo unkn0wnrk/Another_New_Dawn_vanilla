@@ -1,8 +1,0 @@
-title = c_sabzevar
-
-max_settlements = 3
-b_sabzevar = castle
-b_adraskan = city
-
-culture = persian
-religion = zoroastrian

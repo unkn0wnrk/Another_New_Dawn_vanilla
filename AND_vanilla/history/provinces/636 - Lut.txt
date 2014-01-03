@@ -1,9 +1,0 @@
-title = c_lut
-
-max_settlements = 3
-b_tabas = temple
-b_dayhouk = city
-b_mazanabad = castle
-
-culture = persian
-religion = zoroastrian

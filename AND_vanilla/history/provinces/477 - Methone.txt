@@ -1,9 +1,0 @@
-title = c_methone
-
-max_settlements = 3
-b_modon = castle
-b_kalamata = city
-b_kiparissia = temple
-
-culture = greek
-religion = orthodox

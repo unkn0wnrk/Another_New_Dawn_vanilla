@@ -1,8 +1,0 @@
-title = c_chelyabi
-
-max_settlements = 3
-b_chelyabinsk = castle
-b_asha = city
-
-culture = komi
-religion = finnish_pagan

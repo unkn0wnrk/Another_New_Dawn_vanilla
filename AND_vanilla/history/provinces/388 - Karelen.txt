@@ -1,7 +1,0 @@
-title = c_karelen
-
-max_settlements = 2
-b_kem = temple
-
-culture = finnish
-religion = finnish_pagan

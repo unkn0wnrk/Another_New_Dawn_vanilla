@@ -1,9 +1,0 @@
-title = c_surgut
-
-max_settlements = 3
-b_surgut = castle
-b_iberbolgar = city
-b_belyyyar = temple
-
-culture = komi
-religion = finnish_pagan

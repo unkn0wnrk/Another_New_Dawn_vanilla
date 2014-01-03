@@ -1,9 +1,0 @@
-title = c_turkmen
-
-max_settlements = 3
-b_farava = castle
-b_abiward = temple
-b_nisa = city
-
-culture = persian
-religion = zoroastrian

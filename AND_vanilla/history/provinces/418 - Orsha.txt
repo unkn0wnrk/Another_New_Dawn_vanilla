@@ -1,9 +1,0 @@
-title = c_orsha
-
-max_settlements = 4
-b_orsha = temple
-b_talachyn = city
-b_novolukomi = castle
-
-culture = russian
-religion = slavic_pagan

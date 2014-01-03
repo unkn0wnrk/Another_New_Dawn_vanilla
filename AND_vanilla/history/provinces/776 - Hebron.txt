@@ -1,9 +1,0 @@
-title = c_hebron
-
-max_settlements = 3
-b_hebron = temple
-b_deimachar = city
-b_bethlehem = castle
-
-culture = levantine_arabic
-religion = sunni

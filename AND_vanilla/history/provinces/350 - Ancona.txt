@@ -1,9 +1,0 @@
-title = c_ancona
-
-max_settlements = 4
-b_rimini = temple
-b_ancona = city
-b_pesaro = castle
-
-culture = italian
-religion = catholic

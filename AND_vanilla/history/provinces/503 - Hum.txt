@@ -1,9 +1,0 @@
-title = c_hum
-
-max_settlements = 4
-b_plav = castle
-b_novipazar = city
-b_pec = temple
-
-culture = serbian
-religion = orthodox

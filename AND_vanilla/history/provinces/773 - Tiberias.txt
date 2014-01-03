@@ -1,9 +1,0 @@
-title = c_tiberias
-
-max_settlements = 4
-b_tiberias = castle
-b_nazareth = city
-b_mnttabor = temple
-
-culture = levantine_arabic
-religion = orthodox

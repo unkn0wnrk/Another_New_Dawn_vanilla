@@ -1,9 +1,0 @@
-title = c_silves
-
-max_settlements = 4
-b_silves = temple
-b_aljustrel = castle
-b_lagos = city
-
-culture = maghreb_arabic
-religion = sunni

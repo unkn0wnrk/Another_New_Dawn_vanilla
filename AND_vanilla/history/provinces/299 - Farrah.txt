@@ -1,9 +1,0 @@
-title = c_farrah
-
-max_settlements = 3
-b_farrah = temple
-b_bakwa = city
-b_baladuluk = castle
-
-culture = persian
-religion = sunni

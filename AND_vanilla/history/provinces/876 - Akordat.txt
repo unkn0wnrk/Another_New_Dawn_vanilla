@@ -1,9 +1,0 @@
-title = c_akordat
-
-max_settlements = 4
-b_akordat = castle
-b_cheren = city
-b_teseney = temple
-
-culture = ethiopian
-religion = miaphysite
