@@ -4,7 +4,7 @@
 title = c_hama
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_hama = castle
 b_mhardeh = city
 b_hamath = temple

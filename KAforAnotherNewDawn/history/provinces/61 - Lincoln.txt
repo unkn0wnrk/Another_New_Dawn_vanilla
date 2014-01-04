@@ -1,6 +1,6 @@
 title = c_lincoln
 
-max_settlements = 5
+max_settlements = 4
 b_gainsborough = temple
 b_lincoln = castle
 b_boston = city

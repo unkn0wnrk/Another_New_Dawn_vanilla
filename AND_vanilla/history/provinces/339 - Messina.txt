@@ -4,7 +4,7 @@
 title = c_messina
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_taormina = castle
 b_messina = city
 b_lipari = temple

@@ -1,6 +1,6 @@
 title = c_medelpad
 
-max_settlements = 3
+max_settlements = 4
 b_selanger = castle
 
 culture = tribal

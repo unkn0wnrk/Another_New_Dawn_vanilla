@@ -1,6 +1,6 @@
 title = c_granada
 
-max_settlements = 6
+max_settlements = 4
 b_granada = castle
 b_jaen = temple
 b_elvira = city

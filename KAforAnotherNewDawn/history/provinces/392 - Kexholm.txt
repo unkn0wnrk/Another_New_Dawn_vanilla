@@ -1,6 +1,6 @@
 title = c_kexholm
 
-max_settlements = 3
+max_settlements = 4
 b_kakisalmi = castle
 b_raivola = temple
 

@@ -1,6 +1,6 @@
 title = c_busaso
 
-max_settlements = 3
+max_settlements = 4
 b_mosylon = castle
 b_lasanod = temple
 

@@ -1,6 +1,6 @@
 title = c_kermanshah
 
-max_settlements = 6
+max_settlements = 4
 b_javanroud = castle
 b_kermanshah = temple
 b_hulwan = city

@@ -1,6 +1,6 @@
 title = c_bukhara
 
-max_settlements = 6
+max_settlements = 4
 b_gizhduvan = castle
 b_vabkent = city
 b_bukhara = temple

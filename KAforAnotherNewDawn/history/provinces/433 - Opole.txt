@@ -1,6 +1,6 @@
 title = c_opole
 
-max_settlements = 5
+max_settlements = 4
 b_opole = castle
 b_czestochowa = temple
 b_kozle = city

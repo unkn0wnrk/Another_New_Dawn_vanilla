@@ -1,6 +1,6 @@
 title = c_amisos
 
-max_settlements = 5
+max_settlements = 4
 b_amisos = castle
 b_amasia = city
 b_thermodon = temple

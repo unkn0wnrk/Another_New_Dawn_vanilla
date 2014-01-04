@@ -1,6 +1,6 @@
 title = c_duqm
 
-max_settlements = 3
+max_settlements = 4
 b_duqm = castle
 
 culture = tribal

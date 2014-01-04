@@ -1,6 +1,6 @@
 title = c_montpellier
 
-max_settlements = 6
+max_settlements = 4
 b_melgueil = castle
 b_montpellier = castle
 b_maguelone = temple

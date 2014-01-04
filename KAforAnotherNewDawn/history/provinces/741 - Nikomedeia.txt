@@ -1,6 +1,6 @@
 title = c_nikomedeia
 
-max_settlements = 6
+max_settlements = 4
 b_nikomedeia = castle
 b_chrysopolis = city
 b_chalkedon = temple

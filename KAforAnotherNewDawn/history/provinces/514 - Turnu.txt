@@ -1,6 +1,6 @@
 title = c_turnu
 
-max_settlements = 5
+max_settlements = 4
 b_turnu = temple
 b_giurgiu = castle
 b_dristra = city

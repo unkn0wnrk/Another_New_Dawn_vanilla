@@ -4,7 +4,7 @@
 title = c_chelyabi
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_chelyabinsk = castle
 b_asha = city
 #b_ustkatav = temple

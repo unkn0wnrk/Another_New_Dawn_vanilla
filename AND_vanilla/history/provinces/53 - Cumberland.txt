@@ -4,7 +4,7 @@
 title = c_cumberland
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_burgh = castle
 
 b_carlisle = temple

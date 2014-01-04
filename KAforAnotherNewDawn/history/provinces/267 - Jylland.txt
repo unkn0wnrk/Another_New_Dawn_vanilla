@@ -1,6 +1,6 @@
 title = c_jylland
 
-max_settlements = 6
+max_settlements = 4
 b_jelling = castle
 b_horsens = castle
 b_randers = city

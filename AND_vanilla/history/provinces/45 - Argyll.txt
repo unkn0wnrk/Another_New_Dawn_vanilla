@@ -4,7 +4,7 @@
 title = c_argyll
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_dunstaffnage = castle
 
 #b_loch_awe = castle

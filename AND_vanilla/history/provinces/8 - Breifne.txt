@@ -4,7 +4,7 @@
 title = c_breifne
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_dromahair = castle
 b_kells = temple
 b_cavan = city

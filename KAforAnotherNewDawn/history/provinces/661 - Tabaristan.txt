@@ -1,6 +1,6 @@
 title = c_tabaristan
 
-max_settlements = 5
+max_settlements = 4
 b_firuzkuh = temple
 b_amol = castle
 b_sari = city

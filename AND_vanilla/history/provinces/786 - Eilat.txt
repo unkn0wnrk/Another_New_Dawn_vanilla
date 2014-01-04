@@ -4,7 +4,7 @@
 title = c_eilat
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_eilat = castle
 #b_yahel = city
 #b_lotan = temple

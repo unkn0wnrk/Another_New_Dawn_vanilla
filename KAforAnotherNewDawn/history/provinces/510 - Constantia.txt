@@ -1,6 +1,6 @@
 title = c_constantia
 
-max_settlements = 3
+max_settlements = 4
 b_constantia = castle
 b_carachioi = city
 b_adamclisi = temple

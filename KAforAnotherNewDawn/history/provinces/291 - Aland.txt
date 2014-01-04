@@ -1,6 +1,6 @@
 title = c_aland
 
-max_settlements = 2
+max_settlements = 4
 b_kastelholm = castle
 
 culture = tribal

@@ -4,7 +4,7 @@
 title = c_plock
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_plock = castle
 #b_warszawa = city
 b_pruszkow = temple

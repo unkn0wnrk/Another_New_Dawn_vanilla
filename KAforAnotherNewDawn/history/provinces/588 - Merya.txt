@@ -1,6 +1,6 @@
 title = c_merya
 
-max_settlements = 3
+max_settlements = 4
 b_yoshkarola = castle
 b_lopatino = temple
 

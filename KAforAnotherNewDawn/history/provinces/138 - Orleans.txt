@@ -1,6 +1,6 @@
 title = c_orleans
 
-max_settlements = 5
+max_settlements = 4
 b_orleans = castle
 b_gien = city
 b_fleury = temple

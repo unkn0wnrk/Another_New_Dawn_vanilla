@@ -1,6 +1,6 @@
 title = c_tjust
 
-max_settlements = 3
+max_settlements = 4
 b_tornsfall = castle
 
 culture = tribal

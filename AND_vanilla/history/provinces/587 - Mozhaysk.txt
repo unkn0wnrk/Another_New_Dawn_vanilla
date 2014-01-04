@@ -4,7 +4,7 @@
 title = c_mozhaysk
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_volgamozhaysk = castle
 b_yaransk = city
 

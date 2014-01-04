@@ -4,7 +4,7 @@
 title = c_chud
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_totma = castle
 #b_kamchuga = city
 #b_krbor = temple

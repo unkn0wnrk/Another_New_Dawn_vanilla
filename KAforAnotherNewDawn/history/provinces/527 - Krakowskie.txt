@@ -1,6 +1,6 @@
 title = c_krakowskie
 
-max_settlements = 6
+max_settlements = 4
 b_krakow = castle
 b_tarnow = city
 b_jedrzejow = temple

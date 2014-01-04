@@ -1,6 +1,6 @@
 title = c_pisa
 
-max_settlements = 5
+max_settlements = 4
 b_livorno = castle
 b_pisa = city
 b_canefro = temple

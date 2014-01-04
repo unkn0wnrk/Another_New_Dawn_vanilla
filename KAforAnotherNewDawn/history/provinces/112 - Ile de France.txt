@@ -1,6 +1,6 @@
 title = c_ile_de_france
 
-max_settlements = 7
+max_settlements = 4
 b_melun = castle
 b_paris = city
 b_stdenis = temple

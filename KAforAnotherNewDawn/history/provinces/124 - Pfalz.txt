@@ -1,6 +1,6 @@
 title = c_pfalz
 
-max_settlements = 5
+max_settlements = 4
 b_kaiserslautern = castle
 b_worms = temple
 b_hagenau = city

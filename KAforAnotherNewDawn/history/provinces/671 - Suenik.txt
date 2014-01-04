@@ -1,6 +1,6 @@
 title = c_suenik
 
-max_settlements = 3
+max_settlements = 4
 b_ghapan = castle
 b_areni = city
 b_noravank = temple

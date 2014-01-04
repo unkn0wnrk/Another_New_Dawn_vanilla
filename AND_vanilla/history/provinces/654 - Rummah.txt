@@ -4,7 +4,7 @@
 title = c_rummah
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 b_hafaralbatin = castle
 #b_alqalt = city
 b_samoudah = temple

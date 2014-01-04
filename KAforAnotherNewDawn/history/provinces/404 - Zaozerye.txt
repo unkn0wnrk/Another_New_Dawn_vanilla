@@ -1,6 +1,6 @@
 title = c_zaozerye
 
-max_settlements = 3
+max_settlements = 4
 b_zarechnaya = castle
 
 culture = tribal

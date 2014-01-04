@@ -1,6 +1,6 @@
 title = c_argyll
 
-max_settlements = 3
+max_settlements = 4
 b_dunstaffnage = castle
 b_st_moluag = temple
 b_dunollie = city

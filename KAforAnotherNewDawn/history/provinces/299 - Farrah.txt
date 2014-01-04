@@ -1,6 +1,6 @@
 title = c_farrah
 
-max_settlements = 3
+max_settlements = 4
 b_farrah = temple
 b_bakwa = city
 b_baladuluk = castle

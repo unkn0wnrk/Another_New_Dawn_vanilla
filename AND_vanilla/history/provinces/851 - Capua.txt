@@ -4,7 +4,7 @@
 title = c_capua
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_teano = castle
 b_capua = city
 b_aquino = temple 

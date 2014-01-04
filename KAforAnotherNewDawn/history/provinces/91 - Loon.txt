@@ -1,6 +1,6 @@
 title = c_loon
 
-max_settlements = 5
+max_settlements = 4
 b_loon = castle
 b_maastricht = city
 b_hasselt = temple

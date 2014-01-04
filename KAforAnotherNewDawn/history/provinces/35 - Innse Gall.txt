@@ -1,6 +1,6 @@
 title = c_innse_gall
 
-max_settlements = 3
+max_settlements = 4
 b_finlaggan = castle
 b_iona = temple
 b_stornoway = city

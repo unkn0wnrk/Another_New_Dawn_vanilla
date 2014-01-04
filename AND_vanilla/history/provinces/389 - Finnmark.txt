@@ -4,7 +4,7 @@
 title = c_finnmark
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 b_varghoeya = castle
 #b_vardohus = temple
 #b_ostervagen = city

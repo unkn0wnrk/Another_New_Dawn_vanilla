@@ -1,6 +1,6 @@
 title = c_orkney
 
-max_settlements = 3
+max_settlements = 4
 b_birsay = castle
 b_kirkwall = temple
 

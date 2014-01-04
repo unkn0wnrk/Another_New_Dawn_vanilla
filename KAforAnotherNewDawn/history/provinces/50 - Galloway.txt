@@ -1,6 +1,6 @@
 title = c_galloway
 
-max_settlements = 3
+max_settlements = 4
 b_dunragit = castle
 b_whithorn = temple
 b_dumfries = city

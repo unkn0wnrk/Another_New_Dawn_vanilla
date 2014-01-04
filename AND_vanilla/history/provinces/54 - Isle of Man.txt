@@ -4,7 +4,7 @@
 title = c_isle_of_man
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_rushen = castle
 b_peel = temple
 #b_maughold = castle

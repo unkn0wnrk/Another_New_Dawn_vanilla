@@ -1,6 +1,6 @@
 title = c_blekinge
 
-max_settlements = 3
+max_settlements = 4
 b_solvesborg = castle
 b_elleholm = temple
 b_avaskar = city

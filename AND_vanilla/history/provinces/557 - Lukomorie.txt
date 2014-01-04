@@ -4,7 +4,7 @@
 title = c_lukomorie
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_zaporzhye = castle
 
 b_huliaipole = city

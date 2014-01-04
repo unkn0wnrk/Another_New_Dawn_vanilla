@@ -1,6 +1,6 @@
 title = c_atholl
 
-max_settlements = 3
+max_settlements = 4
 b_blair_atholl = castle
 b_pitlochry = city
 b_fortingall = temple

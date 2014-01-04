@@ -4,7 +4,7 @@
 title = c_yperen
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_cassel = castle
 b_ypres = city
 

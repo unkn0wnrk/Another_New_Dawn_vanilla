@@ -1,6 +1,6 @@
 title = c_venaissin
 
-max_settlements = 5
+max_settlements = 4
 b_orange = castle
 b_avignon = temple
 b_carpentras = city

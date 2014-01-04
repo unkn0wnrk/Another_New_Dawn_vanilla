@@ -4,7 +4,7 @@
 title = c_tangiers
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 
 b_tangiers = castle
 b_laraiche = city

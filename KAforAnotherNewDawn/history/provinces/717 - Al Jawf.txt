@@ -1,6 +1,6 @@
 title = c_al_jawf
 
-max_settlements = 3
+max_settlements = 4
 b_al_jawf = castle
 b_sakakah = city
 b_aladan = temple

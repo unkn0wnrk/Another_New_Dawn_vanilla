@@ -1,6 +1,6 @@
 title = c_adrianopolis
 
-max_settlements = 6
+max_settlements = 4
 b_adrianopolis = castle
 b_traianopolis = city
 b_didymoteichon = temple

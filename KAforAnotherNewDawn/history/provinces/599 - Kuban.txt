@@ -1,6 +1,6 @@
 title = c_kuban
 
-max_settlements = 3
+max_settlements = 4
 b_khumar = castle
 b_kuban = city
 

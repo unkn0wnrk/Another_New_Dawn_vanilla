@@ -1,6 +1,6 @@
 title = c_barcelona
 
-max_settlements = 6
+max_settlements = 4
 b_barcelona = castle
 b_vic = temple
 b_manresa = castle

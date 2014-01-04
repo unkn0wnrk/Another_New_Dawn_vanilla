@@ -1,6 +1,6 @@
 title = c_cumberland
 
-max_settlements = 3
+max_settlements = 4
 b_burgh = castle
 b_carlisle = temple
 b_penrith = city

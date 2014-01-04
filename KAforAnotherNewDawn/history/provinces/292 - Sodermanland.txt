@@ -1,6 +1,6 @@
 title = c_sodermanland
 
-max_settlements = 5
+max_settlements = 4
 b_gripsholm = castle
 b_nykoping = city
 b_strangnas = temple

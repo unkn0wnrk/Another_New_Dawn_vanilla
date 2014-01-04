@@ -1,6 +1,6 @@
 title = c_merv
 
-max_settlements = 5
+max_settlements = 4
 b_merv = castle
 b_yoloten = castle
 b_bayramaly = city

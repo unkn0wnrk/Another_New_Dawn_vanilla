@@ -1,6 +1,6 @@
 title = c_kiev
 
-max_settlements = 7
+max_settlements = 4
 b_kiev = castle
 b_iskorosten = city
 b_yuriev = temple

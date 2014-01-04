@@ -4,7 +4,7 @@
 title = c_chios
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_chios = castle
 b_tigani = city

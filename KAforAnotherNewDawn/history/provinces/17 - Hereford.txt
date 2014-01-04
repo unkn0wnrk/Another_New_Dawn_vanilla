@@ -1,6 +1,6 @@
 title = c_hereford
 
-max_settlements = 3
+max_settlements = 4
 b_hereford = castle
 b_st_ethelberts = temple
 b_leominster = city

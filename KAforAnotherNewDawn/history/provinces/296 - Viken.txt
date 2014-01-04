@@ -1,6 +1,6 @@
 title = c_viken
 
-max_settlements = 3
+max_settlements = 4
 b_bagahus = castle
 b_kungahalla = city
 

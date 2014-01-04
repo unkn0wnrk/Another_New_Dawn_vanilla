@@ -1,6 +1,6 @@
 title = c_kuwait
 
-max_settlements = 3
+max_settlements = 4
 b_kuwait = castle
 b_alwafra = city
 b_ikaros = temple

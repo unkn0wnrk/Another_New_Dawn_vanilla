@@ -1,6 +1,6 @@
 title = c_rayy
 
-max_settlements = 7
+max_settlements = 4
 b_rayy = castle
 b_hashtgerd = castle
 b_tehran = city

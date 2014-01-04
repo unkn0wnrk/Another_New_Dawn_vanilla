@@ -4,7 +4,7 @@
 title = c_farama
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_farama = castle
 b_seyan = city
 #b_sin = temple

@@ -1,6 +1,6 @@
 title = c_carcassonne
 
-max_settlements = 5
+max_settlements = 4
 b_carcassonne = castle
 b_saissac = city
 b_alet = temple

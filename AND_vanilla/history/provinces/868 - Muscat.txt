@@ -4,7 +4,7 @@
 title = c_muscat
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 b_sur = castle
 b_muscat = city
 b_samail = temple

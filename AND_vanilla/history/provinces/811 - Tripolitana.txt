@@ -4,7 +4,7 @@
 title = c_tripolitana
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_libtripoli = castle
 b_sabratah = city

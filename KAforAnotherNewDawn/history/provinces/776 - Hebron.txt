@@ -1,6 +1,6 @@
 title = c_hebron
 
-max_settlements = 3
+max_settlements = 4
 b_hebron = temple
 b_deimachar = city
 b_bethlehem = castle

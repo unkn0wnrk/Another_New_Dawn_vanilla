@@ -1,6 +1,6 @@
 title = c_azov
 
-max_settlements = 3
+max_settlements = 4
 b_azov = castle
 b_azaq = city
 

@@ -1,6 +1,6 @@
 title = c_tabriz
 
-max_settlements = 5
+max_settlements = 4
 b_babak = castle
 b_tabriz = city
 b_maragheh = temple

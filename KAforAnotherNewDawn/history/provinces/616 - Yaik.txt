@@ -1,6 +1,6 @@
 title = c_yaik
 
-max_settlements = 3
+max_settlements = 4
 b_orenburg = castle
 b_kargala = city
 b_saraktash = temple

@@ -1,6 +1,6 @@
 title = c_bordeaux
 
-max_settlements = 6
+max_settlements = 4
 b_bordeaux = castle
 b_lasauve = temple
 b_blaye = city

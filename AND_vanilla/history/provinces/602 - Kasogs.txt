@@ -4,7 +4,7 @@
 title = c_kasogs
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_myequape = castle
 b_samiran = city
 b_zikh = temple

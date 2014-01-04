@@ -1,6 +1,6 @@
 title = c_brugge
 
-max_settlements = 7
+max_settlements = 4
 b_sluys = castle
 b_brugge = city
 b_damme = temple

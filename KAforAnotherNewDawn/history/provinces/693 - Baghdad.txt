@@ -1,6 +1,6 @@
 title = c_baghdad
 
-max_settlements = 7
+max_settlements = 4
 b_baqubah = castle
 b_iskandariya = castle
 b_bagdad = temple

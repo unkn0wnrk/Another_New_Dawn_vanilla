@@ -1,6 +1,6 @@
 title = c_wurttemberg
 
-max_settlements = 5
+max_settlements = 4
 b_stuttgart = castle
 b_reutlingen = city
 b_heilbronn = temple

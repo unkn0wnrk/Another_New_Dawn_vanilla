@@ -1,6 +1,6 @@
 title = c_oland
 
-max_settlements = 2
+max_settlements = 4
 b_borgholm = castle
 b_kopingsvik = city
 

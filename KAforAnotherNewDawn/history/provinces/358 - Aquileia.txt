@@ -1,6 +1,6 @@
 title = c_aquileia
 
-max_settlements = 5
+max_settlements = 4
 b_aquileia = castle
 b_udine = city
 b_friuli = temple

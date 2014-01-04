@@ -1,6 +1,6 @@
 title = c_esfahan
 
-max_settlements = 6
+max_settlements = 4
 b_esfahan = castle
 b_kashan = castle
 b_zarrinshahr = city

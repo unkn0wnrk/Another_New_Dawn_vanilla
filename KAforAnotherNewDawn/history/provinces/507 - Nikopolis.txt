@@ -1,6 +1,6 @@
 title = c_nikopolis
 
-max_settlements = 5
+max_settlements = 4
 b_nikopolis = castle
 b_pleven = city
 b_oescus = temple

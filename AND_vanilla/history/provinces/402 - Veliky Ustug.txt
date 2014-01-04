@@ -4,7 +4,7 @@
 title = c_veliky_ustug
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_velikyustug = castle
 #b_krasavino = city
 #b_gleden = temple

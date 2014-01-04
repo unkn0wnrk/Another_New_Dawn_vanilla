@@ -1,6 +1,6 @@
 title = c_epeiros
 
-max_settlements = 5
+max_settlements = 4
 b_butrint = castle
 b_ioannina = city
 b_paramythia = temple

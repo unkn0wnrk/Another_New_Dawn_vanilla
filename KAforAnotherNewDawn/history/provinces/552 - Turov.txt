@@ -1,6 +1,6 @@
 title = c_turov
 
-max_settlements = 5
+max_settlements = 4
 b_turov = castle
 b_mazyr = city
 b_dubrovitsya = temple

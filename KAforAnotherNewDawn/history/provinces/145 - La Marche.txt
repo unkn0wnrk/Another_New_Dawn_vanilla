@@ -1,6 +1,6 @@
 title = c_la_marche
 
-max_settlements = 3
+max_settlements = 4
 b_bellac = castle
 b_gueret = temple
 b_aubusson = city

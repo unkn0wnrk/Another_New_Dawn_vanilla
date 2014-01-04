@@ -1,6 +1,6 @@
 title = c_savoie
 
-max_settlements = 5
+max_settlements = 4
 b_aosta = castle
 b_tarentaise = temple
 b_ciamberi = city

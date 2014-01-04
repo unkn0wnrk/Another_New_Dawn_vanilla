@@ -1,6 +1,6 @@
 title = c_bilyar
 
-max_settlements = 5
+max_settlements = 4
 b_bilyar = castle
 b_cukataw = city
 b_tukhchin = temple

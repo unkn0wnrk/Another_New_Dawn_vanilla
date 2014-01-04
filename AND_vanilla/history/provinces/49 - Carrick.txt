@@ -4,7 +4,7 @@
 title = c_carrick
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_turnberry = castle
 #b_dunure = castle
 b_maybole = city

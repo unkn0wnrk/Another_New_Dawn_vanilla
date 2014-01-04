@@ -1,6 +1,6 @@
 title = c_palmyra
 
-max_settlements = 3
+max_settlements = 4
 b_arak = castle
 b_palmyra = city
 b_arraml = temple

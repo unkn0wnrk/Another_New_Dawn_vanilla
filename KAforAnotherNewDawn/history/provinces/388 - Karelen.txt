@@ -1,6 +1,6 @@
 title = c_karelen
 
-max_settlements = 2
+max_settlements = 4
 b_kem = temple
 
 culture = tribal

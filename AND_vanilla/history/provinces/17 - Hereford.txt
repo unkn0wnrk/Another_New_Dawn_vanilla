@@ -4,7 +4,7 @@
 title = c_hereford
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_hereford = castle
 b_st_ethelberts = temple
 

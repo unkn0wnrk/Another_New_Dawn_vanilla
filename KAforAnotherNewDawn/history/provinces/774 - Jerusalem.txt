@@ -1,6 +1,6 @@
 title = c_jerusalem
 
-max_settlements = 6
+max_settlements = 4
 b_mirabel = castle
 b_nablus = city
 b_jerusalem = temple

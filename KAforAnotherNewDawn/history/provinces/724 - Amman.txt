@@ -1,6 +1,6 @@
 title = c_amman
 
-max_settlements = 3
+max_settlements = 4
 b_amman = castle
 b_mahis = temple
 b_salt = city

@@ -1,6 +1,6 @@
 title = c_oriel
 
-max_settlements = 3
+max_settlements = 4
 b_clones = castle
 b_armagh = temple
 b_dundalk = city

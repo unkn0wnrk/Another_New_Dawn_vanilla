@@ -4,7 +4,7 @@
 title = c_timbuktu
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_timbuktu = castle
 b_alafia = city 
 b_salam = temple

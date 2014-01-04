@@ -1,6 +1,6 @@
 title = c_hamburg
 
-max_settlements = 6
+max_settlements = 4
 b_hamburg = castle
 b_altona = city
 b_dithmarschen = temple

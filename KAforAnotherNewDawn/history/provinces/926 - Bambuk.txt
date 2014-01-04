@@ -1,6 +1,6 @@
 title = c_bambuk
 
-max_settlements = 3
+max_settlements = 4
 b_bambuk = castle
 b_kiffa = city
 b_kankossa = temple

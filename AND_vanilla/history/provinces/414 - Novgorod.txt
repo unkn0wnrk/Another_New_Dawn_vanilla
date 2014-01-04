@@ -4,7 +4,7 @@
 title = c_novgorod
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 b_borovichi = castle
 b_novgorod = city
 b_tikhvin = temple # Slavic and Finnish Holy Site

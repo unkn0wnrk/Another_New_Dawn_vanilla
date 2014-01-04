@@ -1,6 +1,6 @@
 title = c_bayda
 
-max_settlements = 3
+max_settlements = 4
 b_bayda = castle
 
 culture = tribal

@@ -1,6 +1,6 @@
 title = c_kara-kum
 
-max_settlements = 3
+max_settlements = 4
 b_kyzylsu = city
 b_gazanjyk = castle
 b_bekdas = temple

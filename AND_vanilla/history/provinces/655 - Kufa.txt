@@ -4,7 +4,7 @@
 title = c_kufa
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_kufa = castle
 b_suqash = temple
 b_bussayyah = city

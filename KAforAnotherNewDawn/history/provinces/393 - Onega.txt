@@ -1,6 +1,6 @@
 title = c_onega
 
-max_settlements = 3
+max_settlements = 4
 b_ust-onega = castle
 
 culture = tribal

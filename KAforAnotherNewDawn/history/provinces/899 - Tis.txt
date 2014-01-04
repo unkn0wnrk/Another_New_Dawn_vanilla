@@ -1,6 +1,6 @@
 title = c_tis
 
-max_settlements = 3
+max_settlements = 4
 b_parak = castle
 b_tis = city
 

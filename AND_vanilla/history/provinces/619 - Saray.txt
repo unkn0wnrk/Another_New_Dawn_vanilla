@@ -4,7 +4,7 @@
 title = c_saray
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 b_akhtuba = castle
 b_chernyyar = castle
 

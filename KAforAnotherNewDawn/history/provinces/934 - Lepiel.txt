@@ -1,6 +1,6 @@
 title = c_lepiel
 
-max_settlements = 3
+max_settlements = 4
 b_lepiel = castle
 b_chashniki = city
 

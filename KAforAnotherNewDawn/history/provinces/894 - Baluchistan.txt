@@ -1,6 +1,6 @@
 title = c_baluchistan
 
-max_settlements = 3
+max_settlements = 4
 b_saravan = castle
 b_pahrah = city
 b_khash = temple

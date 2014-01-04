@@ -1,6 +1,6 @@
 title = c_ouled_nail
 
-max_settlements = 3
+max_settlements = 4
 b_tubirett = castle
 b_msila = city
 b_sidiheg = temple

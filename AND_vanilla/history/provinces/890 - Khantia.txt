@@ -4,7 +4,7 @@
 title = c_khantia
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_chanty = castle
 b_beloyarskiy = city
 #b_igrim = temple

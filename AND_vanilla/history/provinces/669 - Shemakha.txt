@@ -4,7 +4,7 @@
 title = c_shemakha
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_ahemakha = castle
 b_quba = city
 b_shikhlar = temple

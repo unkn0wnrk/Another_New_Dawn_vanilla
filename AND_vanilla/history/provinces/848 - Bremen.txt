@@ -4,7 +4,7 @@
 title = c_bremen
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_bremen = temple
 b_stade = castle
 b_beverstedt = city

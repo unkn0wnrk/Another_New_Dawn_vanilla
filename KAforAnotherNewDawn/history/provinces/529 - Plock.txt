@@ -1,6 +1,6 @@
 title = c_plock
 
-max_settlements = 5
+max_settlements = 4
 b_plock = castle
 b_pruszkow = temple
 b_pultusk = city

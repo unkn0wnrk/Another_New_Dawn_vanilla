@@ -1,6 +1,6 @@
 title = c_aleppo
 
-max_settlements = 6
+max_settlements = 4
 b_aleppo = castle
 b_azaz = city
 b_mashala = temple

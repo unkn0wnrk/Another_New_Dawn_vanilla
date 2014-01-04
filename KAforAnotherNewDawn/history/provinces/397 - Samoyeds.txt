@@ -1,6 +1,6 @@
 title = c_samoyeds
 
-max_settlements = 2
+max_settlements = 4
 b_verkhmgla = castle
 
 culture = tribal

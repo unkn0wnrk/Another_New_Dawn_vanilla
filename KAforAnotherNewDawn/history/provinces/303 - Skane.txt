@@ -1,6 +1,6 @@
 title = c_skane
 
-max_settlements = 6
+max_settlements = 4
 b_helsingborg = castle
 b_uppakra = city
 b_lund = temple

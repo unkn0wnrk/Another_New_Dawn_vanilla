@@ -1,6 +1,6 @@
 title = c_oppland
 
-max_settlements = 3
+max_settlements = 4
 b_dovre = castle
 b_lillehammer = city
 

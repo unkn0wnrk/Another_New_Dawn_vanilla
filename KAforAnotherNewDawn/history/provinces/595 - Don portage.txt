@@ -1,6 +1,6 @@
 title = c_don_portage
 
-max_settlements = 3
+max_settlements = 4
 b_kalach = castle
 b_illovlya = city
 

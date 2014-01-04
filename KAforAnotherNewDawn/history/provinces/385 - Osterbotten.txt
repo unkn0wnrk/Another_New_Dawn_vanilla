@@ -1,6 +1,6 @@
 title = c_osterbotten
 
-max_settlements = 3
+max_settlements = 4
 b_oulu = castle
 
 culture = tribal

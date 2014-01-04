@@ -1,6 +1,6 @@
 title = c_methone
 
-max_settlements = 3
+max_settlements = 4
 b_modon = castle
 b_kalamata = city
 b_kiparissia = temple

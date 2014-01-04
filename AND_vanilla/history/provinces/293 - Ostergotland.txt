@@ -4,7 +4,7 @@
 title = c_ostergotland
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_nasborg = castle
 b_skanninge = city		#One of the oldest cities in sweden

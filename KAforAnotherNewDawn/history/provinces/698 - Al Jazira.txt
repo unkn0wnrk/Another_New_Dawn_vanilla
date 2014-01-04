@@ -1,6 +1,6 @@
 title = c_al_jazira
 
-max_settlements = 3
+max_settlements = 4
 b_hasakah = castle
 b_qamishhlo = city
 b_dayrik = temple

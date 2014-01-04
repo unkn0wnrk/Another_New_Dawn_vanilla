@@ -1,6 +1,6 @@
 title = c_vladimir_volynsky
 
-max_settlements = 5
+max_settlements = 4
 b_vladimirvolynsky = castle
 b_kholm = city
 b_kovel = temple

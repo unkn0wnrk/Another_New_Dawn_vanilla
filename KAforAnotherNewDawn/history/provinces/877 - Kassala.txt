@@ -1,6 +1,6 @@
 title = c_kassala
 
-max_settlements = 3
+max_settlements = 4
 b_kassala = castle
 b_doka = city
 b_sawakin = temple

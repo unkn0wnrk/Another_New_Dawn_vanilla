@@ -4,7 +4,7 @@
 title = c_el-arish
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 b_arish = castle
 #b_kharruba = city
 #b_tukkot = temple

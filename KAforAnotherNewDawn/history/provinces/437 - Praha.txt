@@ -1,6 +1,6 @@
 title = c_praha
 
-max_settlements = 6
+max_settlements = 4
 b_praha = castle
 b_kuttenberg = city
 b_brevnov = temple

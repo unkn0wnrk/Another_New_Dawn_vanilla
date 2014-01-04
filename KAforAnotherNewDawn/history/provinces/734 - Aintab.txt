@@ -1,6 +1,6 @@
 title = c_aintab
 
-max_settlements = 3
+max_settlements = 4
 b_aintab = castle
 b_marash = city
 b_kyrrhos = temple

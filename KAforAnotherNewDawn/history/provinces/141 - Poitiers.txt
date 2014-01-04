@@ -1,6 +1,6 @@
 title = c_poitiers
 
-max_settlements = 5
+max_settlements = 4
 b_poitiers = castle
 b_chatellerault = city
 b_stsavin = temple

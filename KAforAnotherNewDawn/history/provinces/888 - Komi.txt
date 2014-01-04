@@ -1,6 +1,6 @@
 title = c_komi
 
-max_settlements = 2
+max_settlements = 4
 b_inta = castle
 
 culture = tribal

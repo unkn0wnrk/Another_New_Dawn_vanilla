@@ -4,7 +4,7 @@
 title = c_khiva
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_itchankila = castle
 b_qorovul = city
 b_xazorasp = temple

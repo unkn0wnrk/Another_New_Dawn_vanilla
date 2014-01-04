@@ -4,7 +4,7 @@
 title = c_satakunta
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_liinmaa = castle
 
 #b_ulvila = city

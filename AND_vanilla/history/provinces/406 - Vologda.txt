@@ -4,7 +4,7 @@
 title = c_vologda
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_vologda = castle
 #b_sokol = city
 #b_kadnikovskaya = temple

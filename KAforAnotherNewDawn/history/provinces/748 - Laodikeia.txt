@@ -1,6 +1,6 @@
 title = c_laodikeia
 
-max_settlements = 5
+max_settlements = 4
 b_laodikeia = castle
 b_philadelphia = city
 b_rhoas = temple

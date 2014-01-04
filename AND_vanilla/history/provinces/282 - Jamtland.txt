@@ -4,7 +4,7 @@
 title = c_jamtland
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_mjalleborgen = castle
 #b_husan = city
 #b_vasterhus = temple

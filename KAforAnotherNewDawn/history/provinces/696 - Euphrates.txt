@@ -1,6 +1,6 @@
 title = c_euphrates
 
-max_settlements = 6
+max_settlements = 4
 b_samarra = castle
 b_bayji = city
 b_tagrit = temple

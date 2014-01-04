@@ -4,7 +4,7 @@
 title = c_dihistan
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_akhur = castle
 b_bayatkhadzi = city
 b_gasankuli = temple

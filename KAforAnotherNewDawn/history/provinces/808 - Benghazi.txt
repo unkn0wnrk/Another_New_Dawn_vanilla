@@ -1,6 +1,6 @@
 title = c_benghazi
 
-max_settlements = 5
+max_settlements = 4
 b_benghazi = castle
 b_barca = city
 b_oriana = temple

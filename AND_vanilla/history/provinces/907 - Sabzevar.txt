@@ -4,7 +4,7 @@
 title = c_sabzevar
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_sabzevar = castle
 b_adraskan = city
 #b_chanechahan = temple

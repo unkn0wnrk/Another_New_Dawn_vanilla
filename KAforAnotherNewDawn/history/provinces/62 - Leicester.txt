@@ -1,6 +1,6 @@
 title = c_leicester
 
-max_settlements = 5
+max_settlements = 4
 b_leicester = castle
 b_nottingham = city
 b_newstead = temple

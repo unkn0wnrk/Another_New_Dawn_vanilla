@@ -4,7 +4,7 @@
 title = c_bryansk
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_bryansk = castle
 b_orel = city
 b_pochep = temple # Baltic pagan holy site

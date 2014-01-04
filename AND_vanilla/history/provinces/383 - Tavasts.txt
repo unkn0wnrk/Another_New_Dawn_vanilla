@@ -4,7 +4,7 @@
 title = c_tavasts
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_hameenlinna = castle
 #b_vanaja = temple
 #b_lahti = city

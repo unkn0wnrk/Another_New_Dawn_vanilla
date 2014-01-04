@@ -1,6 +1,6 @@
 title = c_dorostotum
 
-max_settlements = 3
+max_settlements = 4
 b_dorosturum = castle
 b_rusi = city
 b_shumen = temple

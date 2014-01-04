@@ -4,7 +4,7 @@
 title = c_gurma
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_gurma = castle
 #b_zorgho = city
 #b_hounde = temple

@@ -1,6 +1,6 @@
 title = c_ossory
 
-max_settlements = 3
+max_settlements = 4
 b_gowran = castle
 b_clonmacnoise = temple
 b_kilkenny = city

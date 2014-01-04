@@ -4,7 +4,7 @@
 title = c_beersheb
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_beersheb = castle
 #b_estemon = city
 b_massada = temple

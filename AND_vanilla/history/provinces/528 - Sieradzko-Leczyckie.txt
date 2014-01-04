@@ -4,7 +4,7 @@
 title = c_sieradzko-leczyckie
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_sieradz = castle
 b_leczyka = city
 b_radomsko = temple

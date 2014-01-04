@@ -1,6 +1,6 @@
 title = c_mzab
 
-max_settlements = 2
+max_settlements = 4
 b_mzab = castle
 
 culture = tribal

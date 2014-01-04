@@ -1,6 +1,6 @@
 title = c_genoa
 
-max_settlements = 6
+max_settlements = 4
 b_genoa = castle
 b_luna = city
 b_rapallo = temple

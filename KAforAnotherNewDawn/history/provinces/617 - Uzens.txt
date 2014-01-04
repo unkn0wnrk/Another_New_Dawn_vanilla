@@ -1,6 +1,6 @@
 title = c_uzens
 
-max_settlements = 3
+max_settlements = 4
 b_kaztal = castle
 b_kyzylasker = city
 b_krykuru = temple

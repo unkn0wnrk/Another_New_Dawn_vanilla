@@ -4,7 +4,7 @@
 title = c_euboia
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_chalkis = castle
 b_karystos = city
 #b_kymi = temple

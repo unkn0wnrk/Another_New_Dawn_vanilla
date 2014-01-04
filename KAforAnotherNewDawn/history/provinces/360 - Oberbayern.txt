@@ -1,6 +1,6 @@
 title = c_oberbayern
 
-max_settlements = 5
+max_settlements = 4
 b_munchen = castle
 b_dachau = city
 b_freising = temple

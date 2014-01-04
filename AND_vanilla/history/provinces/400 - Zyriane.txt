@@ -4,7 +4,7 @@
 title = c_zyriane
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_kungur = castle
 #b_suksun = city

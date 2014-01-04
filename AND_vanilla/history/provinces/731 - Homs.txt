@@ -4,7 +4,7 @@
 title = c_homs
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_homs = castle
 b_emesa = city
 b_zweitina = temple

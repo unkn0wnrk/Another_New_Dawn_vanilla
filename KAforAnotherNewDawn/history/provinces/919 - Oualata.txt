@@ -1,6 +1,6 @@
 title = c_oualata
 
-max_settlements = 2
+max_settlements = 4
 b_oualata = castle
 
 culture = tribal

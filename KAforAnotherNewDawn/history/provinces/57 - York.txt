@@ -1,6 +1,6 @@
 title = c_york
 
-max_settlements = 5
+max_settlements = 4
 b_york = temple
 b_st_peters = castle
 b_richmond = castle

@@ -1,6 +1,6 @@
 title = c_carrick
 
-max_settlements = 3
+max_settlements = 4
 b_turnberry = castle
 b_maybole = city
 b_crossraguel = temple

@@ -4,7 +4,7 @@
 title = c_mansia
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_mansiysk = castle
 #b_yalbak = city
 b_yabin = temple

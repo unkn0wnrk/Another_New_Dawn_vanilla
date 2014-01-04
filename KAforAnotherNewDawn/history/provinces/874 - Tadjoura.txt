@@ -1,6 +1,6 @@
 title = c_tadjoura
 
-max_settlements = 3
+max_settlements = 4
 b_tadjoura = castle
 b_berenice = city
 

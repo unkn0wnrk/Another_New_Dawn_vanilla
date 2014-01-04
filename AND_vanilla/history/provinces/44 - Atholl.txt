@@ -4,7 +4,7 @@
 title = c_atholl
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_blair_atholl = castle
 #b_glen_dochart = castle
 

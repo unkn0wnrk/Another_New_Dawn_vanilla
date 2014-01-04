@@ -1,6 +1,6 @@
 title = c_aswan
 
-max_settlements = 5
+max_settlements = 4
 b_aswan = castle
 b_faras = city
 b_elefantina = temple

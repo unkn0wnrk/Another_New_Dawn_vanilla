@@ -1,6 +1,6 @@
 title = c_pelusia
 
-max_settlements = 5
+max_settlements = 4
 b_pelusia = castle
 b_tinis = city
 b_alsalihiyah = temple

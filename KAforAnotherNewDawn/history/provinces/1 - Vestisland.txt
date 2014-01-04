@@ -1,6 +1,6 @@
 title = c_vestisland
 
-max_settlements = 2
+max_settlements = 4
 b_reykjavik = castle
 
 culture = tribal

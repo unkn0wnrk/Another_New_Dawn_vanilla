@@ -1,6 +1,6 @@
 title = c_westmorland
 
-max_settlements = 3
+max_settlements = 4
 b_appleby = castle
 b_lowther = city
 b_cartmel = temple

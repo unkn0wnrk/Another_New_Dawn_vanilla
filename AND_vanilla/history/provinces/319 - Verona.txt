@@ -4,7 +4,7 @@
 title = c_verona
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_verona = castle
 b_vicenza = city
 b_sanmartino = temple

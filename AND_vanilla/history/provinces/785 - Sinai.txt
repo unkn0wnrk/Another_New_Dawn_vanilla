@@ -4,7 +4,7 @@
 title = c_sinai
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 b_attur = castle
 #b_sharmelsheikh = city
 #b_mamlah = temple

@@ -1,6 +1,6 @@
 title = c_palermo
 
-max_settlements = 6
+max_settlements = 4
 b_monreale = castle
 b_cefalu = temple
 b_palermo = city

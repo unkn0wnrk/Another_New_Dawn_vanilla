@@ -4,7 +4,7 @@
 title = c_duqm
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_duqm = castle
 #b_aljazir = temple
 #b_bank = city

@@ -1,6 +1,6 @@
 title = c_fars
 
-max_settlements = 5
+max_settlements = 4
 b_perozabad = castle
 b_darab = city
 b_kakhesasan = temple

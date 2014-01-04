@@ -1,6 +1,6 @@
 title = c_sjaelland
 
-max_settlements = 6
+max_settlements = 4
 b_ringsted = castle
 b_lejre = temple
 b_naestved = city

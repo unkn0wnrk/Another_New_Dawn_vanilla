@@ -4,7 +4,7 @@
 title = c_hedmark
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_hamarhus = castle
 b_hamar = temple
 #b_elverum = city

@@ -4,7 +4,7 @@
 title = c_bereg
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_beregszasz = castle
 b_munkacs = city
 b_perecseny = temple

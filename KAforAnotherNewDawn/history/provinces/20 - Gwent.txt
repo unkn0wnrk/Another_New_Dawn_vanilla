@@ -1,6 +1,6 @@
 title = c_gwent
 
-max_settlements = 3
+max_settlements = 4
 b_caerwent = castle
 b_newport = city
 b_monmouth = temple

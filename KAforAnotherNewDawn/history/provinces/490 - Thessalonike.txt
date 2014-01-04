@@ -1,6 +1,6 @@
 title = c_thessalonike
 
-max_settlements = 6
+max_settlements = 4
 b_thessaloniki = castle
 b_voden = city
 b_thesedessa = temple

@@ -1,6 +1,6 @@
 title = c_perfeddwlad
 
-max_settlements = 3
+max_settlements = 4
 b_rhuddlan = castle
 b_denbigh = city
 b_llanelwy = temple

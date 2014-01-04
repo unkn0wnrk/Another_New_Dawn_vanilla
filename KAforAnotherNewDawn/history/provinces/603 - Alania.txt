@@ -1,6 +1,6 @@
 title = c_alania
 
-max_settlements = 5
+max_settlements = 4
 b_vovnushki = temple
 b_magas = city
 b_arkhyz = castle

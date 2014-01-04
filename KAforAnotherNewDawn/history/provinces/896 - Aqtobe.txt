@@ -1,6 +1,6 @@
 title = c_aqtobe
 
-max_settlements = 3
+max_settlements = 4
 b_aqtobe = castle
 b_burta = city
 

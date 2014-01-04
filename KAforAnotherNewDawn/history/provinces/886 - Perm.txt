@@ -1,6 +1,6 @@
 title = c_perm
 
-max_settlements = 2
+max_settlements = 4
 b_perym = castle
 b_perm = temple
 

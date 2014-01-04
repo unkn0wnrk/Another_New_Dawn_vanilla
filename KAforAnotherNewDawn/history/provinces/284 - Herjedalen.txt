@@ -1,6 +1,6 @@
 title = c_herjedalen
 
-max_settlements = 2
+max_settlements = 4
 b_sveg = castle
 
 culture = tribal
