@@ -7,7 +7,7 @@ bookmark =
 
 bookmark =
 {
-	name = "BM_STANFORD_BRIDGE"
-	desc = "BM_STANFORD_BRIDGE_DESC"
+	name = "BM_NORMAL_START"
+	desc = "BM_NORMAL_START_DESC"
 	date = 1066.1.1
 }
