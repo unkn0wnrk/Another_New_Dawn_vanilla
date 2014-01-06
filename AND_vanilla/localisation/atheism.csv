@@ -1,0 +1,18 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+atheism;Atheism;Atheism;Atheismus;;Atheism;;;;;;;x
+misc_group;Miscellaneous;Miscellaneous;Miscellaneous;;Miscellaneous;;;;;;;;x
+GREAT_WAR_OF_KNOWLEDGE;Great War of Knowledge;Great War of Knowledge;Großer Krieg des Wissens;;Great War of Knowledge;;;;;;;;x
+THE_GOD_DELUSION;The God Delusion;The God Delusion;Der Gotteswahn;;The God Delusion;;;;;;;;x
+LIBRARIAN;Librarian;Librarian;Bibliothekar;;Librarian;;;;;;;;;x
+GOD_NOGOD;Science;Science;Wissenschaft;;Science;;;;;;;;x
+NOSATAN;Religion;Religion;Religion;;Religion;;;;;;;;x
+THE_ENLIGHTED;The Enlighted;The Enlighted;Der Erleuchtete;;The Enlighted;;;;;;;;x
+ENLIGHTED_FOA;Teacher;Teacher;Lehrer;;Teacher;;;;;;;;x
+d_atheism;Enlightenment;Enlightenment;Erleuchtung;;Enlightenment;;;;;;;x
+controls_jerusalem;Controls Jerusalem;Controls Jerusalem;Kontrolliert Jerusalem;;Controls Jerusalem;;;;;;;x
+atheism_DESC;Atheism is no religion, it is not believing in gods due to the lack of proof for any;theism is no religion, it is not believing in gods due to the lack of proof for any;Atheismus ist keine Religion, es ist ein nicht Glauben an Götter, weil es keine Beweise für sie gibt;;theism is no religion, it is not believing in gods due to the lack of proof for any;;;;;;;x
+d_atheist_order;Atheist Order;Atheist Order;Atheisten Trupp;;Atheist Order;;;;;;;;;;x
+d_murder_for_cash;We murder for cash;We murder for cash;Wir töten für Geld;;We murder for cash;;;;;;;;x
+d_i_was_young_and_needed_the_money;We are young and need the money;We are young and need the money;Wir sind young und brauchen das Geld;;We are young and need the money;;;;;;;;;x
+CB_NAME_ATHEIST;War of Knowledge for [Title.GetBaseName];War of Knowledge for [Title.GetBaseName];Krieg des Wissens um [Title.GetBaseName];;War of Knowledge for [Title.GetBaseName];;;;;;;;;x
+WAR_NAME_ATHEIST;$ORDER$$FIRST_ADJ$ War of Knowledge for $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ War of Knowledge for $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Krieg des Wissens um $OTHER_TITLE$;;$ORDER$$FIRST_ADJ$ War of Knowledge for $OTHER_TITLE$;;;;;;;;;x

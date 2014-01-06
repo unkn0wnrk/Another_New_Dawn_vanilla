@@ -1,0 +1,179 @@
+d_ancestry = {
+	color={ 153 50 125 }
+	color2={ 220 220 0 }
+	
+	capital = 80 # Holland
+	
+	title = "ECUMENICAL_PATRIARCH"
+	foa = "ECUMENICAL_PATRIARCH_FOA"
+	short_name = yes
+	
+	allow = {
+		always = no # never
+	}
+	
+	# Controls a religion
+	controls_religion = ancestry
+	
+	religion = ancestry
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	# Regnal names
+	male_names = {
+		Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Gabriel Dionysios Dositheos 
+		Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias 
+		Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon 
+		Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael 
+		Neophytos Nephon Nikephoros Niketas Nikolaos Pavlos Petros Photios Polykarpos Sergios Stephanos 
+		Sophronios Theodoros Theodosios Theodotos Theophylaktos Thomas Timotheos
+	}
+}
+
+d_atheism = {
+	color={ 40 160 40 }
+	color2={ 220 220 0 }
+	
+	capital = 774 # Jerusalem
+	
+	creation_requires_capital = no
+	
+	dignity = 100 # Counted as having this many more counties than it does
+	
+	title = "THE_ENLIGHTED"
+	title_female = "THE_ENLIGHTED"
+	foa = "ENLIGHTED_FOA"
+	short_name = yes
+	
+	religion=atheism
+	
+	# Controls a religion
+	controls_religion = atheism
+	
+	allow = {
+		piety = 1000
+		custom_tooltip = {
+			text = controls_jerusalem
+			hidden_tooltip = {
+				774 = { # Jerusalem
+					owner = {
+						OR = {
+							is_liege_or_above = ROOT
+							character = ROOT
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	caliphate = no
+	
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 3 0 2 2
+		}
+		religion=atheism
+	}
+}
+
+d_atheist_order = {
+	color={ 333 333 333 }
+	color2={ 3 3 3 }
+	
+	graphical_culture = holygfx
+	
+	capital =774 # Jerusalem
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = german
+	
+	# Parent Religion 
+	religion = atheism
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to banking, steeling, murder, raping, atheist stuff xD
+	monthly_income = 10 # (Must be an integer between 1 and 512)
+	
+	modifier = d_atheist_order_modifier
+}
+
+d_murder_for_cash = {
+	color={ 100 100 100 }
+	color2={ 255 255 255 }
+
+	capital = 361 # Niederbayern
+	
+	# Hire Trigger
+	allow = {
+		religion_group = atheism_group
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+
+	modifier = d_murder_for_cash_modifier
+}
+
+d_i_was_young_and_needed_the_money = {
+	color={ 150 40 40 }
+	color2={ 255 255 255 }
+
+	capital = 239 # Geneve
+	
+	# Hire Trigger
+	allow = {
+		religion_group = atheism_group
+	}
+	
+	# Parent Religion 
+	religion = muslim
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+
+	modifier = d_i_was_young_and_needed_the_money_modifier
+}

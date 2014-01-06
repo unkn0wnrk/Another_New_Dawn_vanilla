@@ -1,9 +1,9 @@
 
 generic = {
-	graphical_culture = africangfx
+	graphical_culture = norsegfx
 
 	tribal = {
-		graphical_culture = africangfx
+		graphical_culture = norsegfx
 
 		color = { 0.3 0.55 0.8 }
 
