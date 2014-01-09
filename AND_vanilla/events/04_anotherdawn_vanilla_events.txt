@@ -275,7 +275,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 3000
+		days = 36500
 	}
 	immediate = {
 		set_global_flag = aztec_founded
@@ -468,7 +468,7 @@ province_event = {
 		religion = ancestry
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 3650
 	}
 	immediate = {
 		set_global_flag = atheism_founded

@@ -12,7 +12,7 @@ Installation:
 1. Copy the AND_VANILLA/KAforDynamicDuchies folders and .mod files to the C:\Users\<yourusername>\Documents\Paradox Interactive\Crusader Kings II\mod folder.
 !!!Remember to always take the 'Redetermine de jure lieges' when loading a saved game!!!
 
-Installation with new KA files
+(Optional!) Installation with new KA files
 1. Copy the AND_VANILLA folder and .mod file to the C:\Users\<yourusername>\Documents\Paradox Interactive\Crusader Kings II\mod folder.
 3. Launch the game once and exit. This is necessary for the generator to attain the correct settings.
 4. Extract the titular generator

@@ -1,13 +1,13 @@
 bookmark =
 {
-	name = "BM_THE_OLD_GODS"
-	desc = "BM_THE_OLD_GODS_DESC"
+	name = "BM_AND_OLDGODS"
+	desc = "BM_AND_OLDGODS_DESC"
 	date = 867.1.1
 }
 
 bookmark =
 {
-	name = "BM_NORMAL_START"
-	desc = "BM_NORMAL_START_DESC"
+	name = "BM_AND_STANFORD"
+	desc = "BM_AND_STANFORD_DESC"
 	date = 1066.1.1
 }
