@@ -497,6 +497,8 @@ NTitle = {
 	THEOCRACY_COUNTIES_CAN_BORDER = 1,			-- Can feudal lords create neighboring theocracy counties?
 	REPUBLIC_COUNTIES_CAN_BORDER = 1,				-- Can feudal lords create neighboring republic counties?
 	MIN_REVOKE_MONTHS_AFTER_GRANT = 12,			-- Months that must pass before you can revoke the title off someone you granted it to
+
+
 -- Title creation and usurpation requirements	
 	DEJURE_COUNTY_LIMIT_TO_CREATE = 0.51,			-- Fraction of de jure counties that you must control to create a non-imperial title
 	DEJURE_COUNTY_LIMIT_TO_USURP = 0.51,			-- Fraction of de jure counties that you must control to usurp a non-imperial title
