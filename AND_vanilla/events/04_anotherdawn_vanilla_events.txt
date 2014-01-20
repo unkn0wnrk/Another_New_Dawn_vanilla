@@ -17,472 +17,284 @@ character_event = {
 		name = AND.1.b
 	}
 }
-###Spontaneous religious spawning
-# christian group
+
+character_event = {
+	id = AND.2
+	desc = AND.2.desc
+	picture = "GFX_evt_council"
+	is_triggered_only = yes
+	
+	option = {
+		name = AND.2.a
+		FROM = {
+			reverse_religion = ROOT
+		}
+	}
+	option = {
+		name = AND.2.b
+	}
+}
+
+### Prophets appear
 province_event = {
 	id = AND.10
-	desc = AND.10.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = catholic_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = catholic_founded
-	}
-	option = {
-		name = AND.10.a
-		ROOT = {
-			religion = catholic
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.11
-	desc = AND.11.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = orthodox_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = orthodox_founded
-	}
-	option = {
-		name = AND.11.a
-		ROOT = {
-			religion = orthodox
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-# jewish group
-province_event = {
-	id = AND.12
-	desc = AND.12.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = jewish_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = jewish_founded
-	}
-	option = {
-		name = AND.12.a
-		ROOT = {
-			religion = jewish
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-# muslim group
-province_event = {
-	id = AND.13
-	desc = AND.13.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = sunni_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = sunni_founded
-	}
-	option = {
-		name = AND.13.a
-		ROOT = {
-			religion = sunni
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.14
-	desc = AND.14.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = shiite_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = shiite_founded
-	}
-	option = {
-		name = AND.14.a
-		ROOT = {
-			religion = shiite
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-# pagan group
-province_event = {
-	id = AND.15
-	desc = AND.15.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = norse_pagan_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = norse_pagan_founded
-	}
-	option = {
-		name = AND.15.a
-		ROOT = {
-			religion = norse_pagan
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.16
-	desc = AND.16.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = tengri_pagan_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = tengri_pagan_founded
-	}
-	option = {
-		name = AND.16.a
-		ROOT = {
-			religion = tengri_pagan
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.17
-	desc = AND.17.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = baltic_pagan_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = baltic_pagan_founded
-	}
-	option = {
-		name = AND.17.a
-		ROOT = {
-			religion = baltic_pagan
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.18
-	desc = AND.18.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = finnish_pagan_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = finnish_pagan_founded
-	}
-	option = {
-		name = AND.18.a
-		ROOT = {
-			religion = finnish_pagan
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.19
-	desc = AND.19.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = aztec_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		days = 36500
-	}
-	immediate = {
-		set_global_flag = aztec_founded
-	}
-	option = {
-		name = AND.19.a
-		ROOT = {
-			religion = aztec
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.20
-	desc = AND.20.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = slavic_pagan_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = slavic_pagan_founded
-	}
-	option = {
-		name = AND.20.a
-		ROOT = {
-			religion = slavic_pagan
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.21
-	desc = AND.21.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = west_african_pagan_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = west_african_pagan_founded
-	}
-	option = {
-		name = AND.21.a
-		ROOT = {
-			religion = west_african_pagan
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-province_event = {
-	id = AND.22
-	desc = AND.22.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = hellenic_pagan_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = hellenic_pagan_founded
-	}
-	option = {
-		name = AND.22.a
-		ROOT = {
-			religion = hellenic_pagan
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-# zoroastrian group
-province_event = {
-	id = AND.23
-	desc = AND.23.desc
-	picture = GFX_evt_council
-	
-	trigger = {
-		NOT = { has_global_flag = zoroastrian_founded }
-		religion = ancestry
-	}
-	mean_time_to_happen = {
-		months = 60
-	}
-	immediate = {
-		set_global_flag = zoroastrian_founded
-	}
-	option = {
-		name = AND.23.a
-		ROOT = {
-			religion = zoroastrian
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
-			}
-		}
-	}
-}
-### cksplus religions
-#province_event = {
-#	id = AND.24
-#	desc = AND.24.desc
-#	picture = GFX_evt_council
-#	
-#	trigger = {
-#		NOT = { has_global_flag = celtic_pagan_founded }
-#		religion = ancestry
-#	}
-#	mean_time_to_happen = {
-#		months = 60
-#	}
-#	immediate = {
-#		set_global_flag = celtic_pagan_founded
-#	}
-#	option = {
-#		name = AND.24.a
-#		ROOT = {
-#			religion = celtic_pagan
-#		}
-#		ROOT = {
-#			owner = {
-#				character_event = { id = AND.1 }
-#			}
-#		}
-#	}
-#}
-#province_event = {
-#	id = AND.25
-#	desc = AND.25.desc
-#	picture = GFX_evt_council
-#	
-#	trigger = {
-#		NOT = { has_global_flag = egyptian_pagan_founded }
-#		religion = ancestry
-#	}
-#	mean_time_to_happen = {
-#		months = 60
-#	}
-#	immediate = {
-#		set_global_flag = egyptian_pagan_founded
-#	}
-#	option = {
-#		name = AND.25.a
-#		ROOT = {
-#			religion = egyptian_pagan
-#		}
-#		ROOT = {
-#			owner = {
-#				character_event = { id = AND.1 }
-#			}
-#		}
-#	}
-#}
-### Ahistoric group?
-province_event = {
-	id = AND.26
-	desc = AND.26.desc
-	picture = GFX_evt_council
+	hide_window = yes
+	hide_from = yes
 	
 	trigger = {
 		has_global_flag = another_new_dawn
-		NOT = { has_global_flag = atheism_founded }
+		NOT = { has_global_flag = religions_founded }
 		religion = ancestry
 	}
 	mean_time_to_happen = {
 		days = 3650
+		modifier = {
+			factor = 1
+			always = yes
+		}
 	}
 	immediate = {
-		set_global_flag = atheism_founded
-	}
-	option = {
-		name = AND.26.a
-		ROOT = {
-			religion = atheism
-		}
-		ROOT = {
-			owner = {
-				character_event = { id = AND.1 }
+		random_list = {
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = catholic
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = orthodox
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = sunni
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = shiite
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = zoroastrian
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = jewish
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = norse_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = tengri_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = baltic_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+#			random_province_character = {	# ck2plus religion
+#				limit = {
+#					learning = 15
+#				}
+#				religion = celtic_pagan
+#				liege = {
+#					character_event = { id = AND.1 }
+#				}
+#				liege = {
+#					liege = {
+#						character_event = { id = AND.2 }
+#					}
+#				}
+#			}
+#			random_province_character = {	# ck2plus religion
+#				limit = {
+#					learning = 15
+#				}
+#				religion = egyptian_pagan
+#				liege = {
+#					character_event = { id = AND.1 }
+#				}
+#				liege = {
+#					liege = {
+#						character_event = { id = AND.2 }
+#					}
+#				}
+#			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = finnish_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = aztec_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = slavic_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = west_african_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = hellenic_pagan
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
+			}
+			random_province_character = {
+				limit = {
+					learning = 15
+				}
+				religion = atheism
+				liege = {
+					character_event = { id = AND.1 }
+				}
+				liege = {
+					liege = {
+						character_event = { id = AND.2 }
+					}
+				}
 			}
 		}
 	}
 }
+
 #Mingling event
