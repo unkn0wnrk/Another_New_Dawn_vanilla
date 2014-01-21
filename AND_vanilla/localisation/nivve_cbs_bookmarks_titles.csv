@@ -11,3 +11,13 @@ WAR_NAME_NOLIEGE_PAP_BYZ;$ORDER$$FIRST_ADJ$ duke ambition conquest of $OTHER_TIT
 noliege_conquest_islanddukes_desc;Dukes with no de jure liege can claim neighboring duchies for the creation of their own kingdom. Isolated islands can attack further away to create a kingdom.;Dukes with no de jure liege can claim neighboring duchies for the creation of their own kingdom. Isolated islands can attack further away to create a kingdom.;Dukes with no de jure liege can claim neighboring duchies for the creation of their own kingdom. Isolated islands can attack further away to create a kingdom.;;Dukes with no de jure liege can claim neighboring duchies for the creation of their own kingdom. Isolated islands can attack further away to create a kingdom.;;;;;;;;;
 CB_NAME_NOLIEGE_ISLANDDUKES;Overseas conquest of [Title.GetName];Overseas conquest of [Title.GetName];Overseas conquest of [Title.GetName];;Overseas conquest of [Title.GetName];;;;;;;;;
 WAR_NAME_NOLIEGE_ISLANDDUKES;$ORDER$$FIRST_ADJ$ king ambition overseas conquest of $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ king ambition overseas conquest of $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ king ambition overseas conquest of $OTHER_TITLE$;;$ORDER$$FIRST_ADJ$ king ambition overseas conquest of $OTHER_TITLE$;;;;;;;;;
+;;;;;;;;;;;;;;x
+BM_AND_OLDGODS;The Old Gods;The Old Gods;The Old Gods;;The Old Gods;;;;;;;;;x
+BM_AND_OLDGODS_DESC;The Old Gods;The Old Gods;The Old Gods;;The Old Gods;;;;;;;;;x
+BM_AND_STANFORD;Stanford Bridge;Stanford Bridge;Stanford Bridge;;Stanford Bridge;;;;;;;;;x
+BM_AND_STANFORD_DESC;Stanford Bridge;Stanford Bridge;Stanford Bridge;;Stanford Bridge;;;;;;;;;x
+;;;;;;;;;;;;;;x
+d_europa;Europa;Europa;Europa;;Europa;;;;;;;;;x
+d_europa_adj;European;European;European;;European;;;;;;;;;x
+k_europa;Europa;Europa;Europa;;Europa;;;;;;;;;x
+k_europa_adj;European;European;European;;European;;;;;;;;;x

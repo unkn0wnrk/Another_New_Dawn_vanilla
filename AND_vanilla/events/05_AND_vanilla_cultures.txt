@@ -1,0 +1,204 @@
+namespace = AND
+
+### Prophets appear
+#Liege indulgence in province's culture in response to province's conversion
+character_event = {
+	id = AND.401
+	desc = AND.401.desc
+	picture = "GFX_evt_council"
+	is_triggered_only = yes
+	
+	option = {
+		name = AND.401.a
+		FROM = {
+			reverse_culture = ROOT
+		}
+	}
+	option = {
+		name = AND.401.b
+	}
+}
+# cultures spawning starting event
+province_event = {
+	id = AND.409
+	hide_window = yes
+	hide_from = yes
+	
+	trigger = {
+		NOT = { has_global_flag = cultures_founded }
+		culture = tribal
+	}
+	mean_time_to_happen = {
+		days = 3650
+		modifier = {
+			factor = 0.5
+			year = 890
+		}
+	}
+	immediate = {
+		random_list = {	# random allocation of cultures. The follow-up events can result in failure if the religion already has been founded
+			20 = {	# placeholder1
+				ROOT = {
+					province_event = { id = AND.410 }
+				}
+			}
+			20 = {	# placeholder2
+				ROOT = {
+					province_event = { id = AND.411 }
+				}
+			}
+			20 = {	# placeholder3
+				ROOT = {
+					province_event = { id = AND.412 }
+				}
+			}
+			20 = {	# placeholder4
+				ROOT = {
+					province_event = { id = AND.413 }
+				}
+			}
+			20 = {	# placeholder5
+				ROOT = {
+					province_event = { id = AND.414 }
+				}
+			}
+		}
+	}
+}
+# Actual culture change of a random province. The events do nothing when the culture already is founded.
+province_event = {
+	id = AND.410
+	desc = AND.410.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = norse_founded
+				}
+			}
+			set_global_flag = norse_founded
+			ROOT = {
+				culture = norse
+			}
+		}
+	}
+	option = {
+		name = AND.410.a
+		holder_scope = {
+			character_event = { id = AND.401 }
+		}
+	}
+}
+province_event = {
+	id = AND.411
+	desc = AND.411.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = swedish_founded
+				}
+			}
+			set_global_flag = swedish_founded
+			ROOT = {
+				culture = swedish
+			}
+		}
+	}
+	option = {
+		name = AND.411.a
+		holder_scope = {
+			character_event = { id = AND.401 }
+		}
+	}
+}
+province_event = {
+	id = AND.412
+	desc = AND.412.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = norwegian_founded
+				}
+			}
+			set_global_flag = norwegian_founded
+			ROOT = {
+				culture = norwegian
+			}
+		}
+	}
+	option = {
+		name = AND.412.a
+		holder_scope = {
+			character_event = { id = AND.401 }
+		}
+	}
+}
+province_event = {
+	id = AND.413
+	desc = AND.413.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = danish_founded
+				}
+			}
+			set_global_flag = danish_founded
+			ROOT = {
+				culture = danish
+			}
+		}
+	}
+	option = {
+		name = AND.413.a
+		holder_scope = {
+			character_event = { id = AND.401 }
+		}
+	}
+}
+province_event = {
+	id = AND.414
+	desc = AND.414.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = icelandic_founded
+				}
+			}
+			set_global_flag = icelandic_founded
+			ROOT = {
+				culture = icelandic
+			}
+		}
+	}
+	option = {
+		name = AND.414.a
+		holder_scope = {
+			character_event = { id = AND.401 }
+		}
+	}
+}
+#Mingling event
