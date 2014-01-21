@@ -1,4 +1,4 @@
-name = "KA for Another New Dawn v0.02"
+name = "KA for Another New Dawn v0.03"
 path = "mod/KAforAnotherNewDawn"
 
-dependencies = {"Another New Dawn v0.02" }
+dependencies = {"Another New Dawn v0.03" }

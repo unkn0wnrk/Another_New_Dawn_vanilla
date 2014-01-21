@@ -3,7 +3,7 @@ Readme
 
 Another New Dawn: vanilla version
 Requirements
-- Crusader Kings II patch 2.0.3
+- Crusader Kings II patch 2.0.4
 - (optional) Titular Title Generator 2.0.18
 
 

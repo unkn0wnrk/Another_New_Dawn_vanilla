@@ -1,6 +1,16 @@
-Dynamic Duchies - a Crusader Kings II mod
+Another New Dawn - a Crusader Kings II mod
 
 Changelog
+0.03
+- Various DD fixes
+- Revamped religion spawning: Characters possessing priestly traits can get the spawned religion event (AI event)
+- Revamped culture spawning: Provinces will randomly get culture conversions
+- Compatible with 2.0.4
+- Compatible with ck2plus 2.07.0
+0.02
+- All provinces have the tribal culture
+- All provinces have the Ancestry religion
+- Preliminary religion/culture spawning events (Will be changed so it is not performance heavy as this system is)
+- Added the atheism religion from iClex's mod
 0.01
-- Added draft event for spawning of religion
-- Started from 2.91 Dynamic Duchies base
+- Base files imported from Dynamic Duchies
