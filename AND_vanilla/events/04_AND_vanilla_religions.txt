@@ -1,0 +1,277 @@
+namespace = AND
+
+### Prophets appear
+#Liege conversion in response to courtier/vassal conversion
+character_event = {
+	id = AND.1
+	desc = AND.1.desc
+	picture = "GFX_evt_council"
+	is_triggered_only = yes
+	
+	option = {
+		name = AND.1.a
+		FROM = {
+			reverse_religion = ROOT
+		}
+		FROMFROM = {
+			religion = ROOT
+		}
+		IF = {
+			limit = {
+				independent = no
+			}
+			liege = {
+				character_event = { id = AND.2 }
+			}
+		}
+	}
+	option = {
+		name = AND.1.b
+	}
+}
+#Liege's liege conversion
+character_event = {
+	id = AND.2
+	desc = AND.2.desc
+	picture = "GFX_evt_council"
+	is_triggered_only = yes
+	
+	option = {
+		name = AND.2.a
+		FROM = {
+			reverse_religion = ROOT
+		}
+	}
+	option = {
+		name = AND.2.b
+	}
+}
+# Religion spawning starting event
+province_event = {
+	id = AND.9
+	hide_window = yes
+	hide_from = yes
+	
+	trigger = {
+		NOT = { has_global_flag = religions_founded }
+		religion = ancestry
+	}
+	mean_time_to_happen = {
+		days = 3650
+		modifier = {
+			factor = 0.5
+			year = 890
+		}
+	}
+	immediate = {
+		random_list = {	# random allocation of religions. The follow-up events can result in failure if the religion already has been founded
+			20 = {	# Catholic
+				random_province_character = {
+					limit = {
+						ai = yes
+						OR = {
+							trait = detached_priest
+							trait = martial_cleric
+							trait = scholarly_theologian
+							trait = mastermind_theologian
+						}
+					}
+					character_event = { id = AND.10 }
+				}
+			}
+			20 = {	# Orthodox
+				random_province_character = {
+					limit = {
+						ai = yes
+						OR = {
+							trait = detached_priest
+							trait = martial_cleric
+							trait = scholarly_theologian
+							trait = mastermind_theologian
+						}
+					}
+					character_event = { id = AND.11 }
+				}
+			}
+			20 = {	# Shiite
+				random_province_character = {
+					limit = {
+						ai = yes
+						OR = {
+							trait = detached_priest
+							trait = martial_cleric
+							trait = scholarly_theologian
+							trait = mastermind_theologian
+						}
+					}
+					character_event = { id = AND.12 }
+				}
+			}
+			20 = {	# Sunni
+				random_province_character = {
+					limit = {
+						ai = yes
+						OR = {
+							trait = detached_priest
+							trait = martial_cleric
+							trait = scholarly_theologian
+							trait = mastermind_theologian
+						}
+					}
+					character_event = { id = AND.13 }
+				}
+			}
+			20 = {	# Jewish
+				random_province_character = {
+					limit = {
+						ai = yes
+						OR = {
+							trait = detached_priest
+							trait = martial_cleric
+							trait = scholarly_theologian
+							trait = mastermind_theologian
+						}
+					}
+					character_event = { id = AND.14 }
+				}
+			}
+		}
+	}
+}
+# Actual religion change of a random character. The events do nothing when the religion already is founded.
+character_event = {
+	id = AND.10
+	desc = AND.10.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = catholic_founded
+				}
+			}
+			set_global_flag = catholic_founded
+			ROOT = {
+				religion = catholic
+			}
+		}
+	}
+	option = {
+		name = AND.10.a
+		liege = {
+			character_event = { id = AND.1 }
+		}
+	}
+}
+character_event = {
+	id = AND.11
+	desc = AND.11.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = orthodox_founded
+				}
+			}
+			set_global_flag = orthodox_founded
+			ROOT = {
+				religion = orthodox
+			}
+		}
+	}
+	option = {
+		name = AND.11.a
+		liege = {
+			character_event = { id = AND.1 }
+		}
+	}
+}
+character_event = {
+	id = AND.12
+	desc = AND.12.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = shiite_founded
+				}
+			}
+			set_global_flag = shiite_founded
+			ROOT = {
+				religion = shiite
+			}
+		}
+	}
+	option = {
+		name = AND.12.a
+		liege = {
+			character_event = { id = AND.1 }
+		}
+	}
+}
+character_event = {
+	id = AND.13
+	desc = AND.13.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = sunni_founded
+				}
+			}
+			set_global_flag = sunni_founded
+			ROOT = {
+				religion = sunni
+			}
+		}
+	}
+	option = {
+		name = AND.13.a
+		liege = {
+			character_event = { id = AND.1 }
+		}
+	}
+}
+character_event = {
+	id = AND.14
+	desc = AND.14.desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = jewish_founded
+				}
+			}
+			set_global_flag = jewish_founded
+			ROOT = {
+				religion = jewish
+			}
+		}
+	}
+	option = {
+		name = AND.14.a
+		liege = {
+			character_event = { id = AND.1 }
+		}
+	}
+}
+#Mingling event
