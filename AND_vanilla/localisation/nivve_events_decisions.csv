@@ -38,10 +38,10 @@ nivve.11.a;ok;ok;ok;;ok;
 nivve.11.desc;startup_decision;startup_decision;startup_decision;;startup_decision;
 nivve.11.a;ok;ok;ok;;ok;
 ;;;;;;;;;;;;;;x
-AND.1.desc;Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];;Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];
+AND.1.desc;Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];;Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];
 AND.1.a;The truth has been revealed!;The truth has been revealed!;The truth has been revealed!;;The truth has been revealed!;
 AND.1.b;How dare he turn on our ancestors!;How dare he turn on our ancestors!;How dare he turn on our ancestors!;;How dare he turn on our ancestors!;
-AND.2.desc;Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];;Your [GetFromRelation] [From.GetName] has been converted to [From.GetReligion];
+AND.2.desc;Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];;Your [GetFromRelation] [From.GetTitledName] has been converted to [From.Religion.GetName];
 AND.2.a;The truth has been revealed!;The truth has been revealed!;The truth has been revealed!;;The truth has been revealed!;
 AND.2.b;How dare he turn on our ancestors!;How dare he turn on our ancestors!;How dare he turn on our ancestors!;;How dare he turn on our ancestors!;
 AND.401.desc;You and your land of [From.GetName] have diverted from tribalism;You and your land of [From.GetName] have diverted from tribalism;You and your land of [From.GetName] have diverted from tribalism;;You and your land of [From.GetName] have diverted from tribalism;
