@@ -10,8 +10,34 @@ character_event = {
 	
 	option = {
 		name = AND.1.a
+		ROOT = {
+			religion = FROM
+		}
 		FROM = {
-			reverse_religion = ROOT
+			IF = {
+				limit = {
+					NOT = {
+						has_job_title = job_spiritual
+					}
+				}
+				give_job_title = job_spiritual
+			}
+		}
+		any_realm_province = {
+			IF = {
+				limit = {
+					has_province_flag = prophet_appeared
+				}
+				religion = FROM
+				clr_province_flag = prophet_appeared
+			}
+			IF = {
+				limit = {
+					any_province_character = { has_character_flag = prophet }
+				}
+				religion = FROM
+				any_province_character = { clr_character_flag = prophet }
+			}
 		}
 		IF = {
 			limit = {
@@ -26,6 +52,19 @@ character_event = {
 		name = AND.1.b
 		trigger = {
 			ai = no
+		}
+		FROM = {
+			banish = yes
+			set_character_flag = prophet
+			hidden_tooltip = {
+				character_event = { id = AND.3 days = 3 }
+			}
+		}
+		any_realm_province = {
+			limit = {
+				has_province_flag = prophet_appeared
+			}
+			clr_province_flag = prophet_appeared
 		}
 	}
 }
@@ -46,6 +85,62 @@ character_event = {
 		name = AND.2.b
 	}
 }
+# banished prophet settles somewhere else
+character_event = {
+	id = AND.3
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		liege = {
+			character_event = { id = AND.1 }
+		}
+	}
+}
+
+# neighbouring province conversion
+province_event = {
+	id = AND.4
+	desc = AND.4.desc
+	picture = "GFX_evt_council"
+	
+	trigger = {
+		religion = ancestry
+		any_neighbor_province = {
+			has_owner = yes
+			NOT = {
+				religion = ancestry
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 365
+	}
+	
+	immediate = {
+		random_neighbor_province = {
+			limit = {
+				NOT = { religion = ancestry }
+			}
+			reverse_religion = ROOT
+		}
+	}
+	
+	option = {
+		name = AND.4.a
+		if = {
+			limit = { 
+				ruler = { religion = ancestry }
+			}
+			ruler = {
+				religion = ROOT
+			}
+		}
+	}
+}
+
 # Religion spawning starting event
 province_event = {
 	id = AND.9
@@ -56,6 +151,7 @@ province_event = {
 		NOT = { has_global_flag = religions_founded }
 		NOT = { has_province_modifier = county_levy_destr }
 		NOT = { has_province_modifier = county_levy_destr_pagan }
+		NOT = { has_province_flag = prophet_appeared }
 		religion = ancestry
 	}
 	mean_time_to_happen = {
@@ -74,6 +170,7 @@ province_event = {
 		}
 	}
 	immediate = {
+		set_province_flag = prophet_appeared
 		IF = {
 			limit = {
 				has_global_flag = monotheism_founded
@@ -224,9 +321,7 @@ character_event = {
 			ROOT = {
 				religion = orthodox
 			}
-			FROMFROM = {
-				religion = orthodox
-			}
+
 		}
 	}
 	option = {
@@ -255,9 +350,7 @@ character_event = {
 			ROOT = {
 				religion = shiite
 			}
-			FROMFROM = {
-				religion = shiite
-			}
+
 		}
 	}
 	option = {
@@ -286,9 +379,7 @@ character_event = {
 			ROOT = {
 				religion = sunni
 			}
-			FROMFROM = {
-				religion = sunni
-			}
+
 		}
 	}
 	option = {
@@ -317,9 +408,7 @@ character_event = {
 			ROOT = {
 				religion = jewish
 			}
-			FROMFROM = {
-				religion = jewish
-			}
+
 		}
 	}
 	option = {
@@ -348,9 +437,7 @@ character_event = {
 			ROOT = {
 				religion = catholic
 			}
-			FROMFROM = {
-				religion = catholic
-			}
+
 		}
 	}
 	option = {
@@ -432,9 +519,7 @@ character_event = {
 			ROOT = {
 				religion = norse_pagan
 			}
-			FROMFROM = {
-				religion = norse_pagan
-			}
+
 		}
 	}
 	option = {
@@ -463,9 +548,7 @@ character_event = {
 			ROOT = {
 				religion = tengri_pagan
 			}
-			FROMFROM = {
-				religion = tengri_pagan
-			}
+
 		}
 	}
 	option = {
@@ -494,9 +577,7 @@ character_event = {
 			ROOT = {
 				religion = baltic_pagan
 			}
-			FROMFROM = {
-				religion = baltic_pagan
-			}
+
 		}
 	}
 	option = {
@@ -525,9 +606,7 @@ character_event = {
 			ROOT = {
 				religion = slavic_pagan
 			}
-			FROMFROM = {
-				religion = slavic_pagan
-			}
+
 		}
 	}
 	option = {
@@ -556,9 +635,7 @@ character_event = {
 			ROOT = {
 				religion = finnish_pagan
 			}
-			FROMFROM = {
-				religion = finnish_pagan
-			}
+
 		}
 	}
 	option = {
@@ -640,9 +717,7 @@ character_event = {
 			ROOT = {
 				religion = manism
 			}
-			FROMFROM = {
-				religion = manism
-			}
+
 		}
 	}
 	option = {
@@ -671,9 +746,7 @@ character_event = {
 			ROOT = {
 				religion = heliosism
 			}
-			FROMFROM = {
-				religion = heliosism
-			}
+
 		}
 	}
 	option = {
@@ -702,9 +775,7 @@ character_event = {
 			ROOT = {
 				religion = polarism
 			}
-			FROMFROM = {
-				religion = polarism
-			}
+
 		}
 	}
 	option = {
@@ -733,9 +804,7 @@ character_event = {
 			ROOT = {
 				religion = orionism
 			}
-			FROMFROM = {
-				religion = orionism
-			}
+
 		}
 	}
 	option = {
@@ -764,9 +833,7 @@ character_event = {
 			ROOT = {
 				religion = raelism
 			}
-			FROMFROM = {
-				religion = raelism
-			}
+
 		}
 	}
 	option = {
@@ -848,9 +915,7 @@ character_event = {
 			ROOT = {
 				religion = animism
 			}
-			FROMFROM = {
-				religion = animism
-			}
+
 		}
 	}
 	option = {
@@ -879,9 +944,7 @@ character_event = {
 			ROOT = {
 				religion = shamanism
 			}
-			FROMFROM = {
-				religion = shamanism
-			}
+
 		}
 	}
 	option = {
@@ -910,9 +973,7 @@ character_event = {
 			ROOT = {
 				religion = gaia
 			}
-			FROMFROM = {
-				religion = gaia
-			}
+
 		}
 	}
 	option = {
@@ -941,9 +1002,7 @@ character_event = {
 			ROOT = {
 				religion = panvitalism
 			}
-			FROMFROM = {
-				religion = panvitalism
-			}
+
 		}
 	}
 	option = {
@@ -972,9 +1031,7 @@ character_event = {
 			ROOT = {
 				religion = stoicism
 			}
-			FROMFROM = {
-				religion = stoicism
-			}
+
 		}
 	}
 	option = {
