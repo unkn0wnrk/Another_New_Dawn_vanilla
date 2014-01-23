@@ -55,17 +55,20 @@ character_event = {
 		881 = { # Asosa
 			set_province_flag = asosa
 		}
-		338 = { # Reggio (Rhegion)
-			set_province_flag = reggio
+		482 = { # Atheniai
+			set_province_flag = atheniai
 		}
-		479 = { # Kaneia
-			set_province_flag = kaneia
+		749 = { # Dorylaion
+			set_province_flag = dorylaion
 		}
-		827 = { # Mallorca
-			set_province_flag = mallorca
+		197 = { # Toledo
+			set_province_flag = toledo
 		}
-		124 = { # Pfalz
-			set_province_flag = pfalz
+		930 = { # Bar
+			set_province_flag = bar
+		}
+		442 = { # Trencin
+			set_province_flag = trencin
 		}
 	}
 }
@@ -135,7 +138,7 @@ province_event = {
 		}
 	}
 	immediate = {
-		IF = {
+		IF = { # NORSE
 			limit = {
 				OR = {
 					ROOT = {
@@ -171,7 +174,7 @@ province_event = {
 				}
 			}
 		}
-		IF = {
+		IF = { # RUSSIA
 			limit = {
 				ROOT = {
 					910 = { # Siberia
@@ -192,7 +195,7 @@ province_event = {
 				}
 			}
 		}
-		IF = {
+		IF = { # STEPPES
 			limit = {
 				OR = {
 					ROOT = {
@@ -218,7 +221,7 @@ province_event = {
 				}
 			}
 		}
-		IF = {
+		IF = { # MIDDLE EAST
 			limit = {
 				OR = {
 					ROOT = {
@@ -244,7 +247,7 @@ province_event = {
 				}
 			}
 		}
-		IF = {
+		IF = { # WEST/EAST AFRICAN
 			limit = {
 				OR = {
 					ROOT = {
@@ -283,11 +286,11 @@ province_event = {
 				}
 			}
 		}
-		IF = {
+		IF = { # GREEK
 			limit = {
 				OR = {
 					ROOT = {
-						338 = { # Reggio
+						482 = { # Atheniai
 							NOT = {
 								distance = { 
 									where = PREVPREV
@@ -297,7 +300,7 @@ province_event = {
 						}
 					}
 					ROOT = {
-						479 = { # Kaneia
+						749 = { # Dorylaion
 							NOT = {
 								distance = { 
 									where = PREVPREV
@@ -307,23 +310,10 @@ province_event = {
 						}
 					}
 					ROOT = {
-						827 = { # Mallorca
-							NOT = {
-								distance = { 
-									where = PREVPREV
-									value = 400
-								}
-							}
-						}
+						has_province_flag = atheniai
 					}
 					ROOT = {
-						has_province_flag = reggio
-					}
-					ROOT = {
-						has_province_flag = kaneia
-					}
-					ROOT = {
-						has_province_flag = mallorca
+						has_province_flag = dorylaion
 					}
 				}
 			}
@@ -335,11 +325,11 @@ province_event = {
 				}
 			}
 		}
-		IF = {
+		IF = { # IBERIA
 			limit = {
 				OR = {
 					ROOT = {
-						124 = { # Pfalz
+						197 = { # Toledo
 							NOT = {
 								distance = { 
 									where = PREVPREV
@@ -349,14 +339,66 @@ province_event = {
 						}
 					}
 					ROOT = {
-						has_province_flag = pfalz
+						has_province_flag = toledo
+					}
+				}
+			}
+			random_list = {	# Random Iberian culture
+				100 = {	# placeholder Iberian 1
+					ROOT = {
+						province_event = { id = AND.611 }
+					}
+				}
+			}
+		}
+		IF = { # WESTERN
+			limit = {
+				OR = {
+					ROOT = {
+						930 = { # Bar
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = bar
 					}
 				}
 			}
 			random_list = {	# Random western culture
 				100 = {	# placeholder western 1
 					ROOT = {
-						province_event = { id = AND.611 }
+						province_event = { id = AND.641 }
+					}
+				}
+			}
+		}
+		IF = { # BOHEMIA
+			limit = {
+				OR = {
+					ROOT = {
+						442 = { # Trencin
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = trencin
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.671 }
 					}
 				}
 			}
@@ -484,7 +526,7 @@ province_event = {
 		}
 	}
 }
-# Southern
+# Greek
 province_event = {
 	id = AND.571
 	hide_window = yes
@@ -508,9 +550,33 @@ province_event = {
 		}
 	}
 }
-# Western
+# Iberian
 province_event = {
 	id = AND.611
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = basque_founded
+				}
+			}
+			#set_global_flag = basque_founded
+			ROOT = {
+				culture = basque
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+# Western
+province_event = {
+	id = AND.641
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -532,8 +598,9 @@ province_event = {
 		}
 	}
 }
+# Bohemia
 province_event = {
-	id = AND.411
+	id = AND.671
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -542,12 +609,12 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = norse_founded
+					has_global_flag = bohemian_founded
 				}
 			}
-			#set_global_flag = norse_founded
+			#set_global_flag = bohemian_founded
 			ROOT = {
-				culture = norse
+				culture = bohemian
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
