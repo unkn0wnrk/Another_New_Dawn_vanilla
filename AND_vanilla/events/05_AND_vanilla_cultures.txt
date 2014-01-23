@@ -49,20 +49,20 @@ character_event = {
 		649 = { # Basra
 			set_province_flag = basra
 		}
-		1050 = { # Niani
-			set_province_flag = niani
+		925 = { # mali
+			set_province_flag = mali
 		}
 		881 = { # Asosa
 			set_province_flag = asosa
 		}
-		338 = { # Reggio
+		338 = { # Reggio (Rhegion)
 			set_province_flag = reggio
 		}
 		479 = { # Kaneia
 			set_province_flag = kaneia
 		}
-		998 = { # Ibiza
-			set_province_flag = ibiza
+		827 = { # Mallorca
+			set_province_flag = mallorca
 		}
 		124 = { # Pfalz
 			set_province_flag = pfalz
@@ -139,7 +139,7 @@ province_event = {
 			limit = {
 				OR = {
 					ROOT = {
-						1190 = { # Foreyar (ocean)
+						960 = { # Faroya (ocean)
 							NOT = {
 								distance = { 
 									where = PREVPREV
@@ -174,7 +174,7 @@ province_event = {
 		IF = {
 			limit = {
 				ROOT = {
-					910 = { # Sibir
+					910 = { # Siberia
 						NOT = {
 							distance = { 
 								where = PREVPREV
@@ -232,7 +232,7 @@ province_event = {
 						}
 					}
 					ROOT = {
-						has_province_flag = emba
+						has_province_flag = basra
 					}
 				}
 			}
@@ -248,7 +248,7 @@ province_event = {
 			limit = {
 				OR = {
 					ROOT = {
-						1050 = { # Niani
+						925 = { # Mali
 							NOT = {
 								distance = { 
 									where = PREVPREV
@@ -268,7 +268,7 @@ province_event = {
 						}
 					}
 					ROOT = {
-						has_province_flag = emba
+						has_province_flag = mali
 					}
 					ROOT = {
 						has_province_flag = asosa
@@ -307,7 +307,7 @@ province_event = {
 						}
 					}
 					ROOT = {
-						998 = { # Ibiza
+						827 = { # Mallorca
 							NOT = {
 								distance = { 
 									where = PREVPREV
@@ -323,7 +323,7 @@ province_event = {
 						has_province_flag = kaneia
 					}
 					ROOT = {
-						has_province_flag = ibiza
+						has_province_flag = mallorca
 					}
 				}
 			}
@@ -349,7 +349,7 @@ province_event = {
 						}
 					}
 					ROOT = {
-						has_province_flag = emba
+						has_province_flag = pfalz
 					}
 				}
 			}
