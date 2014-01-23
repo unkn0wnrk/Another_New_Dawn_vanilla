@@ -1,6 +1,6 @@
 namespace = AND
 
-### Prophets appear
+### Culture evolves
 #Liege indulgence in province's culture in response to province's conversion
 character_event = {
 	id = AND.401
@@ -10,12 +10,101 @@ character_event = {
 	
 	option = {
 		name = AND.401.a
-		FROM = {
-			reverse_culture = ROOT
+		ROOT = {
+			culture = FROM
 		}
 	}
 	option = {
 		name = AND.401.b
+		trigger = {
+			ai = no
+		}
+	}
+}
+character_event = {
+	id = AND.402
+	hide_window = yes
+	hide_from = yes
+		
+	trigger = {
+		ai = no
+		NOT = { has_global_flag = provinces_set }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		modifier = {
+			factor = 0.01
+			always = yes
+		}
+	}
+	
+	immediate = {
+		389 = { # Finnmark
+			set_province_flag = finnmark
+		}
+		621 = { # Emba
+			set_province_flag = emba
+		}
+		649 = { # Basra
+			set_province_flag = basra
+		}
+		1050 = { # Niani
+			set_province_flag = niani
+		}
+		881 = { # Asosa
+			set_province_flag = asosa
+		}
+		338 = { # Reggio
+			set_province_flag = reggio
+		}
+		479 = { # Kaneia
+			set_province_flag = kaneia
+		}
+		998 = { # Ibiza
+			set_province_flag = ibiza
+		}
+		124 = { # Pfalz
+			set_province_flag = pfalz
+		}
+	}
+}
+# neighbouring province conversion
+province_event = {
+	id = AND.403
+	desc = AND.403.desc
+	picture = "GFX_evt_council"
+	
+	trigger = {
+		culture = tribal
+		any_neighbor_province = {
+			has_owner = yes
+			NOT = {
+				culture = tribal
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 365
+	}
+	immediate = {
+		random_neighbor_province = {
+			limit = {
+				NOT = { culture = tribal }
+			}
+			reverse_culture = ROOT
+		}
+	}
+	option = {
+		name = AND.403.a
+		IF = {
+			limit = { 
+				ruler = { culture = tribal }
+			}
+			ruler = {
+				culture = ROOT
+			}
+		}
 	}
 }
 # cultures spawning starting event
@@ -25,52 +114,261 @@ province_event = {
 	hide_from = yes
 	
 	trigger = {
-		NOT = { has_global_flag = cultures_founded }
 		culture = tribal
+		NOT = { has_global_flag = cultures_founded }
+		NOT = { has_province_modifier = county_levy_destr }
+		NOT = { has_province_modifier = county_levy_destr_pagan }
 	}
 	mean_time_to_happen = {
-		days = 3650
+		days = 7300
+		modifier = {
+			factor = 0.1
+			ai = no
+		}
 		modifier = {
 			factor = 0.5
-			year = 890
+			has_province_modifier = random_advantage
+		}
+		modifier = {
+			factor = 0.6
+			NOT = { religion = ancestry }
 		}
 	}
 	immediate = {
-		random_list = {	# random allocation of cultures. The follow-up events can result in failure if the religion already has been founded
-			20 = {	# placeholder1
-				ROOT = {
-					province_event = { id = AND.410 }
+		IF = {
+			limit = {
+				OR = {
+					ROOT = {
+						1190 = { # Foreyar (ocean)
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 500
+								}
+							}
+						}
+					}
+					ROOT = {
+						389 = { # Finnmark
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = finnmark
+					}
 				}
 			}
-			20 = {	# placeholder2
-				ROOT = {
-					province_event = { id = AND.411 }
+			random_list = {	# Random norse-ish culture
+				100 = {	# placeholder norse 1
+					ROOT = {
+						province_event = { id = AND.411 }
+					}
 				}
 			}
-			20 = {	# placeholder3
+		}
+		IF = {
+			limit = {
 				ROOT = {
-					province_event = { id = AND.412 }
+					910 = { # Sibir
+						NOT = {
+							distance = { 
+								where = PREVPREV
+								value = 300
+							}
+						}
+					}
 				}
 			}
-			20 = {	# placeholder4
-				ROOT = {
-					province_event = { id = AND.413 }
+			random_list = {	# Random eastern culture
+				100 = {	# placeholder eastern 1
+					ROOT = {
+						province_event = { id = AND.441 }
+					}
 				}
 			}
-			20 = {	# placeholder5
-				ROOT = {
-					province_event = { id = AND.414 }
+		}
+		IF = {
+			limit = {
+				OR = {
+					ROOT = {
+						621 = { # Emba
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = emba
+					}
+				}
+			}
+			random_list = {	# Random ugric culture
+				100 = {	# placeholder ugric 1
+					ROOT = {
+						province_event = { id = AND.471 }
+					}
+				}
+			}
+		}
+		IF = {
+			limit = {
+				OR = {
+					ROOT = {
+						649 = { # Basra
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = emba
+					}
+				}
+			}
+			random_list = {	# Random arabic culture
+				100 = {	# placeholder arabic 1
+					ROOT = {
+						province_event = { id = AND.511 }
+					}
+				}
+			}
+		}
+		IF = {
+			limit = {
+				OR = {
+					ROOT = {
+						1050 = { # Niani
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						881 = { # Asosa
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 200
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = emba
+					}
+					ROOT = {
+						has_province_flag = asosa
+					}
+				}
+			}
+			random_list = {	# Random african culture
+				100 = {	# placeholder african 1
+					ROOT = {
+						province_event = { id = AND.541 }
+					}
+				}
+			}
+		}
+		IF = {
+			limit = {
+				OR = {
+					ROOT = {
+						338 = { # Reggio
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						479 = { # Kaneia
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						998 = { # Ibiza
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = reggio
+					}
+					ROOT = {
+						has_province_flag = kaneia
+					}
+					ROOT = {
+						has_province_flag = ibiza
+					}
+				}
+			}
+			random_list = {	# Random southern culture
+				100 = {	# placeholder southern 1
+					ROOT = {
+						province_event = { id = AND.571 }
+					}
+				}
+			}
+		}
+		IF = {
+			limit = {
+				OR = {
+					ROOT = {
+						124 = { # Pfalz
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 400
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = emba
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.611 }
+					}
 				}
 			}
 		}
 	}
 }
-# Actual culture change of a random province. The events do nothing when the culture already is founded.
+### Actual culture change of a random province. The events do nothing when the culture already is founded.
+# Norse
 province_event = {
-	id = AND.410
-	desc = AND.410.desc
-	picture = GFX_evt_council
-	
+	id = AND.411
+	hide_window = yes
+	hide_from = yes
 	is_triggered_only = yes
 	
 	immediate = {
@@ -80,124 +378,180 @@ province_event = {
 					has_global_flag = norse_founded
 				}
 			}
-			set_global_flag = norse_founded
+			#set_global_flag = norse_founded
 			ROOT = {
 				culture = norse
 			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
 		}
 	}
-	option = {
-		name = AND.410.a
-		holder_scope = {
-			character_event = { id = AND.401 }
+}
+# Eastern
+province_event = {
+	id = AND.441
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = samoyed_founded
+				}
+			}
+			#set_global_flag = samoyed_founded
+			ROOT = {
+				culture = samoyed
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+# Ugric
+province_event = {
+	id = AND.471
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = mongol_founded
+				}
+			}
+			#set_global_flag = mongol_founded
+			ROOT = {
+				culture = mongol
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+# Arabic
+province_event = {
+	id = AND.511
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = levantine_arabic_founded
+				}
+			}
+			#set_global_flag = levantine_arabic_founded
+			ROOT = {
+				culture = levantine_arabic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+# African
+province_event = {
+	id = AND.541
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = manden_founded
+				}
+			}
+			#set_global_flag = manden_founded
+			ROOT = {
+				culture = manden
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+# Southern
+province_event = {
+	id = AND.571
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = greek_founded
+				}
+			}
+			#set_global_flag = greek_founded
+			ROOT = {
+				culture = greek
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+# Western
+province_event = {
+	id = AND.611
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = german_founded
+				}
+			}
+			#set_global_flag = german_founded
+			ROOT = {
+				culture = german
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
 		}
 	}
 }
 province_event = {
 	id = AND.411
-	desc = AND.411.desc
-	picture = GFX_evt_council
-	
+	hide_window = yes
+	hide_from = yes
 	is_triggered_only = yes
 	
 	immediate = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = swedish_founded
+					has_global_flag = norse_founded
 				}
 			}
-			set_global_flag = swedish_founded
+			#set_global_flag = norse_founded
 			ROOT = {
-				culture = swedish
+				culture = norse
 			}
-		}
-	}
-	option = {
-		name = AND.411.a
-		holder_scope = {
-			character_event = { id = AND.401 }
-		}
-	}
-}
-province_event = {
-	id = AND.412
-	desc = AND.412.desc
-	picture = GFX_evt_council
-	
-	is_triggered_only = yes
-	
-	immediate = {
-		IF = {
-			limit = {
-				NOT = {
-					has_global_flag = norwegian_founded
-				}
+			holder_scope = {
+				character_event = { id = AND.401 }
 			}
-			set_global_flag = norwegian_founded
-			ROOT = {
-				culture = norwegian
-			}
-		}
-	}
-	option = {
-		name = AND.412.a
-		holder_scope = {
-			character_event = { id = AND.401 }
-		}
-	}
-}
-province_event = {
-	id = AND.413
-	desc = AND.413.desc
-	picture = GFX_evt_council
-	
-	is_triggered_only = yes
-	
-	immediate = {
-		IF = {
-			limit = {
-				NOT = {
-					has_global_flag = danish_founded
-				}
-			}
-			set_global_flag = danish_founded
-			ROOT = {
-				culture = danish
-			}
-		}
-	}
-	option = {
-		name = AND.413.a
-		holder_scope = {
-			character_event = { id = AND.401 }
-		}
-	}
-}
-province_event = {
-	id = AND.414
-	desc = AND.414.desc
-	picture = GFX_evt_council
-	
-	is_triggered_only = yes
-	
-	immediate = {
-		IF = {
-			limit = {
-				NOT = {
-					has_global_flag = icelandic_founded
-				}
-			}
-			set_global_flag = icelandic_founded
-			ROOT = {
-				culture = icelandic
-			}
-		}
-	}
-	option = {
-		name = AND.414.a
-		holder_scope = {
-			character_event = { id = AND.401 }
 		}
 	}
 }

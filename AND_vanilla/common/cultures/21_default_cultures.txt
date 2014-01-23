@@ -5,7 +5,7 @@ generic = {
 	tribal = {
 		graphical_culture = norsegfx
 
-		color = { 0.3 0.55 0.8 }
+		color = { 0.1 0.1 0.1 }
 
 		# Þ 222 þ 254 Ð 208 ð 240 æ
 
