@@ -86,22 +86,22 @@ astrolatry_group = {
 	heliosism = {
 		graphical_culture = norsegfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 11
+		heresy_icon = 13
 
 		color = { 0.9 0.8 0.5 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_SUN GOD_SOL_INVICTUS GOD_RADIANT 
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_NIGHT GOD_DARKNESS
 		}
 		
-		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
-		priest_title = SHAMAN
+		crusade_name = GREAT_WAR
+		scripture_name = THE_ASTRAL_SCROLLS
+		priest_title = PRIEST
 		priests_can_marry = yes
 
 		can_call_crusade = no
@@ -117,28 +117,29 @@ astrolatry_group = {
 
 		max_consorts = 3
 
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
+		religious_clothing_head = 6
+		religious_clothing_priest = 6
 	}
+	
 	polarism = {
-		graphical_culture = norsegfx
+		graphical_culture = persiangfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 22
+		heresy_icon = 24
 
 		color = { 0.8 0.4 0.6 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_POLARIS GOD_GREAT_STAR GOD_NORTH_STAR 
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_DEMON GOD_DARKNESS
 		}
 		
-		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
-		priest_title = SHAMAN
+		crusade_name = GREAT_WAR
+		scripture_name = THE_ASTRAL_SCROLLS
+		priest_title = PRIEST
 		priests_can_marry = yes
 
 		can_call_crusade = no
@@ -154,28 +155,28 @@ astrolatry_group = {
 
 		max_consorts = 3
 
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
+		religious_clothing_head = 6
+		religious_clothing_priest = 6
 	}
 	orionism = {
-		graphical_culture = norsegfx
+		graphical_culture = persiangfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 3
+		heresy_icon = 8
 
 		color = { 0.4 0.4 0.4 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_STARS GOD_WARRIOR 
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_DAEMON GOD_DARKNESS
 		}
 		
-		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
-		priest_title = SHAMAN
+		crusade_name = GREAT_WAR
+		scripture_name = THE_ASTRAL_SCROLLS
+		priest_title = PRIEST
 		priests_can_marry = yes
 
 		can_call_crusade = no
@@ -191,8 +192,8 @@ astrolatry_group = {
 
 		max_consorts = 3
 
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
+		religious_clothing_head = 6
+		religious_clothing_priest = 6
 	}
 	raelism = {
 		graphical_culture = norsegfx
@@ -250,21 +251,21 @@ pantheism_group = {
 	animism = {
 		graphical_culture = norsegfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 34
+		heresy_icon = 36
 
 		color = { 0.3 0.3 0.3 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_SPIRITS GOD_GREAT_SPIRIT GOD_ANCESTOR GOD_FOREBEAR
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_ROGUE GOD_EVIL_SPIRIT
 		}
 		
 		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
+		scripture_name = THE_LONG_TALE
 		priest_title = SHAMAN
 		priests_can_marry = yes
 
@@ -281,8 +282,8 @@ pantheism_group = {
 
 		max_consorts = 3
 
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
+		religious_clothing_head = 4
+		religious_clothing_priest = 4
 	}
 	shamanism = {
 		graphical_culture = norsegfx
@@ -324,21 +325,21 @@ pantheism_group = {
 	gaia = {
 		graphical_culture = norsegfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 31
+		heresy_icon = 33
 
 		color = { 0.8 0.1 0.1 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_GAIA GOD_MOTHER_EARTH GOD_GREAT_MOTHER
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_DAEMON
 		}
 		
 		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
+		scripture_name = THE_LONG_TALE
 		priest_title = SHAMAN
 		priests_can_marry = yes
 
@@ -361,21 +362,21 @@ pantheism_group = {
 	panvitalism = {
 		graphical_culture = norsegfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 25
+		heresy_icon = 27
 
 		color = { 0.1 0.9 0.1 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_FORCE GOD_MANA 
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_DARKNESS GOD_ROGUE
 		}
 		
 		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
+		scripture_name = THE_LONG_TALE
 		priest_title = SHAMAN
 		priests_can_marry = yes
 
@@ -490,8 +491,8 @@ misc_group = {
 	ancestry = {
 		graphical_culture = norsegfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 5
+		heresy_icon = 14
 
 		color = { 0.1 0.1 0.1 }
 
