@@ -1,20 +1,6 @@
 #Another New Dawn default religion
 
-#monotheism_group = {
-#	has_coa_on_barony_only = yes
-#	graphical_culture = westerngfx
-#	crusade_cb = crusade
-#	playable = yes
-#	pacifist = yes # Will make Hordes lose their super aggressiveness
-#	
-#	# Names given only to Christian characters (base names)
-#	male_names = {
-#		Smarty
-#	}
-#	female_names = {
-#		Smarta
-#	}
-#}
+
 
 #polytheism_group = {
 #	has_coa_on_barony_only = yes
@@ -34,37 +20,38 @@
 
 astrolatry_group = {
 	has_coa_on_barony_only = yes
-	graphical_culture = westerngfx
+	graphical_culture = persiangfx
 	crusade_cb = crusade
 	playable = yes
 	pacifist = yes # Will make Hordes lose their super aggressiveness
 	
 	# Names given only to Christian characters (base names)
 	male_names = {
-		Smarty
+		Orion
 	}
 	female_names = {
-		Smarta
+		Virgo
 	}
-	manism = {
-		graphical_culture = norsegfx
+	
+	heliosism = {
+		graphical_culture = persiangfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 11
+		heresy_icon = 13
 
-		color = { 0.1 0.7 0.5 }
+		color = { 0.9 0.8 0.5 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_SUN GOD_SOL_INVICTUS GOD_RADIANT 
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_NIGHT GOD_DARKNESS
 		}
 		
-		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
-		priest_title = SHAMAN
+		crusade_name = GREAT_WAR
+		scripture_name = THE_ASTRAL_SCROLLS
+		priest_title = PRIEST
 		priests_can_marry = yes
 
 		can_call_crusade = no
@@ -80,23 +67,25 @@ astrolatry_group = {
 
 		max_consorts = 3
 
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
+		religious_clothing_head = 6
+		religious_clothing_priest = 6
 	}
-	heliosism = {
-		graphical_culture = norsegfx
+	
+	selenism = {
+		graphical_culture = persiangfx
 
 		icon = 11
 		heresy_icon = 13
 
-		color = { 0.9 0.8 0.5 }
+		color = { 0.9 0.6 0.3 }
+		parent = heliosism
 
 		god_names = {
-			GOD_SUN GOD_SOL_INVICTUS GOD_RADIANT 
+			GOD_MOON GOD_RADIANT 
 		}
 
 		evil_god_names = {
-			GOD_NIGHT GOD_DARKNESS
+			GOD_SUN GOD_DARKNESS
 		}
 		
 		crusade_name = GREAT_WAR
@@ -158,6 +147,45 @@ astrolatry_group = {
 		religious_clothing_head = 6
 		religious_clothing_priest = 6
 	}
+	
+	octantism = {
+		graphical_culture = persiangfx
+
+		icon = 22
+		heresy_icon = 24
+
+		color = { 0.8 0.2 0.4 }
+		parent = polarism
+		god_names = {
+			GOD_SIGMA GOD_GREAT_STAR GOD_SOUTH_STAR 
+		}
+
+		evil_god_names = {
+			GOD_DEMON GOD_DARKNESS
+		}
+		
+		crusade_name = GREAT_WAR
+		scripture_name = THE_ASTRAL_SCROLLS
+		priest_title = PRIEST
+		priests_can_marry = yes
+
+		can_call_crusade = no
+
+		allow_viking_invasion = no # Allows the "Prepare Invasion" diplo action
+		allow_looting = yes
+		allow_rivermovement = no
+		female_temple_holders = no
+
+		short_reign_opinion_year_mult = 2 # The default is 2
+
+		aggression = 1.5 # AI aggression factor
+
+		max_consorts = 3
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 6
+	}
+	
 	orionism = {
 		graphical_culture = persiangfx
 
@@ -195,25 +223,27 @@ astrolatry_group = {
 		religious_clothing_head = 6
 		religious_clothing_priest = 6
 	}
-	raelism = {
-		graphical_culture = norsegfx
+	
+	geminism = {
+		graphical_culture = persiangfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 3
+		heresy_icon = 8
 
-		color = { 0.5 0.8 0.8 }
-
+		color = { 0.4 0.2 0.2 }
+		parent = orionism
+		
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_STARS GOD_TWINS 
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_DAEMON GOD_DARKNESS
 		}
 		
-		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
-		priest_title = SHAMAN
+		crusade_name = GREAT_WAR
+		scripture_name = THE_ASTRAL_SCROLLS
+		priest_title = PRIEST
 		priests_can_marry = yes
 
 		can_call_crusade = no
@@ -229,9 +259,10 @@ astrolatry_group = {
 
 		max_consorts = 3
 
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
+		religious_clothing_head = 6
+		religious_clothing_priest = 6
 	}
+	
 }
 
 pantheism_group = {
@@ -243,10 +274,10 @@ pantheism_group = {
 	
 	# Names given only to Christian characters (base names)
 	male_names = {
-		Smarty
+		Anim
 	}
 	female_names = {
-		Smarta
+		Anima
 	}
 	animism = {
 		graphical_culture = norsegfx
@@ -288,21 +319,21 @@ pantheism_group = {
 	shamanism = {
 		graphical_culture = norsegfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 34
+		heresy_icon = 36
 
-		color = { 0.1 0.1 0.8 }
-
+		color = { 0.3 0.1 0.1 }
+		parent = animism
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_SPIRITS GOD_GREAT_SPIRIT GOD_ANCESTOR GOD_FOREBEAR
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_ROGUE GOD_EVIL_SPIRIT
 		}
 		
 		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
+		scripture_name = THE_LONG_TALE
 		priest_title = SHAMAN
 		priests_can_marry = yes
 
@@ -319,8 +350,8 @@ pantheism_group = {
 
 		max_consorts = 3
 
-		religious_clothing_head = 3
-		religious_clothing_priest = 3
+		religious_clothing_head = 4
+		religious_clothing_priest = 4
 	}
 	gaia = {
 		graphical_culture = norsegfx
@@ -359,6 +390,45 @@ pantheism_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 	}
+	
+	uranism = {
+		graphical_culture = norsegfx
+
+		icon = 31
+		heresy_icon = 33
+
+		color = { 0.6 0.1 0.1 }
+		parent = gaia
+		god_names = {
+			GOD_URANOS GOD_GREAT_FATHER
+		}
+
+		evil_god_names = {
+			GOD_DAEMON
+		}
+		
+		crusade_name = TRIBAL_CONQUEST
+		scripture_name = THE_LONG_TALE
+		priest_title = SHAMAN
+		priests_can_marry = yes
+
+		can_call_crusade = no
+
+		allow_viking_invasion = no # Allows the "Prepare Invasion" diplo action
+		allow_looting = yes
+		allow_rivermovement = no
+		female_temple_holders = no
+
+		short_reign_opinion_year_mult = 2 # The default is 2
+
+		aggression = 1.5 # AI aggression factor
+
+		max_consorts = 3
+
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+	}
+	
 	panvitalism = {
 		graphical_culture = norsegfx
 
@@ -368,7 +438,7 @@ pantheism_group = {
 		color = { 0.1 0.9 0.1 }
 
 		god_names = {
-			GOD_FORCE GOD_MANA 
+			GOD_FORCE GOD_LIFE 
 		}
 
 		evil_god_names = {
@@ -396,24 +466,25 @@ pantheism_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 	}
-	stoicism = {
+	
+	thanatism = {
 		graphical_culture = norsegfx
 
-		icon = 1
-		heresy_icon = 6
+		icon = 25
+		heresy_icon = 27
 
-		color = { 0.6 0.7 0.7 }
+		color = { 0.1 0.7 0.1 }
 
 		god_names = {
-			GOD_DIVINES GOD_THE_DIVINE GOD_ANCESTOR GOD_FOREBEAR
+			GOD_FORCE GOD_DEATH 
 		}
 
 		evil_god_names = {
-			ROGUE
+			GOD_LIFE GOD_ROGUE
 		}
 		
 		crusade_name = TRIBAL_CONQUEST
-		scripture_name = THE_SAGAS
+		scripture_name = THE_LONG_TALE
 		priest_title = SHAMAN
 		priests_can_marry = yes
 
@@ -433,6 +504,101 @@ pantheism_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 	}
+	
+	
+}
+
+philosophical = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	pacifist = yes # Will make Hordes lose their super aggressiveness
+	
+	# Names given only to Christian characters (base names)
+	male_names = {
+		Smarty
+	}
+	female_names = {
+		Smarta
+	}
+	
+	platonism = {
+		graphical_culture = westerngfx
+
+		icon = 37
+		heresy_icon = 37
+
+		color = { 0.1 0.9 0.1 }
+
+		god_names = {
+			GOD_WISDOM 
+		}
+
+		evil_god_names = {
+			GOD_IGNORANCE
+		}
+		
+		crusade_name = GREAT_WAR
+		scripture_name = THE_WISDOM_SCROLLS
+		priest_title = PHILOSOPHER
+		priests_can_marry = yes
+
+		can_call_crusade = no
+
+		allow_viking_invasion = no # Allows the "Prepare Invasion" diplo action
+		allow_looting = yes
+		allow_rivermovement = no
+		female_temple_holders = no
+
+		short_reign_opinion_year_mult = 2 # The default is 2
+
+		aggression = 1.5 # AI aggression factor
+
+		max_consorts = 3
+
+		religious_clothing_head = 8
+		religious_clothing_priest = 8
+	}
+	
+	cynicism = {
+		graphical_culture = westerngfx
+
+		icon = 37
+		heresy_icon = 37
+
+		color = { 0.1 0.7 0.1 }
+		parent = platonism
+		god_names = {
+			GOD_WISDOM 
+		}
+
+		evil_god_names = {
+			GOD_IGNORANCE
+		}
+		
+		crusade_name = GREAT_WAR
+		scripture_name = THE_WISDOM_SCROLLS
+		priest_title = PHILOSOPHER
+		priests_can_marry = yes
+
+		can_call_crusade = no
+
+		allow_viking_invasion = no # Allows the "Prepare Invasion" diplo action
+		allow_looting = yes
+		allow_rivermovement = no
+		female_temple_holders = no
+
+		short_reign_opinion_year_mult = 2 # The default is 2
+
+		aggression = 1.5 # AI aggression factor
+
+		max_consorts = 3
+
+		religious_clothing_head = 8
+		religious_clothing_priest = 8
+	}
+
 }
 
 misc_group = {
