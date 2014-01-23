@@ -81,3 +81,142 @@ d_atheism = {
 		religion=atheism
 	}
 }
+
+d_heliosism = {
+	color={ 224 238 41 }
+	color2={ 246 140 1 }
+	
+	capital = 793 # Makuria
+	
+	creation_requires_capital = no
+	
+	title = "SUPREME_PRIEST"
+	title_female = "SUPREME_PRIEST"
+	foa = "SUPREME_PRIEST_FOA"
+	short_name = yes
+	
+	religion=heliosism
+	
+	# Controls a religion
+	controls_religion = heliosism
+	
+	
+	caliphate = no
+	
+}
+
+d_polarism = {
+	color={ 243 238 231 }
+	color2={ 127 243 243 }
+	
+	capital = 702 # Khliat
+	
+	creation_requires_capital = no
+	
+	title = "SUPREME_PRIEST"
+	title_female = "SUPREME_PRIEST"
+	foa = "SUPREME_PRIEST_FOA"
+	short_name = yes
+	
+	religion=polarism
+	
+	# Controls a religion
+	controls_religion = polarism
+	
+	
+	caliphate = no
+	
+}
+
+
+d_orionism = {
+	color={ 59 104 229 }
+	color2={ 0 27 101 }
+	
+	capital = 304 # Ruegen
+	
+	creation_requires_capital = no
+	
+	title = "SUPREME_PRIEST"
+	title_female = "SUPREME_PRIEST"
+	foa = "SUPREME_PRIEST_FOA"
+	short_name = yes
+	
+	religion=orionism
+	
+	# Controls a religion
+	controls_religion = orionism
+	
+	
+	caliphate = no
+	
+}
+
+d_animism = {
+	color={ 47 166 23 }
+	color2={ 23 166 57 }
+	
+	capital = 1 # Vestisland
+	
+	creation_requires_capital = no
+	
+	title = "SUPREME_DRUID"
+	title_female = "SUPREME_DRUIDESS"
+	foa = "SUPREME_DRUID_FOA"
+	short_name = yes
+	
+	religion=animism
+	
+	# Controls a religion
+	controls_religion = animism
+	
+	
+	caliphate = no
+	
+}
+
+d_gaia = {
+	color={ 44 206 11 }
+	color2={ 118 211 42 }
+	
+	capital = 133 # Troyes
+	
+	creation_requires_capital = no
+	
+	title = "SUPREME_DRUID"
+	title_female = "SUPREME_DRUIDESS"
+	foa = "SUPREME_DRUID_FOA"
+	short_name = yes
+	
+	religion=gaia
+	
+	# Controls a religion
+	controls_religion = gaia
+	
+	
+	caliphate = no
+	
+}
+
+d_panvitalism = {
+	color={ 8 246 40 }
+	color2={ 18 193 24 }
+	
+	capital = 533 # Czersk
+	
+	creation_requires_capital = no
+	
+	title = "SUPREME_DRUID"
+	title_female = "SUPREME_DRUIDESS"
+	foa = "SUPREME_DRUID_FOA"
+	short_name = yes
+	
+	religion=panvitalism
+	
+	# Controls a religion
+	controls_religion = panvitalism
+	
+	
+	caliphate = no
+	
+}
