@@ -1,4 +1,3 @@
-
 generic = {
 	graphical_culture = norsegfx
 
@@ -751,4 +750,4 @@ g_kartvelian = {
 		
 		modifier = default_culture_modifier
 	}
-}
+} 
