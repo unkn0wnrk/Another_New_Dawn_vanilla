@@ -40,33 +40,52 @@ character_event = {
 	}
 	
 	immediate = {
-		389 = { # Finnmark
-			set_province_flag = finnmark
+		288 = { # varmland
+			set_province_flag = cul_nordic
 		}
-		621 = { # Emba
-			set_province_flag = emba
+		626 = { # Khiva
+			set_province_flag = cul_iranian
 		}
 		649 = { # Basra
-			set_province_flag = basra
+			set_province_flag = cul_semitic
 		}
 		925 = { # mali
-			set_province_flag = mali
+			set_province_flag = cul_wafrican
 		}
-		881 = { # Asosa
-			set_province_flag = asosa
+		793 = { # makuria
+			set_province_flag = cul_hamitic
 		}
-		338 = { # Reggio (Rhegion)
-			set_province_flag = reggio
+		243 = { # Orvieto 
+			set_province_flag = cul_italic
 		}
-		479 = { # Kaneia
-			set_province_flag = kaneia
+		748 = { # Laodikea
+			set_province_flag = cul_hellenic
 		}
-		827 = { # Mallorca
-			set_province_flag = mallorca
+		177 = { # cuenca
+			set_province_flag = cul_iberian
 		}
 		124 = { # Pfalz
-			set_province_flag = pfalz
+			set_province_flag = cul_germanic
 		}
+		532 = { # Sacz
+			set_province_flag = cul_slavic
+		}
+		373 = { # Kurzeme
+			set_province_flag = cul_baltic
+		}
+		412 = { #Torzhok
+			set_province_flag = cul_ugric
+		}
+		616 = { #Yaik
+			set_province_flag = cul_altaic
+		}
+		104 = { #Cornouaille
+			set_province_flag = cul_celtic
+		}
+		679 = { #Kartli
+			set_province_flag = cul_kartvelian
+		}
+		
 	}
 }
 # neighbouring province conversion
@@ -120,7 +139,7 @@ province_event = {
 		NOT = { has_province_modifier = county_levy_destr_pagan }
 	}
 	mean_time_to_happen = {
-		days = 7300
+		days = 3650
 		modifier = {
 			factor = 0.1
 			ai = no
@@ -139,34 +158,34 @@ province_event = {
 			limit = {
 				OR = {
 					ROOT = {
-						960 = { # Faroya (ocean)
+						288 = { # varmland
 							NOT = {
 								distance = { 
 									where = PREVPREV
-									value = 500
+									value = 100
 								}
 							}
 						}
 					}
 					ROOT = {
-						389 = { # Finnmark
+						1 = { # Vestisland
 							NOT = {
 								distance = { 
 									where = PREVPREV
-									value = 400
+									value = 100
 								}
 							}
 						}
 					}
 					ROOT = {
-						has_province_flag = finnmark
+						has_province_flag = cul_nordic
 					}
 				}
 			}
 			random_list = {	# Random norse-ish culture
 				100 = {	# placeholder norse 1
 					ROOT = {
-						province_event = { id = AND.411 }
+						province_event = { id = AND.4111 }
 					}
 				}
 			}
@@ -174,11 +193,11 @@ province_event = {
 		IF = {
 			limit = {
 				ROOT = {
-					910 = { # Siberia
+					412 = { # Torzhok
 						NOT = {
 							distance = { 
 								where = PREVPREV
-								value = 300
+								value = 100
 							}
 						}
 					}
@@ -187,7 +206,7 @@ province_event = {
 			random_list = {	# Random eastern culture
 				100 = {	# placeholder eastern 1
 					ROOT = {
-						province_event = { id = AND.441 }
+						province_event = { id = AND.4112 }
 					}
 				}
 			}
@@ -196,24 +215,24 @@ province_event = {
 			limit = {
 				OR = {
 					ROOT = {
-						621 = { # Emba
+						626 = { # Khiva
 							NOT = {
 								distance = { 
 									where = PREVPREV
-									value = 400
+									value = 100
 								}
 							}
 						}
 					}
 					ROOT = {
-						has_province_flag = emba
+						has_province_flag = cul_iranian
 					}
 				}
 			}
-			random_list = {	# Random ugric culture
-				100 = {	# placeholder ugric 1
+			random_list = {	# Random iranian culture
+				100 = {	
 					ROOT = {
-						province_event = { id = AND.471 }
+						province_event = { id = AND.4113 }
 					}
 				}
 			}
@@ -226,20 +245,20 @@ province_event = {
 							NOT = {
 								distance = { 
 									where = PREVPREV
-									value = 400
+									value = 100
 								}
 							}
 						}
 					}
 					ROOT = {
-						has_province_flag = basra
+						has_province_flag = cul_semitic
 					}
 				}
 			}
-			random_list = {	# Random arabic culture
+			random_list = {	# Random semitic culture
 				100 = {	# placeholder arabic 1
 					ROOT = {
-						province_event = { id = AND.511 }
+						province_event = { id = AND.4114 }
 					}
 				}
 			}
@@ -252,33 +271,22 @@ province_event = {
 							NOT = {
 								distance = { 
 									where = PREVPREV
-									value = 400
-								}
-							}
-						}
-					}
-					ROOT = {
-						881 = { # Asosa
-							NOT = {
-								distance = { 
-									where = PREVPREV
 									value = 200
 								}
 							}
 						}
 					}
+					
 					ROOT = {
-						has_province_flag = mali
+						has_province_flag = cul_wafrican
 					}
-					ROOT = {
-						has_province_flag = asosa
-					}
+
 				}
 			}
 			random_list = {	# Random african culture
 				100 = {	# placeholder african 1
 					ROOT = {
-						province_event = { id = AND.541 }
+						province_event = { id = AND.4115 }
 					}
 				}
 			}
@@ -287,50 +295,26 @@ province_event = {
 			limit = {
 				OR = {
 					ROOT = {
-						338 = { # Reggio
+						243 = { # Orvieto
 							NOT = {
 								distance = { 
 									where = PREVPREV
-									value = 400
+									value = 100
 								}
 							}
 						}
 					}
+					
 					ROOT = {
-						479 = { # Kaneia
-							NOT = {
-								distance = { 
-									where = PREVPREV
-									value = 400
-								}
-							}
-						}
+						has_province_flag = cul_italic
 					}
-					ROOT = {
-						827 = { # Mallorca
-							NOT = {
-								distance = { 
-									where = PREVPREV
-									value = 400
-								}
-							}
-						}
-					}
-					ROOT = {
-						has_province_flag = reggio
-					}
-					ROOT = {
-						has_province_flag = kaneia
-					}
-					ROOT = {
-						has_province_flag = mallorca
-					}
+			
 				}
 			}
 			random_list = {	# Random southern culture
 				100 = {	# placeholder southern 1
 					ROOT = {
-						province_event = { id = AND.571 }
+						province_event = { id = AND.4116 }
 					}
 				}
 			}
@@ -343,20 +327,230 @@ province_event = {
 							NOT = {
 								distance = { 
 									where = PREVPREV
-									value = 400
+									value = 100
 								}
 							}
 						}
 					}
 					ROOT = {
-						has_province_flag = pfalz
+						has_province_flag = cul_germanic
 					}
 				}
 			}
 			random_list = {	# Random western culture
 				100 = {	# placeholder western 1
 					ROOT = {
-						province_event = { id = AND.611 }
+						province_event = { id = AND.4117 }
+					}
+				}
+			}
+		}
+		IF = { #Hamitic
+			limit = {
+				OR = {
+					ROOT = {
+						793 = { # Makuria
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 100
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_hamitic
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4118 }
+					}
+				}
+			}
+		}
+		
+		IF = { #Hellenic
+			limit = {
+				OR = {
+					ROOT = {
+						748 = { # Laodikea
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 100
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_hellenic
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4119 }
+					}
+				}
+			}
+		}
+		IF = { #Iberian
+			limit = {
+				OR = {
+					ROOT = {
+						177 = { # Cuenca
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 100
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_iberian
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4120 }
+					}
+				}
+			}
+		}
+		IF = { #Slavic
+			limit = {
+				OR = {
+					ROOT = {
+						532 = { # Sacz
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 100
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_slavic
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4121 }
+					}
+				}
+			}
+		}
+		IF = { #Baltic
+			limit = {
+				OR = {
+					ROOT = {
+						373 = { # Kurzeme
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 50
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_baltic
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4122 }
+					}
+				}
+			}
+		}
+		IF = { #Altaic
+			limit = {
+				OR = {
+					ROOT = {
+						616 = { # Yaik
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 100
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_altaic
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4123 }
+					}
+				}
+			}
+		}
+		
+		IF = { #Celtic
+			limit = {
+				OR = {
+					ROOT = {
+						104 = { # Cornouaille
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 100
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_celtic
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4124 }
+					}
+				}
+			}
+		}
+		IF = { #Katrvelian
+			limit = {
+				OR = {
+					ROOT = {
+						679 = { # Kartli
+							NOT = {
+								distance = { 
+									where = PREVPREV
+									value = 50
+								}
+							}
+						}
+					}
+					ROOT = {
+						has_province_flag = cul_kartvelian
+					}
+				}
+			}
+			random_list = {	# Random western culture
+				100 = {	# placeholder western 1
+					ROOT = {
+						province_event = { id = AND.4125 }
 					}
 				}
 			}
@@ -364,9 +558,9 @@ province_event = {
 	}
 }
 ### Actual culture change of a random province. The events do nothing when the culture already is founded.
-# Norse
+# Nordic
 province_event = {
-	id = AND.411
+	id = AND.4111
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -375,12 +569,12 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = norse_founded
+					has_global_flag = cul_nordic_founded
 				}
 			}
-			#set_global_flag = norse_founded
+			#set_global_flag = cul_nordic_founded
 			ROOT = {
-				culture = norse
+				culture = nordic
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
@@ -414,7 +608,7 @@ province_event = {
 }
 # Ugric
 province_event = {
-	id = AND.471
+	id = AND.4112
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -423,12 +617,12 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = mongol_founded
+					has_global_flag = cul_ugric_founded
 				}
 			}
-			#set_global_flag = mongol_founded
+			#set_global_flag = cul_ugric_founded
 			ROOT = {
-				culture = mongol
+				culture = ugric
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
@@ -436,9 +630,9 @@ province_event = {
 		}
 	}
 }
-# Arabic
+#Iranian
 province_event = {
-	id = AND.511
+	id = AND.4113
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -447,12 +641,12 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = levantine_arabic_founded
+					has_global_flag = cul_iranian_founded
 				}
 			}
-			#set_global_flag = levantine_arabic_founded
+			#set_global_flag = cul_iranian_founded
 			ROOT = {
-				culture = levantine_arabic
+				culture = iranian
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
@@ -460,9 +654,9 @@ province_event = {
 		}
 	}
 }
-# African
+# Semitic
 province_event = {
-	id = AND.541
+	id = AND.4114
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -471,12 +665,12 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = manden_founded
+					has_global_flag = cul_semitic_founded
 				}
 			}
-			#set_global_flag = manden_founded
+			#set_global_flag = cul_semitic_founded
 			ROOT = {
-				culture = manden
+				culture = semitic
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
@@ -484,9 +678,9 @@ province_event = {
 		}
 	}
 }
-# Southern
+# South African
 province_event = {
-	id = AND.571
+	id = AND.4115
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -495,12 +689,12 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = greek_founded
+					has_global_flag = cul_wafrican_founded
 				}
 			}
-			#set_global_flag = greek_founded
+			#set_global_flag = cul_wafrican_founded
 			ROOT = {
-				culture = greek
+				culture = west_african
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
@@ -508,9 +702,9 @@ province_event = {
 		}
 	}
 }
-# Western
+# Italic
 province_event = {
-	id = AND.611
+	id = AND.4116
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -519,12 +713,12 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = german_founded
+					has_global_flag = cul_italic_founded
 				}
 			}
-			#set_global_flag = german_founded
+			#set_global_flag = cul_italic_founded
 			ROOT = {
-				culture = german
+				culture = italic
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
@@ -532,8 +726,9 @@ province_event = {
 		}
 	}
 }
+# Germanic
 province_event = {
-	id = AND.411
+	id = AND.4117
 	hide_window = yes
 	hide_from = yes
 	is_triggered_only = yes
@@ -542,12 +737,211 @@ province_event = {
 		IF = {
 			limit = {
 				NOT = {
-					has_global_flag = norse_founded
+					has_global_flag = cul_germanic_founded
 				}
 			}
-			#set_global_flag = norse_founded
+			#set_global_flag = cul_germanic_founded
 			ROOT = {
-				culture = norse
+				culture = germanic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+
+# Hamitic
+province_event = {
+	id = AND.4118
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_hamitic_founded
+				}
+			}
+			#set_global_flag = cul_hamitic_founded
+			ROOT = {
+				culture = hamitic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+
+# Hellenic
+province_event = {
+	id = AND.4119
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_hellenic_founded
+				}
+			}
+			#set_global_flag = cul_hellenic_founded
+			ROOT = {
+				culture = hellenic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+#Iberian
+province_event = {
+	id = AND.4120
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_iberian_founded
+				}
+			}
+			#set_global_flag = cul_iberian_founded
+			ROOT = {
+				culture = iberian
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+
+#Slavic
+province_event = {
+	id = AND.4121
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_slavic_founded
+				}
+			}
+			#set_global_flag = cul_slavic_founded
+			ROOT = {
+				culture = slavic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+
+#Baltic
+province_event = {
+	id = AND.4122
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_baltic_founded
+				}
+			}
+			#set_global_flag = cul_baltic_founded
+			ROOT = {
+				culture = baltic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+
+#Altaic
+province_event = {
+	id = AND.4123
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_altaic_founded
+				}
+			}
+			#set_global_flag = cul_altaic_founded
+			ROOT = {
+				culture = altaic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+
+#Celtic
+province_event = {
+	id = AND.4124
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_celtic_founded
+				}
+			}
+			#set_global_flag = cul_celtic_founded
+			ROOT = {
+				culture = celtic
+			}
+			holder_scope = {
+				character_event = { id = AND.401 }
+			}
+		}
+	}
+}
+
+#Kartvelian
+province_event = {
+	id = AND.4125
+	hide_window = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		IF = {
+			limit = {
+				NOT = {
+					has_global_flag = cul_kartvelian_founded
+				}
+			}
+			#set_global_flag = cul_kartvelian_founded
+			ROOT = {
+				culture = kartvelian
 			}
 			holder_scope = {
 				character_event = { id = AND.401 }
