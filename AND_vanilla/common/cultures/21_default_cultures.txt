@@ -7,21 +7,21 @@ generic = {
 
 		color = { 0.1 0.1 0.1 }
 
-		# Ş 222 ş 254 Ğ 208 ğ 240 æ
+		# Ã 222 Ã¾ 254 Ã 208 Ã° 240 Ã¦
 
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo Borkvard Botulfr Bragi_Brage Buğli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froği_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guğfriğ_Godfrey Guğmundr_Gudmund Guğröğr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroğgar Hroğulfr Hrörekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurğr_Sigurd Starkağr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Şorbjörn_Torbjörn Şorfinn_Torfinn Şorbrandr_Torbrand Şordr_Tord Şorgil_Torkel Şorsteinn_Torsten Şorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund ArnbjÃ¶rn Arngrimr Arni_Arne Arnfast AsbjÃ¶rn_AsbjÃ¶rn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger BjÃ¶rn_Beorn Bo Borkvard Botulfr Bragi_Brage BuÃ°li
+			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek FroÃ°i_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim GuÃ°friÃ°_Godfrey GuÃ°mundr_Gudmund GuÃ°rÃ¶Ã°r_GudrÃ¶d Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
+			Hemming Holmger Hrafn Hrolfr_Rolf Hrane HÃ¦steinn Hjalmar_Hjalmar HroÃ°gar HroÃ°ulfr HrÃ¶rekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol KolbjÃ¶rn Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr RÃ¶gnvaldr_Ragnvald Skuli_Skule Snorri SigbjÃ¶rn Sigtrygg SigurÃ°r_Sigurd StarkaÃ°r_Starkad Steinn_Sten Sturla StyrbjÃ¶rn Styrkar Suni_Sune Sveinn_Sven
+			Sverker SÃ¦mundr_SÃ¤mund SÃ¶lvi_SÃ¶lve SÃ¶rkver Tjudmund_Tjudmund Toke_Toke Tolir ÃorbjÃ¶rn_TorbjÃ¶rn Ãorfinn_Torfinn Ãorbrandr_Torbrand Ãordr_Tord Ãorgil_Torkel Ãorsteinn_Torsten Ãorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Ã…ke Yngvar_Ingvar Ã–rvar_Orvar Ã–ysteinn_Eysteinn
 		}
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfriğ_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerğr Gloğ Grima Gunnhildr_Gunhild Gurli Guğrun_Gudrun Gyla Gyriğ Gyğa_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjerğr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfriğ_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfriğ_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Şora_Thora Şordis_Thordis Şyra_Thyra
+			Aleta Alfhildr_Alfhild AlfriÃ°_Alfridh AlvÃ¶r Anna_Anna Asa_Ã…sa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid BjÃ¶rg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja GerÃ°r GloÃ° Grima Gunnhildr_Gunhild Gurli GuÃ°run_Gudrun Gyla GyriÃ° GyÃ°a_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inga Ingfrid IngibjÃ¶rg_Ingeborg IngjerÃ°r_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			MalmfriÃ°_Malmfrid Margareta_Margaret Maria_Maria Rikissa RÃ¶gnfriÃ°_Ragnfrid RÃ¶gnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Ãora_Thora Ãordis_Thordis Ãyra_Thyra
 		}
 
 		dukes_called_kings = yes
@@ -51,21 +51,21 @@ generic = {
 
 		color = { 0.6 0.55 0.9 }
 
-		# Ş 222 ş 254 Ğ 208 ğ 240 æ
+		# Ã 222 Ã¾ 254 Ã 208 Ã° 240 Ã¦
 
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo Borkvard Botulfr Bragi_Brage Buğli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froği_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guğfriğ_Godfrey Guğmundr_Gudmund Guğröğr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroğgar Hroğulfr Hrörekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurğr_Sigurd Starkağr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Şorbjörn_Torbjörn Şorfinn_Torfinn Şorbrandr_Torbrand Şordr_Tord Şorgil_Torkel Şorsteinn_Torsten Şorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund ArnbjÃ¶rn Arngrimr Arni_Arne Arnfast AsbjÃ¶rn_AsbjÃ¶rn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger BjÃ¶rn_Beorn Bo Borkvard Botulfr Bragi_Brage BuÃ°li
+			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek FroÃ°i_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim GuÃ°friÃ°_Godfrey GuÃ°mundr_Gudmund GuÃ°rÃ¶Ã°r_GudrÃ¶d Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
+			Hemming Holmger Hrafn Hrolfr_Rolf Hrane HÃ¦steinn Hjalmar_Hjalmar HroÃ°gar HroÃ°ulfr HrÃ¶rekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol KolbjÃ¶rn Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr RÃ¶gnvaldr_Ragnvald Skuli_Skule Snorri SigbjÃ¶rn Sigtrygg SigurÃ°r_Sigurd StarkaÃ°r_Starkad Steinn_Sten Sturla StyrbjÃ¶rn Styrkar Suni_Sune Sveinn_Sven
+			Sverker SÃ¦mundr_SÃ¤mund SÃ¶lvi_SÃ¶lve SÃ¶rkver Tjudmund_Tjudmund Toke_Toke Tolir ÃorbjÃ¶rn_TorbjÃ¶rn Ãorfinn_Torfinn Ãorbrandr_Torbrand Ãordr_Tord Ãorgil_Torkel Ãorsteinn_Torsten Ãorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Ã…ke Yngvar_Ingvar Ã–rvar_Orvar Ã–ysteinn_Eysteinn
 		}
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfriğ_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerğr Gloğ Grima Gunnhildr_Gunhild Gurli Guğrun_Gudrun Gyla Gyriğ Gyğa_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjerğr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfriğ_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfriğ_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Şora_Thora Şordis_Thordis Şyra_Thyra
+			Aleta Alfhildr_Alfhild AlfriÃ°_Alfridh AlvÃ¶r Anna_Anna Asa_Ã…sa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid BjÃ¶rg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja GerÃ°r GloÃ° Grima Gunnhildr_Gunhild Gurli GuÃ°run_Gudrun Gyla GyriÃ° GyÃ°a_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inga Ingfrid IngibjÃ¶rg_Ingeborg IngjerÃ°r_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			MalmfriÃ°_Malmfrid Margareta_Margaret Maria_Maria Rikissa RÃ¶gnfriÃ°_Ragnfrid RÃ¶gnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Ãora_Thora Ãordis_Thordis Ãyra_Thyra
 		}
 
 		dukes_called_kings = yes
@@ -95,21 +95,21 @@ generic = {
 
 		color = { 0.5 0.55 0.4 }
 
-		# Ş 222 ş 254 Ğ 208 ğ 240 æ
+		# Ã 222 Ã¾ 254 Ã 208 Ã° 240 Ã¦
 
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo Borkvard Botulfr Bragi_Brage Buğli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froği_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guğfriğ_Godfrey Guğmundr_Gudmund Guğröğr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroğgar Hroğulfr Hrörekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurğr_Sigurd Starkağr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Şorbjörn_Torbjörn Şorfinn_Torfinn Şorbrandr_Torbrand Şordr_Tord Şorgil_Torkel Şorsteinn_Torsten Şorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund ArnbjÃ¶rn Arngrimr Arni_Arne Arnfast AsbjÃ¶rn_AsbjÃ¶rn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger BjÃ¶rn_Beorn Bo Borkvard Botulfr Bragi_Brage BuÃ°li
+			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek FroÃ°i_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim GuÃ°friÃ°_Godfrey GuÃ°mundr_Gudmund GuÃ°rÃ¶Ã°r_GudrÃ¶d Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
+			Hemming Holmger Hrafn Hrolfr_Rolf Hrane HÃ¦steinn Hjalmar_Hjalmar HroÃ°gar HroÃ°ulfr HrÃ¶rekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol KolbjÃ¶rn Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr RÃ¶gnvaldr_Ragnvald Skuli_Skule Snorri SigbjÃ¶rn Sigtrygg SigurÃ°r_Sigurd StarkaÃ°r_Starkad Steinn_Sten Sturla StyrbjÃ¶rn Styrkar Suni_Sune Sveinn_Sven
+			Sverker SÃ¦mundr_SÃ¤mund SÃ¶lvi_SÃ¶lve SÃ¶rkver Tjudmund_Tjudmund Toke_Toke Tolir ÃorbjÃ¶rn_TorbjÃ¶rn Ãorfinn_Torfinn Ãorbrandr_Torbrand Ãordr_Tord Ãorgil_Torkel Ãorsteinn_Torsten Ãorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Ã…ke Yngvar_Ingvar Ã–rvar_Orvar Ã–ysteinn_Eysteinn
 		}
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfriğ_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerğr Gloğ Grima Gunnhildr_Gunhild Gurli Guğrun_Gudrun Gyla Gyriğ Gyğa_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjerğr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfriğ_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfriğ_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Şora_Thora Şordis_Thordis Şyra_Thyra
+			Aleta Alfhildr_Alfhild AlfriÃ°_Alfridh AlvÃ¶r Anna_Anna Asa_Ã…sa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid BjÃ¶rg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja GerÃ°r GloÃ° Grima Gunnhildr_Gunhild Gurli GuÃ°run_Gudrun Gyla GyriÃ° GyÃ°a_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inga Ingfrid IngibjÃ¶rg_Ingeborg IngjerÃ°r_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			MalmfriÃ°_Malmfrid Margareta_Margaret Maria_Maria Rikissa RÃ¶gnfriÃ°_Ragnfrid RÃ¶gnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Ãora_Thora Ãordis_Thordis Ãyra_Thyra
 		}
 
 		dukes_called_kings = yes
@@ -139,21 +139,21 @@ generic = {
 
 		color = { 0.3 0.2 0.8 }
 
-		# Ş 222 ş 254 Ğ 208 ğ 240 æ
+		# Ã 222 Ã¾ 254 Ã 208 Ã° 240 Ã¦
 
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo Borkvard Botulfr Bragi_Brage Buğli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froği_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guğfriğ_Godfrey Guğmundr_Gudmund Guğröğr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroğgar Hroğulfr Hrörekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurğr_Sigurd Starkağr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Şorbjörn_Torbjörn Şorfinn_Torfinn Şorbrandr_Torbrand Şordr_Tord Şorgil_Torkel Şorsteinn_Torsten Şorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund ArnbjÃ¶rn Arngrimr Arni_Arne Arnfast AsbjÃ¶rn_AsbjÃ¶rn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger BjÃ¶rn_Beorn Bo Borkvard Botulfr Bragi_Brage BuÃ°li
+			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek FroÃ°i_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim GuÃ°friÃ°_Godfrey GuÃ°mundr_Gudmund GuÃ°rÃ¶Ã°r_GudrÃ¶d Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
+			Hemming Holmger Hrafn Hrolfr_Rolf Hrane HÃ¦steinn Hjalmar_Hjalmar HroÃ°gar HroÃ°ulfr HrÃ¶rekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol KolbjÃ¶rn Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr RÃ¶gnvaldr_Ragnvald Skuli_Skule Snorri SigbjÃ¶rn Sigtrygg SigurÃ°r_Sigurd StarkaÃ°r_Starkad Steinn_Sten Sturla StyrbjÃ¶rn Styrkar Suni_Sune Sveinn_Sven
+			Sverker SÃ¦mundr_SÃ¤mund SÃ¶lvi_SÃ¶lve SÃ¶rkver Tjudmund_Tjudmund Toke_Toke Tolir ÃorbjÃ¶rn_TorbjÃ¶rn Ãorfinn_Torfinn Ãorbrandr_Torbrand Ãordr_Tord Ãorgil_Torkel Ãorsteinn_Torsten Ãorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Ã…ke Yngvar_Ingvar Ã–rvar_Orvar Ã–ysteinn_Eysteinn
 		}
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfriğ_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerğr Gloğ Grima Gunnhildr_Gunhild Gurli Guğrun_Gudrun Gyla Gyriğ Gyğa_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjerğr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfriğ_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfriğ_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Şora_Thora Şordis_Thordis Şyra_Thyra
+			Aleta Alfhildr_Alfhild AlfriÃ°_Alfridh AlvÃ¶r Anna_Anna Asa_Ã…sa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid BjÃ¶rg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja GerÃ°r GloÃ° Grima Gunnhildr_Gunhild Gurli GuÃ°run_Gudrun Gyla GyriÃ° GyÃ°a_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inga Ingfrid IngibjÃ¶rg_Ingeborg IngjerÃ°r_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			MalmfriÃ°_Malmfrid Margareta_Margaret Maria_Maria Rikissa RÃ¶gnfriÃ°_Ragnfrid RÃ¶gnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Ãora_Thora Ãordis_Thordis Ãyra_Thyra
 		}
 
 		dukes_called_kings = yes
@@ -183,21 +183,21 @@ generic = {
 
 		color = { 0.3 0.8 0.8 }
 
-		# Ş 222 ş 254 Ğ 208 ğ 240 æ
+		# Ã 222 Ã¾ 254 Ã 208 Ã° 240 Ã¦
 
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo Borkvard Botulfr Bragi_Brage Buğli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froği_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guğfriğ_Godfrey Guğmundr_Gudmund Guğröğr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroğgar Hroğulfr Hrörekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurğr_Sigurd Starkağr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Şorbjörn_Torbjörn Şorfinn_Torfinn Şorbrandr_Torbrand Şordr_Tord Şorgil_Torkel Şorsteinn_Torsten Şorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund ArnbjÃ¶rn Arngrimr Arni_Arne Arnfast AsbjÃ¶rn_AsbjÃ¶rn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger BjÃ¶rn_Beorn Bo Borkvard Botulfr Bragi_Brage BuÃ°li
+			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek FroÃ°i_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim GuÃ°friÃ°_Godfrey GuÃ°mundr_Gudmund GuÃ°rÃ¶Ã°r_GudrÃ¶d Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
+			Hemming Holmger Hrafn Hrolfr_Rolf Hrane HÃ¦steinn Hjalmar_Hjalmar HroÃ°gar HroÃ°ulfr HrÃ¶rekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol KolbjÃ¶rn Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr RÃ¶gnvaldr_Ragnvald Skuli_Skule Snorri SigbjÃ¶rn Sigtrygg SigurÃ°r_Sigurd StarkaÃ°r_Starkad Steinn_Sten Sturla StyrbjÃ¶rn Styrkar Suni_Sune Sveinn_Sven
+			Sverker SÃ¦mundr_SÃ¤mund SÃ¶lvi_SÃ¶lve SÃ¶rkver Tjudmund_Tjudmund Toke_Toke Tolir ÃorbjÃ¶rn_TorbjÃ¶rn Ãorfinn_Torfinn Ãorbrandr_Torbrand Ãordr_Tord Ãorgil_Torkel Ãorsteinn_Torsten Ãorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Ã…ke Yngvar_Ingvar Ã–rvar_Orvar Ã–ysteinn_Eysteinn
 		}
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfriğ_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerğr Gloğ Grima Gunnhildr_Gunhild Gurli Guğrun_Gudrun Gyla Gyriğ Gyğa_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjerğr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfriğ_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfriğ_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Şora_Thora Şordis_Thordis Şyra_Thyra
+			Aleta Alfhildr_Alfhild AlfriÃ°_Alfridh AlvÃ¶r Anna_Anna Asa_Ã…sa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid BjÃ¶rg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja GerÃ°r GloÃ° Grima Gunnhildr_Gunhild Gurli GuÃ°run_Gudrun Gyla GyriÃ° GyÃ°a_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inga Ingfrid IngibjÃ¶rg_Ingeborg IngjerÃ°r_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			MalmfriÃ°_Malmfrid Margareta_Margaret Maria_Maria Rikissa RÃ¶gnfriÃ°_Ragnfrid RÃ¶gnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Ãora_Thora Ãordis_Thordis Ãyra_Thyra
 		}
 
 		dukes_called_kings = yes
@@ -227,21 +227,21 @@ generic = {
 
 		color = { 0.8 0.55 0.8 }
 
-		# Ş 222 ş 254 Ğ 208 ğ 240 æ
+		# Ã 222 Ã¾ 254 Ã 208 Ã° 240 Ã¦
 
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo Borkvard Botulfr Bragi_Brage Buğli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froği_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guğfriğ_Godfrey Guğmundr_Gudmund Guğröğr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroğgar Hroğulfr Hrörekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurğr_Sigurd Starkağr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Şorbjörn_Torbjörn Şorfinn_Torfinn Şorbrandr_Torbrand Şordr_Tord Şorgil_Torkel Şorsteinn_Torsten Şorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund ArnbjÃ¶rn Arngrimr Arni_Arne Arnfast AsbjÃ¶rn_AsbjÃ¶rn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger BjÃ¶rn_Beorn Bo Borkvard Botulfr Bragi_Brage BuÃ°li
+			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek FroÃ°i_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim GuÃ°friÃ°_Godfrey GuÃ°mundr_Gudmund GuÃ°rÃ¶Ã°r_GudrÃ¶d Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
+			Hemming Holmger Hrafn Hrolfr_Rolf Hrane HÃ¦steinn Hjalmar_Hjalmar HroÃ°gar HroÃ°ulfr HrÃ¶rekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol KolbjÃ¶rn Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr RÃ¶gnvaldr_Ragnvald Skuli_Skule Snorri SigbjÃ¶rn Sigtrygg SigurÃ°r_Sigurd StarkaÃ°r_Starkad Steinn_Sten Sturla StyrbjÃ¶rn Styrkar Suni_Sune Sveinn_Sven
+			Sverker SÃ¦mundr_SÃ¤mund SÃ¶lvi_SÃ¶lve SÃ¶rkver Tjudmund_Tjudmund Toke_Toke Tolir ÃorbjÃ¶rn_TorbjÃ¶rn Ãorfinn_Torfinn Ãorbrandr_Torbrand Ãordr_Tord Ãorgil_Torkel Ãorsteinn_Torsten Ãorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Ã…ke Yngvar_Ingvar Ã–rvar_Orvar Ã–ysteinn_Eysteinn
 		}
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfriğ_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerğr Gloğ Grima Gunnhildr_Gunhild Gurli Guğrun_Gudrun Gyla Gyriğ Gyğa_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjerğr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfriğ_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfriğ_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Şora_Thora Şordis_Thordis Şyra_Thyra
+			Aleta Alfhildr_Alfhild AlfriÃ°_Alfridh AlvÃ¶r Anna_Anna Asa_Ã…sa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid BjÃ¶rg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja GerÃ°r GloÃ° Grima Gunnhildr_Gunhild Gurli GuÃ°run_Gudrun Gyla GyriÃ° GyÃ°a_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inga Ingfrid IngibjÃ¶rg_Ingeborg IngjerÃ°r_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			MalmfriÃ°_Malmfrid Margareta_Margaret Maria_Maria Rikissa RÃ¶gnfriÃ°_Ragnfrid RÃ¶gnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Ãora_Thora Ãordis_Thordis Ãyra_Thyra
 		}
 
 		dukes_called_kings = yes
@@ -264,6 +264,491 @@ generic = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 
+		modifier = default_culture_modifier
+	}
+}
+
+g_germanic = {
+	germanic = {
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+			Baldemar Baldewin_Baldwin Berengar_Berengar Bernhard_Bernard Berthold Bruno Burchard Caspar Christopher_Christopher
+			Diether Dietmar Dietpold Dietrich_Thierry Dietwin Eberhard Eckhard Ehrenfried Eginolf Ekbert Emelrich_Aymeric Emich
+			Engelbrecht Erich_Erik Ernst_Ernest Ezzo Folkhard Folkmar Franz_Francis Friedrich_Frederick Gebhard Georg_George
+			Gerhard Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk Gotzelo Guntram GÃ¼nzel Hartmann Hartwig 
+			Heinrich_Henry Herbert Hermann_Herman Hesso Hugo_Hugh Humbert_Humbert Jakob_Jacob Johann_John Karl_Charles Karloman
+			Konrad_Konrad Kuno_Konrad Lambert_Lambert Leopold Lothar_Lothaire Ludolf Ludwig_Louis Luitpold Lutbert Magnus_Magnus
+			Manfred Markward Martin_Martin Mathias_Matthew Meinhard Michael_Michael Nikolaus_Nicholas Norbert Ordulf Otto_Otto
+			Peter_Peter Philipp_Philip Poppo Rudger_Roger Reinhard Rudolf Ruprecht_Robert Siegfried Sieghard Siegmund_Sigmund
+			Simon_Simon Stefan_Stephen Theodorich_Theodore Thietmar Thomas_Thomas Udo Ulrich_Ulrich Viktor Waldemar_Vladimir Walram
+			Walther_Walter Welf Wenzel_Vaclav Werner Widukind Wigerich Wilhelm_William Wolfgang Wolfram
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+			Barbara Beatrix_Beatrice Benedicta_Benedicta Berchte Berta Binhilde Brunhilde_Brunhilda Cecilie_Cecilia Cothilda_Clotilde Christine_Christina
+			Dorothea_Dorothy Elisabeth_Elisabeth Emma_Emma Engeltraud Ermengard_Ermengarde Eufemia Friedrica_Frederique Frida 
+			Gerberga_Gerberga Gerhild Gertrude_Gertrude Gisela_Gisela Gudrun_Gudrun Gunhilda_Gunhild Hedwig Heilwiva Heike Helene_Helen 
+			Helga Henrike Hildeburg Hildegard_Hildegard Ida_Ida Ilsa Inge_Inge Irmele Irmeltrud Irmgard_Ermengarde Isentrude
+			Judith_Judith Jutte Katharina_Catherine Karlotte Klara Klementia_Clementia Konstanze_Constance Kriemhild Kunigunde 
+			Luitgard Margarete_Margaret Maria_Maria Mathilde_Matilda Mechtild Oda Osterhild Richara_Ricarda Richenza Richwara Romilda 
+			Serhilda Sofie_Sophia Sybille_Sibylla Trude Ulrike Ursula Ute Walpurga Wilhelmina Winfrida Wulfhilde
+		}
+		
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	nordic = {
+		graphical_culture = norsegfx
+		
+		color = { 0.3 0.55 0.8 }
+		
+		# Ã 222 Ã¾ 254 Ã 208 Ã° 240 Ã¦
+		
+		male_names = {
+			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund ArnbjÃ¶rn Arngrimr Arni_Arne Arnfast AsbjÃ¶rn_AsbjÃ¶rn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil Birger BjÃ¶rn_Beorn Bo Borkvard Botulfr Bragi_Brage BuÃ°li
+			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek FroÃ°i_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim GuÃ°friÃ°_Godfrey GuÃ°mundr_Gudmund GuÃ°rÃ¶Ã°r_GudrÃ¶d Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Helgi_Helge
+			Hemming Holmger Hrafn Hrolfr_Rolf Hrane HÃ¦steinn Hjalmar_Hjalmar HroÃ°gar HroÃ°ulfr HrÃ¶rekr_Rurik Hysing Inge Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol KolbjÃ¶rn Magnus_Magnus Markus_Marcus 
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr RÃ¶gnvaldr_Ragnvald Skuli_Skule Snorri SigbjÃ¶rn Sigtrygg SigurÃ°r_Sigurd StarkaÃ°r_Starkad Steinn_Sten Sturla StyrbjÃ¶rn Styrkar Suni_Sune Sveinn_Sven
+			Sverker SÃ¦mundr_SÃ¤mund SÃ¶lvi_SÃ¶lve SÃ¶rkver Tjudmund_Tjudmund Toke_Toke Tolir ÃorbjÃ¶rn_TorbjÃ¶rn Ãorfinn_Torfinn Ãorbrandr_Torbrand Ãordr_Tord Ãorgil_Torkel Ãorsteinn_Torsten Ãorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Ã…ke Yngvar_Ingvar Ã–rvar_Orvar Ã–ysteinn_Eysteinn
+		}
+		female_names = {
+			Aleta Alfhildr_Alfhild AlfriÃ°_Alfridh AlvÃ¶r Anna_Anna Asa_Ã…sa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid BjÃ¶rg Bodil Bothildr_Bothild Cecilia_Cecilia
+			Edla Elin Elisabet_Elizabeth Freyja_Freja GerÃ°r GloÃ° Grima Gunnhildr_Gunhild Gurli GuÃ°run_Gudrun Gyla GyriÃ° GyÃ°a_Gytha Hafrid Halla Helena_Helen Holmfrid
+			Iliana Inga_Inga Ingfrid IngibjÃ¶rg_Ingeborg IngjerÃ°r_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
+			MalmfriÃ°_Malmfrid Margareta_Margaret Maria_Maria Rikissa RÃ¶gnfriÃ°_Ragnfrid RÃ¶gnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
+			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa Ãora_Thora Ãordis_Thordis Ãyra_Thyra
+		}
+		
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		
+		from_dynasty_prefix = "af "
+		
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+g_italic = {
+	italic = {
+		graphical_culture = southerngfx
+		second_graphical_culture = occitangfx # Fallback type
+		
+		color = { 0.8 0.7 0.2 }
+
+		male_names = {
+			Aemilian Aemilius Aetius Albinus Alexander_Alexander Anastasius_Anastasius Anicius Annius Antoninus Antonius_Antonius Arcadius Aurelian Aurelius
+			Avitus Belisarius_Belisarius Britannicus Caecilius Caesar_Caesar Carinus Carus Cassius Claudius Clementius Constans_Constans Constantine_Constantine
+			Constantius_Constantius Cornelius Crassus Decimus Decius Diocletian Domitian Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florian
+			Gaius Galerius Gallienus Gallus Germanus_Germanus Gordian Gracchus Gratian Hadrian_Adrian Herculius_Heracles Honorius Joannes_John Jovian
+			Julian_Julian Julius Julius-Caesar Junius Justin_Justin Justinian_Justinian Leo_Leo Leontius_Leontius Liberius Licinius Lucius Magnus_Magnus Marcellinus
+			Marcellus Marcian Marcus_Marcus Marinus Marius Martinus Maximian Maximinus Maximus_Maximus Nepotian Nerva Numerian Octavianus Octavius Otho
+			Paulinus Paulus_Paul Petronius Philip_Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus_Roman Romulus Rufinus Rutilius Sabinianus
+			Saturninus Sempronius Septimius Sergius_Sergius Severinus Severus Sextus Symmachus_Symmachus Tacitus Theodosius_Theodosios Tiberius_Tiberius
+			Titius Titus Trajan_Trajan Urbanus Valens Valentinian Valerian Valerius_Valerius Venantius Vespasian Victor Victorinus Vigilius Vitalianus Volusianus
+		}
+		female_names = {
+			Aelia Agrippina Antonia_Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia_Claudia Clementia Constantia_Constantia
+			Constantina_Constantina Cornelia Crispina Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria
+			Gordiana Hadriana_Adriana Helvia Hilara Honoria Hortensia Julia_Julia Juliana_Juliana Junia Justa Justina_Justina Justiniana Licinia Livia Livilla Lucilla
+			Magnia Magnilla Marcella Marcia_Marcia Marciana Marina Martina_Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
+			Octavia Palatina Paula_Paula Paulina_Paulina Petronella Petronia_Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria_Pulcheria
+			Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria_Valeria
+			Verina Victoria Vigilantia Viviana_Viviana
+		}
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	iberian = {
+		graphical_culture = southerngfx
+		
+		color = { 0.4 0.7 0.5 }
+
+		male_names = {
+			Alfonso_Alphonse Alonso_Alphonse Ãlvar_Oliver Ãlvaro_Oliver AndrÃ©s_Andrew Ansur Antonio_Antoninus Antonino_Antoninus Arias Artal_Artal Aurelio_Aurelius Aznar_Aznar BeltrÃ¡n_Bertrand Benito_Benedict Berenguel_Berengar Bernardo_Bernard Blasco_Vasco BosÃ³n_Boson Diego_Jacob Domingo_Dominic Enrique_Henry Esteban_Stephen Facundo Fadrique_Frederick
+			Felipe_Philip FernÃ¡n_Ferdinand Fernando_Ferdinand FlaÃ­n Fruela Galindo_Galindo GarcÃ­a_Garcia Gil_Egidius Gonzalo_Gonzalo Gundemaro GuillÃ©n_William Guillermo_William Gustio
+			Gutierre GuzmÃ¡n Hermenegildo Jacobo_Jacob Jaime_Jacob Jimeno_Simon Juan_John Juan-Alfonso_John-Alphonse JuliÃ¡n_Julian Lorenzo_Laurence Lope_Lupo Luis_Louis Manrique_Amalric Manuel_Manuel
+			MartÃ­n_Martin Menendo_Mendo Mendo_Mendo MuÃ±o_Munio NuÃ±o_Nuno Osorio OrdoÃ±o_Ordono Oveco Pedro_Peter Pelayo_Pelagius PiÃ±olo Ponce_Pons Raimundo_Raymond Ramiro_Ramiro RamÃ³n_Raymond Rodrigo_Roderick RomÃ¡n_Roman Rosendo Salvador_Salvador Sancho_Sancho
+			SebastiÃ¡n_Sebastian Tello_Tello Teobaldo_Theobald Vela Velasco_Vasco Vermudo_Vermudo
+		}
+		female_names = {
+			Adosinda Aldonza_Aldonza Alduara_Alduara Anderquina Andregoto Aragonta Argilo Arsenda_Arsenda Aurovita Ava Beatriz_Beatrice Benita Berenguela Blanca_Blanche BrÃ­gida_Brigid Constanza_Constance Corexia Cristina_Christina Dalia DueÃ±a Dulce_Douce Elvira Emilia_Emily Ermengarda_Ermengarde Ermesinda_Ermesinda Eslonza EstefanÃ­a_Stephania Eulalia Eva_Eva Eylo Fronilda_Fronilde Gaudiosa Godo Gontroda Gotina_Gotina Guina Guiomar InÃ©s_Agnes Isabel_Elisabeth Jimena Juana Juliana_Juliana Justa Leonor_Eleanor
+			Lopa_Lopa Mafalda Margarita_Margaret MarÃ­a_Maria Marina_Marine Marquesa Matrona
+			Mayor_Mayor MencÃ­a_Mencia Milia MuÃ±a MuÃ±adona_Mumadona Nicor NuÃ±adona Ã“nega Petronila_Petronilla Sancha_Sancha Sol Tegridia Teresa_Teresa Toda_Toda Urraca_Urraca
+			Usenda Varela Velasquita Viscavlara
+			Violante_Yolanda
+		}
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+
+}
+
+g_hellenic = {
+	graphical_culture = easterngfx
+	
+	hellenic = {
+		graphical_culture = byzantinegfx
+		
+		color = { 0.8 0.3 0.8 }
+
+		male_names = {
+			Adrianos_Adrian Akakios Alexandros_Alexander Alexios_Alexis Anastasios_Anastasius Anatolios Andreas_Andrew Andronikos_Andronicus Anthemios Anthimos Antiochos Antonios_Antonius Apollonios Arsenios Artemios Athanasios_Athanasius Bardas
+			Bartholomaios_Bartolomeus Basileios_Basil Belisarios_Belisarius Boethios Bosporios Christophoros_Christopher Chrysanthos Chrysogonos Damianos Daniel_Daniel David_David Demetrios_Demetrius Diogenes Dionysios_Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios_Eustace Evangelos Gabriel_Gabriel Gennadios Georgios_George Gerasimos Germanos_Germanus Gregoras_Gregory Gregorios_Gregory Hektorios Helias Herakleios_Heracles Hierotheos Himerios
+			Hippolytos Hypatios Iakobos_Jacob Ignatios_Ignatius Innokentios Ioannes_John Ioannikios Iordanes Ioseph_Joseph Isaakios Isaias Isidoros Ioulianos_Julian Ioustinianos_Justinian Ioustinos_Justin Kaisarios_Caesar
+			Kallinikos Kallistos Komitas Konstantinos_Constantine Konstantios_Constantius Konstas_Constans Kosmas_Cosmas Kyriakos Kyrillos_Cyril Kyros Laurentios_Laurence Lazaros Leon_Leo Leontios_Leontius Loukas Makarios Manuel Markos_Marcus
+			Matthaios_Matthew Maurikios Maximos_Maximus Megistos_Magnus Meletios Methodios Michael_Michael Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos_Nicholas Niphon Orestes Pamphilios Pankratios Pantoleon Paschalis
+			Pavlos_Paul Pelagios_Pelagius Petros_Peter Philaretos Philippos_Philip Philotheos Phokas Photios Polykarpos Porphyrios Prokopios_Procopius Pyrros Raphail Romanos_Roman Sabas Samuel_Samuel Serapion Sebastianos_Sebastian Sergios_Sergius Stephanos_Stephen
+			Staurakios Symeon_Simon Symmachos_Symmachus Theocharistos Theodoros_Theodore Theodosios_Theodosios Theodotos_Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas_Thomas Tiberios_Tiberius Traianos_Trajan
+			Timotheos Tryphon Valerios_Valerius Zacharias Zenobios Zenon
+		}
+		female_names = {
+			Adriane_Adriana Agathe_Agatha Agne_Agnes Aikaterine Alexandra Alexeia Anastasia_Anastasia Anna_Anna Anthe Anthousa Antipatra Antonia_Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea_Dorothy Aigidia Eirene_Irene Elaiodora Epiphania Eudokia_Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne_Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene_Helen Hypatia Ioanna_Joan Ioulia_Julia Iouliana_Juliana Ioustina_Justina Kale Konstantia_Constantia Konstantine_Constantina Kyra Kyriake
+			Leontia Margarita_Margaret Maria_Maria Markia_Marcia Martha_Martha Melissa_Melisende Nikarete Nikoletta Nonna Parthena Pavlina_Paulina Pelagia Petronia_Petronia Philippa_Philippa Phyllis Pulcheria_Pulcheria Rhodanthe Romane Romylia Sergia_Sergia Sibylla_Sibylla
+			Simonis Sophia_Sophia Stephania_Stephania Thekla Theochariste Theodora_Theodora Theodosia_Theodosia Theognosia Theoktiste Theophano Thomais Valeria_Valeria Viviana_Viviana Xene Zenobia Zoe
+		}
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 50
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+
+		modifier = default_culture_modifier
+	}
+}
+
+g_celtic = {
+	graphical_culture = westerngfx
+	celtic = {
+		graphical_culture = celticgfx
+		
+		color = { 0.3 0.5 0.4 }
+		
+		male_names = {
+			Alan_Alan Alar_Alaric Alor Alwen_Alwyn Andrev_Andrew Anton_Antoninus Aodred Arc'hantael Arnald_Arnold Arzhel Arzhur_Arthur Baldoen_Baldwin Beltram Benabic Bernez_Bernard Blaez_Blaise Bodognous Bran_Bran		Brendan Brevalaer Briac_Brian Brigacos Budoc Deniel_Daniel Derrien Devi_David Donan Drogon_Drogo Edern_Edyrn
+			Edouarzh_Edward Eon_John Eozen_Otto Erwan_Yves Everard Ewen Felix_Felix Fragan FraÃ±sez_Francis Gael_Judikael
+			Gallmau Gennovevs Girec Glen Govran Gralon Gregor_Gregory Guimarc'h Guyomarc'h Gwilherm_William Hamon Helori
+			Herri_Henry Heranal Hesdren HoÃ«l_Hugh Huiarnviu_Harvey Ilan Ildut Iocilin_Joscelin Iusti Jafrez_Godfrey Jakez_Jacob
+			Jalm Jaoua Jehan_John Jermen Jilberzh_Gilbert Jord_Jordan Jos Judikael_Judikael Kado_Cadoc Kadvalaer Kaourantin
+			Karadeg_Caradog Karlz_Charles Kavan Klaoda Konan_Conan Kongar Konwoion Koulizh Laorans_Laurence Leri Loeiz_Louis
+			Lukaz_Lucas Maelog Marrec Marzhin_Martin Mazhe_Matthew Meriadeg Mihael_Michael Morvan Neven Nikolaz_Nicholas Olier_Oliver
+			Padrig_Patrick Paol_Paul PÃªr_Peter Renan Riaged Riok Riwall Ronan Roparzh_Robert Samzun Seog_George Sian_John
+			Stefen_Stephen Tanet Treveur Tristan Tudual_Tewdwr Turtoualdus Urvod Vinsant_Vincent Vormvini Yann_John
+		}
+		female_names = {
+			Adela_Adela Alana Alis_Alice Andreva Annick_Anna Aouregan Aourell Argantlon Arzhela Avenie Azenor_Eleanor Aziliz_Cecilia
+			Beladora Berc'hed_Brigid Berthildis_Bertha Bleuzenn_Blodwen Brendana Deneza_Denise Deniela Drilego Ederna
+			Elara Elen_Helen Elena_Elaine Elesbed_Elisabeth Eliza_Elisabeth Enora Enougen Erwana_Yvonne Franseza Gaela
+			Gladez_Gwladys Gwenn_Gwen Hawiz_Hawise Heodez Hoela Izolde Janed_Joan Jenovefa Karidwen Katell_Catherine
+			Konstanza_Constance Kristen_Christina Laoransa Lara Levenez Loeiza_Louise Madenn Maela Marc'harit_Margaret
+			Mari_Maria Marzhina Matilin_Magdalena Mona Morganez_Morganna Morvana Nedeleg Nolwenn Nonn Oanez_Agnes
+			Padriga_Patricia Prostlon Rivanon_Rhiannon Ronana Rozenn Seva Sterenn Sulgwenn Tedvil Trifin Tristana Uriell
+			Youenna_Joan Ysabelle_Elisabeth
+		}
+		
+		dukes_called_kings = yes
+
+		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+	}
+}
+
+g_african = {
+	graphical_culture = muslimgfx
+	hamitic = {
+		graphical_culture = africangfx #arabicgfx
+		
+		color = { 0.1 0.6 0.1 }
+
+		male_names = {
+			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
+			Abianos_Abijah Abisalom Ablarion Abraam_Abraham Abu-Bakr_Abu-Bakr Adnan Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
+			Ahmad_Ahmad Akbar_Akbar Alam Ali_Ali Amr Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Asim
+			Athanasios_Athanasius Badr Bashir Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter Danyal_Daniel Dawlat Daâ€™oud_David
+			Ezra_Ezra Farhan Firuz Gabriâ€™el_Gabriel Georgios_George Ghiyasaddin Habil_Abel Hakam_Hakam Hammud Hanri_Henry Haroun_Aaron Hisham
+			Hussayn_Hussayn Ibrahim_Abraham Ilyas_Elijah Is'mail_Ismail Izzaddin Jalaaladdin Jawdat Jerjer_Gregory Kemaladdin Khalil Krystafer_Christopher
+			Latif Lot_Lothair Malik Matta_Matthew Mehtar Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Muammar Muhammad_Muhammad
+			Mukhtar Murad Murshid Musa_Moses Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim Sha'ban
+			Sharif Suhail Tadros_Theodore Tajaddin Tayyib Touma_Thomas Usama Walid Yahya_Yahya Yared Yassir Youkhanna_John Youssef_Joseph Zaia_Isaiah Zakariyah_Zachary
+		}
+		female_names = {
+			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima 
+			Jamila Khadija Majida Mariam_Maria Nabila Nura Radiya Rana Sacmis Safiya 
+			Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra_Zahra
+		}
+		
+		 
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+	
+	west_african = {
+		graphical_culture = westafricangfx
+		
+		color = { 0.45 0.45 0.2 }
+
+		male_names = {
+			Abi-Bakr Abubakari Akoi Alayaman Ali_Ali Ali-Fay Ali-Kolon Ali-Zalil BadÃ¤ Bakr Bakr-Kanbu Bamari Bankanu
+			Bannu Bassarou Bassi Birama Bisi Biyu Bonga Cisse Dankaran Daoud_David Dawud_David Demba Diara DÃ¼ru
+			Faga-Laye Fatta Fodi Fuluku FÃ¤dazu Gane Gao Hargani Harun Igoumou Ishaq_Isaac Ismail_Ismail Kabayo Kalabi Kambine
+			Kanafa Kassa KasseÃ¯ Kaya Kayna Kinkin Kisha Kodama KoÃ¯zÃ© Kukuray Kusoy Lahiltoul M'Bali Maammarou Maghan
+			Mahmud_Mahmud Majan Malla Mamadi Mamoudou Manding-Bory Mari-Djata MaÃ¿roumfa Missi-IzÃ© Morobani Musa_Moses
+			Nintasanay Nuh Ouali OuankoÃ¿ Ouati Reidja Sakoura Salman_Solomon Samsou-BÃ©ri Samsou-KeÃ¯na Sandaki Soumaba
+			Soumaoro Soundiata Sulayman_Solomon Takoi Tib Tomo_Thomas Tunka Umar_Umar Yama Yaqub_Jacob Yasiboy Zakoi Zenku
+		}
+		female_names = {
+			Adja Aichata Aissata Alima Aminata Amita Aoua Barakissa Bintou Deye Djeneba Djenly Djire Fadima
+			Fatim Fatoumata Halima Hawa Ina Kadi Kilia Kolonkan Lorane Mariam Nafissa NamandjÃ© Namiss Nana
+			Safiatou Salimata Sassouma SidibÃ© Siya Sogolon Tekhaye Youma ZeÃ¯nab
+		}
+
+		modifier = default_culture_modifier
+	}	
+}
+
+g_semitic= {
+	graphical_culture = easterngfx
+	semitic = {
+		graphical_culture = muslimgfx #arabicgfx
+		
+		color = { 0.3 0.95 0.3 }
+
+		male_names = {
+			Abdul-Azeem Abdul-Hamid Abdul-Lateef Abdul-Razzaq Abdul-Wahad Abdullah_Abdullah Adhid Adil Akab Ala'i Ali_Ali Amir Ashraf Aziz Bashar Boutros_Peter Da'ud_David Faisal
+			Fayiz Ghazi Hakam_Hakam Hamdan Hashmaddin Hussayn_Hussayn Ibrahim_Abraham Imamaddin Isa Is'mail_Ismail Ismat Jahan Jamil Kamran Khalid Khudayar Majid Mas'ud
+			Muaddam Muhammad_Muhammad Muhsin Mukhtar Murad Musa_Moses Muzaffar Muzaffaraddin Nasraddin Nuraddin Nuri Radhi Rasul Sa'ud Salahaddin Seyfullah Sharaf
+			Sirhan Taimur Tawfiq Umaya Wahid Yahya_Yahya Ya'qub_Jacob Yasar Youkhanna_John Zahir
+		}
+		female_names = {
+			Aisha Aziza Duha Farida Golbahar Gulnar Gulnaz Gulpari Hafsa Hasti Huma Ibtisam Jalila Kamala Karima Khandan Khaterah Khatira Kinah Lala Madiha Mahdokht
+			Mahsa Mahwash Marwa Mastana Mehri Mina Minoo Munawwar Muzhdah Nahal Najela Nasiba Nastaran Nazaneen Nazy Neelab Negar Niki Nikoo Noushin Rabiya
+			Rajiya Sadiya Salma Sitara Thana Zahra_Zahra Zuhayra
+		}
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		 
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+}
+
+g_iranian = {
+	graphical_culture = muslimgfx
+
+	iranian = {
+		graphical_culture = persiangfx
+
+		color = { 0.5 0.5 0.05 }
+
+		male_names = {
+			Abbas Abolhassan Afshar_Afshar Ahmad_Ahmad Akbar_Akbar Ali Allahyar Amin Anushirvan_Anushirvan Aram Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Assad Aurang Ayeshah Babak_Babak Bahman
+			Bahram_Bahram Bakhtiar_Bakhtiar Behrad Behrouz Bozorg Danush_Danush Darab Dariush_Darius Davud_David Djamasp Ebrahim_Abraham Ehsan Esfandiar_Esfandiar Eskander_Alexander Esma'il_Ismail Faramarz_Faramarz Faraz_Faraz Fareed_Farid Farhad_Farhad Fariborz_Fariborz
+			Farroukh_Farroukh Farrukhzad_Farrukhzad Farzad_Farzad Fath Ferdows_Ferdows Fereedun_Feridun Ghobad Gholam Godarz Goshtasb_Goshtasb Hafez Hassan_Hasan Hazarasp_Hazarasp Hedayat Hooshyar_Hooshyar Hormazd_Hormazd Hormoz Hossein_Hossein
+			Humayun Jahandar_Jahandar Jahangir_Jahangir Jahanshah_Jahanshah Jamshid_Jamshid Javeed_Javeed Kambiz Kamran Kavoos_Kavoos Keyghobad Keykhosrau_Keykhosrau Kharmandar_Kharmandar Khashayar_Khashayar Kavadh Khodadad_Khodadad Khosrau_Khosrau
+			Khudayar_Khudayar Khurshid_Khurshid Kurush_Cyrus Mahmud Manuchihr_Manuchihr Manushihr_Manushihr Marzuban_Marzuban Mashad_Mashad Maziar Mehrab Mehrzad Mohammed_Muhammad Morad_Morad Morteza Mozaffar Nard Naveed Nawid Nezam Parviz Pashang_Pashang Peroz_Peroz
+			Pujman Reza Rostam_Rostam Ruhollah Sadri Salman Shahab_Shahab Shahbaz_Shahbaz Shahin_Shahin Shahram_Shahram Shahrokh_Sharokh Shahruz_Shahruz Shahryar_Shahryar Shapur_Shapur Shayan_Shayan Sina Tahmasb_Tahmasb Vahhab_Vahhab Vahid
+			Vali Vandad Varshasb_Varshasb Vishtasb_Vishtasb Yazdegerd Yousef_Joseph Zahak Zakaria Zand Zartosht_Zartosht Zia
+		}
+		female_names = {
+			Afsaneh Ahu Arghavan Azarmidokht Asa Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva
+			Furuzan Ghamze Ghazal Ghoncheh_Ghoncheh Golbahar_Golbahar Golnaz_Golnaz Golpari Golshan Hamdam Hurmat Irandokht Jamileh Javaneh Leila Mahdokht Mahtab Mariam_Mariam
+			Navvaba Nazgol_Nazgol Nazilla Noor Parvaneh_Parvaneh Parvin Pertevniyal Pourandokht_Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh Shirin Soraya Touran
+			Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh
+		}
+		
+		 
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+}
+
+g_slavic = {
+	graphical_culture = easterngfx
+	slavic = {
+		graphical_culture = westernslavicgfx
+		
+		color = { 0.5 0.3 0.3 }
+
+		male_names = {
+			Aldimir Asen Berbat Blaz_Blaise Boleslav Borna Branimir Budimir Kosmin Danilo_Daniel Djordje_George Dmitar Dobroslav Dragija Dragos Dragutin Gavrilo_Gabriel Godimir Goran
+			Grgur Ilija Ivan_John Josif_Joseph Josip_Joseph Jovan_John Kasjan Konstantin_Constantine Krsto Lazar Ljudevit Luka Marko_Marcus Martin_Martin Matija_Matthew Mihailo Mihovil Milorad Milutin Mircea Miroslav_Miroslav Mislav Nenad Nikodim_Nicodemus Nikola_Nicholas
+			Ninoslav Petar_Peter Porin Prvoslav Radoslav Rastko Ratomir Roman_Roman Serapion Simeon_Simon Sinisa Slavko Slobodan Stefan_Stephen Teodosije Trajan Uros Visarion Vladimir_Vladimir Vladislav_Vladislav Vlastimir
+			Vuk_Lupo Vukan Vukasin Vukoman Zoran Zvonimir
+		}
+		female_names = {
+			Agata_Agatha Barbara Branimira Desislava Dubravka Elena_Helen Hicela Jelena Karolina Keratza Lovorka Marija_Maria Milka Neda Radica Zdenka Andjela Antonija
+			Bastina Biljana Bistrina Bojana Casna Chasna Dejana Dragana Dragoslava Duga Dusica Gordana Grana Grubana Jagoda Jovana Jovanka Karika
+			Ljubica Luka Majka Malina Medeni Meki Milinka Miljana Miriti Mirjana Mudary Mudra Nada Nadanje Namena
+		}
+		
+		modifier = default_culture_modifier
+	}
+}
+
+g_altaic = {
+	graphical_culture = muslimgfx
+	altaic = {
+		graphical_culture = mongolgfx
+		horde = yes
+		
+		color = { 0.775 0.5 0.15 }
+
+		male_names = {
+			Abagha Achigh Aguchu Ajai Ajinai Akhutai Alagh Alchi Alchidai Altan Ambaghai Arkhai Arasen Babur Badai Bagaridai Bala Barghujin Bartan Batu Bedugun Begter Belgutei
+			Belgunutei Bilge Berke Bodonchar Bogen Bogorchu Bolkhadar Borjigidai Boroghul Bughu Bugidai Bugunutei Bujeg Bukha Bulughan Buri Burkhan Burundai Chagatai Chaghagan Chanai Chigu
+			Chidukhul Chilagun Chiledu Chormakhan Chulgetei Dagun Daritai Dayir Dodai Duua Eljigedei Ghazan Ghunan Guchu Gughlug Guyug Harghasun Horkhudagh Hulegu Husun Inalchi Inancha Iturgen 
+			Jajiradai Jamugha Jebe Jochi Jurchedei Khabichi Khachi Khachigun Khadagh Khagatai Khaidu Khal Khorchi Khorilartai Khubilai Khudu Khutula Khuyildar Kogsegu Kokochu Megetu Megujin
+			Menggei Mongke Morokha Munglig Nakhu Narin Nayaga Nogai Odchigin Ogodei Okhotur Oljaitu Oronartai Shiraghul Shirgugetu Subetei Suyiketu Taghai Tamachi Targhutai Temuge Temujin Temur
+			Todogen Toghoril Toghtoga Tokhtamis Tolui Torolchi Tumen Uighurtai Ukhuna Usun Yedi Yegu Yeke Yesugei Yesunge Yokhunan Kadan Godan
+		}
+		female_names = {
+			Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin
+			Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun TÃ¶regene Yesugun Yesui Hoelun
+		}
+		
+		modifier = default_culture_modifier
+	}
+}
+
+g_ugric = {
+	graphical_culture = easterngfx
+
+	ugric = {
+		graphical_culture = ugricgfx
+		
+		color = { 0.3 0.7 0.7 }
+
+		male_names = {
+			Andyamo Chichayka Chumbulat Dergun Deryab Dobrinya Erziya Inzhay Kezhapa Kezhay Kezhedey Kezhevat Kichay Kubrat Malyaka Malyy Meltsayka Mordvinko Moksha
+			Nalka Nuyaksha Nuyanza Nuyat Ovtay Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka
+			Tyueykezhut Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Atyamas Azyren Chipaz Kardaz Kinyak Koshel Murunza Naruchad Nishkepaz Orunza Puresh Purysho 
+			Saksa Shkay Surt Tul Tunya Tutyra Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz
+		}
+		female_names = {
+			Anava Ashava Asrava Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
+			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nuyanza Nyal'ka Nyayka Olota Ordava Oshama Parava Pekshayka
+			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava
+			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
+			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Litova Mastorava Noroava
+		}
+		from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+}
+
+g_baltic = {
+	graphical_culture = easterngfx
+	baltic = {
+		graphical_culture = ugricgfx
+		
+		color = { 0.56 0.55 0.2 }
+
+		male_names = {
+			Algirdas Antanas Antavas Aras Arunas Azuolas Budrys Bukantas Butavas Butigeidis Butvydas Daugvilas Daumantas Dausprungas Dravenis Erdenis Erdvilas Gedigaudas
+			Gediminas Gedivilas Gintaras Gintautas Girdenis Irmantas Jaunutis Jogaila Jovirdas Kantibutas Karijotas Kesgaila Kestutis Korigaila Korybutas
+			Lasukas Lingvenis Liudas Lubartas Lutuveras Merkelis Mindaugas Minigaila Mantvydas Movkoldas Narimantas Povilas Pukuveras Rimantas 
+			Rimgaila Rimvydas Ringaudas Sarunas Skirgaila Songaila Svarnas Svitrigaila Tarvydas Tovtivilas Traidenis Treniotas Vainius Vaisvilkas Valimantas
+			Vidmantas Vingoldas Virmantas Visvaldis Vizgirdas Vykintas Vytautas Vytenis Zivinbudas Zygimantas 
+		}
+		female_names = {
+			Aldona Anele Audra Ausra Birute Dannila Danute Evalda Gaudimante Giedre Gintare Jevna Kenna Laima Mikova Roze Saule Svajone Vida
+		}
+		
+		modifier = default_culture_modifier
+	}
+}
+
+g_kartvelian = {
+	graphical_culture = easterngfx
+	kartvelian = {
+		graphical_culture = byzantinegfx
+		
+		color = { 0.6 0.3 0.8 }
+
+		male_names = {
+			Adarnase_Atrnerseh Aghsartan Aleksandre_Alexander Andronik_Andronicus Anzori Archili Ashot_Ashot Bagrat Bakur_Bagour Davit_David Demetre_Demetrius Demna Djavakhi Erekle_Heracles Gabrieli_Gabriel Gagiki_Gagik Giorgi_George Grigoli_Gregory Guaram_Guaram Gubaz
+			Gurgen_Lupo Iese Ioane_John Ishkhanik_Ishkhan Iveri Jarji Kaikhosro_Keykhosrau Kakhi Koba Konstantine_Constantine Kvarkvare Kvirike Levan_Leo Luarsab Malkhazi_Malkhas Mamia Merab Mikheil_Michael Mukhran Nerse_Narses Nikoloz_Nicholas Okhropir Orbeli
+			Padla Samoeli_Samuel Shanshe_Shahanshah Shota Simon_Simon Stepanoz_Stephen Sumbat_Smbat Teimuraz_Teimuraz Tornike_Tornik Ushisha Vache Vakhtang_Vakhtank Zurab Zviad
+		}
+		female_names = {
+			Ana_Anna Baia Bedisa Borena Chiora Chito Dali Dedika Duda Dzabuli Elene_Helen Eliso Endzela Gogutsa Gulchara Guliko Gulisa Gulvardi Guranduht_Gorandukht Gvantsa Ia Judjuna
+			Kekela Ketevan_Catherine Lamara Lamzira Lela Mariami_Mariam Mathiko Mthvarisa Mzekhar Natia Nino Rusudan Sanatha Shorena Shukhia Suliko
+			Tamari_Tamar Taplo Tinatini Tsiala Vardo
+		}
+		
 		modifier = default_culture_modifier
 	}
 }
